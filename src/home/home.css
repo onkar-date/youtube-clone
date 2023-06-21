@@ -1,14 +1,23 @@
 .wrapper {
-    display: flex;
+  display: flex;
 }
 .wrapper .sidebar-section {
-    width: 250px;
-    max-height: calc(100vh - 100px);
-    overflow-y: scroll;
+  width: 250px;
+  max-height: calc(100vh - 100px);
+  overflow-y: scroll;
 }
 
 .wrapper .main-content-section {
-    width: 100%;
+  width: 100%;
+  max-height: calc(100vh - 100px);
+  overflow-y: scroll;
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (max-width: 768px) {
+  .wrapper .sidebar-section {
+    width: 100px;
     max-height: calc(100vh - 100px);
     overflow-y: scroll;
+  }
 }

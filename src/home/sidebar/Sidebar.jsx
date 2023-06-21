@@ -53,7 +53,9 @@ const Sidebar = () => {
       {sections.map((section) => {
         return (
           <div className="section" key={section.id}>
-            {section.title && <h6>{section.title}</h6>}
+            {section.title && (
+              <h6 className="d-none d-md-block">{section.title}</h6>
+            )}
             {section.subSections.map((subSection) => {
               return (
                 <div
@@ -62,7 +64,9 @@ const Sidebar = () => {
                   onClick={() => selectCategory(subSection)}
                 >
                   {getIcon(subSection.icon)}
-                  <span className="item-name">{subSection.title}</span>
+                  <span className="d-none d-md-block item-name">
+                    {subSection.title}
+                  </span>
                 </div>
               );
             })}

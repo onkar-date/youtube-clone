@@ -32,7 +32,7 @@ export const Videos = () => {
         <Row>
           {videos.map((video, idx) => {
             return (
-              <Col key={idx} lg={3} sm={2} xs={1}>
+              <Col key={idx} lg={3} md={4} sm={6} xs={12}>
                 <VideoCard video={video} />
               </Col>
             );
