@@ -1,0 +1,14 @@
+.wrapper {
+    display: flex;
+}
+.wrapper .sidebar-section {
+    width: 250px;
+    max-height: calc(100vh - 100px);
+    overflow-y: scroll;
+}
+
+.wrapper .main-content-section {
+    width: 100%;
+    max-height: calc(100vh - 100px);
+    overflow-y: scroll;
+}

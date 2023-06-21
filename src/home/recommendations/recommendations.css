@@ -1,0 +1,11 @@
+.btn-item {
+    all: unset;
+    padding: 0.7rem;
+    background-color: #272727;
+    border-radius: 10px;
+    margin-right: 1rem;
+    &.active {
+        background-color: white;
+        color: black;
+    }
+}

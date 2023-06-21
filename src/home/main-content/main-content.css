@@ -1,0 +1,13 @@
+
+.main-content-wrapper {
+    position: relative;
+}
+.video-category {
+    position: sticky;
+    top: 0rem;
+    padding-top: 1rem;
+    padding-bottom: 0.7rem;
+    z-index: 99;
+    background-color: black;
+    width: 100%;
+}

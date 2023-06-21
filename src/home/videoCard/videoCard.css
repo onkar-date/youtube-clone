@@ -1,0 +1,13 @@
+.video-card {
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+
+.video-title {
+    font-weight: 700;
+}
+
+.channel-title {
+    color: gray;
+}
