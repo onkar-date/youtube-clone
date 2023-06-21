@@ -1,0 +1,16 @@
+BsLightningCharge;
+BsCollectionPlay;
+MdVideoLibrary;
+MdHistory;
+BsClock;
+BiLike;
+HiFire;
+BiShoppingBag;
+MdMusicNote;
+BiMoviePlay;
+BsBroadcast;
+SiYoutubegaming;
+BiNews;
+BsTrophyFill;
+BsLightbulb;
+GiHanger;

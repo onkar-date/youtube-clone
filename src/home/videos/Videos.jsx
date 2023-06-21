@@ -2,23 +2,29 @@ import React, { useEffect, useState } from "react";
 import { fetchFromAPI } from "./fetchFromAPI";
 import { Col, Container, Row } from "react-bootstrap";
 import { VideoCard } from "../videoCard/VideoCard";
+import { useDispatch, useSelector } from "react-redux";
+import {
+  fetchVideos,
+  selectFetchVideosError,
+  selectFetchVideosStatus,
+  selectVideos,
+} from "./videosSlice";
+import { ACTION_STATUS } from "../../shared/constants/status.constants";
 export const Videos = () => {
+  const dispatch = useDispatch();
+  const videos = useSelector(selectVideos);
+  const fetchVideosStatus = useSelector(selectFetchVideosStatus);
+  const fetchVideosError = useSelector(selectFetchVideosError);
   const [selectedCategory, setSelectedCategory] = useState("Trending");
-  const [videos, setVideos] = useState([]);
   useEffect(() => {
-    fetchFromAPI(`search?part=snippet&q=${selectedCategory}`)
-      .then((videos) => {
-        console.log(videos);
-        setVideos(videos.items);
-      })
-      .catch((err) => {
-        console.log(err);
-      });
+    if (fetchVideosStatus === ACTION_STATUS.IDLE) {
+      dispatch(fetchVideos(selectedCategory));
+    }
 
     return () => {
       console.log("destroyed");
     };
-  }, [selectedCategory]);
+  }, [dispatch, fetchVideosStatus, selectedCategory]);
 
   return (
     <div className="mt-4">
