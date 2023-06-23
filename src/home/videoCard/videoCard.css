@@ -1,13 +1,34 @@
 .video-card {
-    background-color: black;
-    color: white;
-    cursor: pointer;
+  background-color: black;
+  color: white;
+  cursor: pointer;
+  border-radius: 1rem;
+  &.watch-page {
+    height: 100px;
+    margin-bottom: 0.8rem;
+  }
 }
 
 .video-title {
-    font-weight: 700;
+  font-weight: 700;
 }
 
 .channel-title {
-    color: gray;
+  color: gray;
+}
+
+.search-page-item {
+  display: flex;
+}
+.video-thumb-section {
+  width: 25%;
+  margin-bottom: 2rem;
+}
+
+.video-detail-section {
+  padding-left: 1rem;
+}
+
+.filter-icon {
+  transform: rotate(90deg);
 }

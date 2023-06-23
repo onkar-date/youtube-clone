@@ -17,10 +17,11 @@ import React from "react";
 import { useDispatch, useSelector } from "react-redux";
 import { selectAllSections, setCategory } from "./sidebarSlice";
 import { fetchVideos } from "../videos/videosSlice";
+import { useNavigate } from "react-router-dom";
 const Sidebar = () => {
   const dispatch = useDispatch();
+  const navigate = useNavigate();
   const sections = useSelector(selectAllSections);
-  console.log(sections);
   const getIcon = (icon) => {
     return {
       AiFillHome: <AiFillHome />,
@@ -44,9 +45,9 @@ const Sidebar = () => {
   };
 
   const selectCategory = (subSection) => {
-    console.log(subSection);
     dispatch(setCategory({ subSection }));
     dispatch(fetchVideos(subSection.title));
+    navigate("/home/all");
   };
   return (
     <div>

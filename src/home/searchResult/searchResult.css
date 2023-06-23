@@ -1,0 +1,28 @@
+.filter-wrapper {
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid gray;
+}
+
+.filter-toggle {
+  all: unset;
+  border-radius: 2rem;
+  padding: 0.6rem;
+  &:hover {
+    background-color: #272727;
+  }
+}
+
+.filter-options {
+  margin-top: 1rem;
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  column-gap: 80px;
+  transition: all 1s ease;
+}
+
+.filter-options .section-name {
+  border-bottom: 1px solid gray;
+  padding-bottom: 1rem;
+  font-size: 0.8rem;
+  font-weight: 800;
+}

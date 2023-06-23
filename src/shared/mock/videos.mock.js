@@ -20723,3 +20723,4189 @@ export const SHORTS_VIDEOS_DATA = {
     },
   ],
 };
+
+export const WATCH_VIDEO_MOCK_odMuBLbWhTM = {
+  kind: "youtube#videoListResponse",
+  items: [
+    {
+      kind: "youtube#video",
+      id: "odMuBLbWhTM",
+      snippet: {
+        publishedAt: "2023-06-14T17:53:07Z",
+        channelId: "UC5eDiyFKURwCFAhOrA4wq-A",
+        title:
+          "Ovo BIZARNO Pravilo Kraljice Elizabete Je Kejt Midlton Prekršila",
+        description:
+          "Ne zaboravite da se subskrabujete na Trending I da lajkujete ovaj video :)\n\nSubskrajbujte se na naš drugi kanał Trending News ovde: https://www.youtube.com/channel/UCrVcWIpO7vXzzr8f28dZJ_Q\n\nEmail (business inquiries only): trendingnjuz@gmail.com\n\nPratite nas na Instagramu: https://www.instagram.com/trending.rs/",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/odMuBLbWhTM/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/odMuBLbWhTM/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/odMuBLbWhTM/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+          standard: {
+            url: "https://i.ytimg.com/vi/odMuBLbWhTM/sddefault.jpg",
+            width: 640,
+            height: 480,
+          },
+          maxres: {
+            url: "https://i.ytimg.com/vi/odMuBLbWhTM/maxresdefault.jpg",
+            width: 1280,
+            height: 720,
+          },
+        },
+        channelTitle: "TRENDING",
+        tags: [
+          "trending",
+          "idjtv",
+          "blic poligraf",
+          "k1 televizija",
+          "grand show",
+          "Prva rs",
+          "paparazzo lov",
+          "mondo rs",
+          "Zvezde granda",
+        ],
+        categoryId: "24",
+        liveBroadcastContent: "none",
+        localized: {
+          title:
+            "Ovo BIZARNO Pravilo Kraljice Elizabete Je Kejt Midlton Prekršila",
+          description:
+            "Ne zaboravite da se subskrabujete na Trending I da lajkujete ovaj video :)\n\nSubskrajbujte se na naš drugi kanał Trending News ovde: https://www.youtube.com/channel/UCrVcWIpO7vXzzr8f28dZJ_Q\n\nEmail (business inquiries only): trendingnjuz@gmail.com\n\nPratite nas na Instagramu: https://www.instagram.com/trending.rs/",
+        },
+        defaultAudioLanguage: "sr-Latn",
+      },
+      contentDetails: {
+        duration: "PT2M31S",
+        dimension: "2d",
+        definition: "hd",
+        caption: "false",
+        licensedContent: true,
+        contentRating: {},
+        projection: "rectangular",
+      },
+      statistics: {
+        viewCount: "9349",
+        likeCount: "276",
+        favoriteCount: "0",
+        commentCount: "19",
+      },
+    },
+  ],
+  pageInfo: {
+    totalResults: 1,
+    resultsPerPage: 1,
+  },
+};
+
+export const WATCH_VIDEO_MOCK_QCVMtrDz1w = {
+  kind: "youtube#videoListResponse",
+  items: [
+    {
+      kind: "youtube#video",
+      id: "-QCVMtrDz1w",
+      snippet: {
+        publishedAt: "2023-02-07T01:07:45Z",
+        channelId: "UCPLfrdK84czJXYf6QA7OW9A",
+        title:
+          "Best Soft Songs 2023 - Top 30 Acoustic Soft Songs 2023 - Soft Music Playlist",
+        description:
+          "Best Soft Songs 2023 - Top 30 Acoustic Soft Songs 2023 - Soft Music Playlist \nBest Soft Songs 2023 - Top 30 Acoustic Soft Songs 2023 - Soft Music Playlist  \nBest Soft Songs 2023 - Top 30 Acoustic Soft Songs 2023 - Soft Music Playlist  \n#CoverLagusantai #AkustikBaratTerbaik #DeLirik  \n[00:00:00] - 01 Someone You Loved\n[00:03:40] - 02 Easy On Me\n[00:07:16] - 03 Willow\n[00:10:02] - 04 Someone Like You\n[00:12:38] - 05 To Good At Goobyes\n[00:15:08] - 06 Perfect\n[00:19:22] - 07 Glimpse of Us - Joji\n[00:23:15] - 08 We Can't Stop\n[00:26:15] - 09 Heaven\n[00:29:55] - 10 Anti-Hero - Taylor Swift\n[00:33:09] - 11 2002 - Anne Marie\n[00:36:14] - 12 Attention\n[00:39:27] - 13 Before You Go\n[00:41:43] - 14 Here's Your Perfect\n[00:44:24] - 15 Hello\n[00:48:09] - 16 Ghost - Justin Bieber\n[00:50:51] - 17 Jar Of Hearts  \n[00:54:45] - 18 Kiss Me More\n[00:58:08] - 19 Memories - Maroon 5\n[01:01:15] - 20 Let It Be - The Beatles\n[01:05:28] - 21 Position\n[01:08:27] - 22 Stay - Justin Bieber\n[01:10:57] - 23 Shallow - Lady Gaga\n[01:14:20] - 24 Shape Of You - Ed Sheeran\n[01:17:23] - 25 Abcdefu\n[01:20:11] - 26 Comethru",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/-QCVMtrDz1w/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/-QCVMtrDz1w/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/-QCVMtrDz1w/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+          standard: {
+            url: "https://i.ytimg.com/vi/-QCVMtrDz1w/sddefault.jpg",
+            width: 640,
+            height: 480,
+          },
+          maxres: {
+            url: "https://i.ytimg.com/vi/-QCVMtrDz1w/maxresdefault.jpg",
+            width: 1280,
+            height: 720,
+          },
+        },
+        channelTitle: "Music Express",
+        tags: [
+          "acoustic songs",
+          "acoustic love songs",
+          "acoustic songs cover",
+          "acoustic love songs 2023",
+          "acoustic songs 2023",
+          "acoustic music",
+          "acoustic cover",
+          "acoustic guitar songs",
+          "best acoustic songs",
+          "best acoustic cover",
+          "English acoustic songs",
+          "old acoustic songs",
+          "greatest acoustic songs",
+          "best acoustic love songs",
+          "acoustic love songs 90s",
+          "love songs",
+          "top love songs cover",
+          "english love songs",
+          "acoustic",
+          "new love songs",
+          "acoutic song 2023",
+          "songs cover",
+          "guitar cover",
+          "guitar acoustic",
+        ],
+        categoryId: "22",
+        liveBroadcastContent: "none",
+        localized: {
+          title:
+            "Best Soft Songs 2023 - Top 30 Acoustic Soft Songs 2023 - Soft Music Playlist",
+          description:
+            "Best Soft Songs 2023 - Top 30 Acoustic Soft Songs 2023 - Soft Music Playlist \nBest Soft Songs 2023 - Top 30 Acoustic Soft Songs 2023 - Soft Music Playlist  \nBest Soft Songs 2023 - Top 30 Acoustic Soft Songs 2023 - Soft Music Playlist  \n#CoverLagusantai #AkustikBaratTerbaik #DeLirik  \n[00:00:00] - 01 Someone You Loved\n[00:03:40] - 02 Easy On Me\n[00:07:16] - 03 Willow\n[00:10:02] - 04 Someone Like You\n[00:12:38] - 05 To Good At Goobyes\n[00:15:08] - 06 Perfect\n[00:19:22] - 07 Glimpse of Us - Joji\n[00:23:15] - 08 We Can't Stop\n[00:26:15] - 09 Heaven\n[00:29:55] - 10 Anti-Hero - Taylor Swift\n[00:33:09] - 11 2002 - Anne Marie\n[00:36:14] - 12 Attention\n[00:39:27] - 13 Before You Go\n[00:41:43] - 14 Here's Your Perfect\n[00:44:24] - 15 Hello\n[00:48:09] - 16 Ghost - Justin Bieber\n[00:50:51] - 17 Jar Of Hearts  \n[00:54:45] - 18 Kiss Me More\n[00:58:08] - 19 Memories - Maroon 5\n[01:01:15] - 20 Let It Be - The Beatles\n[01:05:28] - 21 Position\n[01:08:27] - 22 Stay - Justin Bieber\n[01:10:57] - 23 Shallow - Lady Gaga\n[01:14:20] - 24 Shape Of You - Ed Sheeran\n[01:17:23] - 25 Abcdefu\n[01:20:11] - 26 Comethru",
+        },
+        defaultAudioLanguage: "en",
+      },
+      contentDetails: {
+        duration: "PT11H54M59S",
+        dimension: "2d",
+        definition: "hd",
+        caption: "false",
+        licensedContent: true,
+        regionRestriction: {
+          blocked: ["VN"],
+        },
+        contentRating: {},
+        projection: "rectangular",
+      },
+      statistics: {
+        viewCount: "416510",
+        likeCount: "1359",
+        favoriteCount: "0",
+        commentCount: "36",
+      },
+    },
+  ],
+  pageInfo: {
+    totalResults: 1,
+    resultsPerPage: 1,
+  },
+};
+
+export const CHANNEL_MOCK_UCPLfrdK84czJXYf6QA7OW9A = {
+  kind: "youtube#channelListResponse",
+  pageInfo: {
+    totalResults: 1,
+    resultsPerPage: 5,
+  },
+  items: [
+    {
+      kind: "youtube#channel",
+      id: "UCPLfrdK84czJXYf6QA7OW9A",
+      snippet: {
+        title: "Music Express",
+        description: "",
+        customUrl: "@eduardo62762",
+        publishedAt: "2011-02-08T09:30:23Z",
+        thumbnails: {
+          default: {
+            url: "https://yt3.ggpht.com/DduSSE3utqUA1_5GtXHBDzDtsW82FSPsUz1SiBYJStV7v-5YjTAk9WEHF1HdxNuxtUuYvwB1fcg=s88-c-k-c0x00ffffff-no-rj",
+            width: 88,
+            height: 88,
+          },
+          medium: {
+            url: "https://yt3.ggpht.com/DduSSE3utqUA1_5GtXHBDzDtsW82FSPsUz1SiBYJStV7v-5YjTAk9WEHF1HdxNuxtUuYvwB1fcg=s240-c-k-c0x00ffffff-no-rj",
+            width: 240,
+            height: 240,
+          },
+          high: {
+            url: "https://yt3.ggpht.com/DduSSE3utqUA1_5GtXHBDzDtsW82FSPsUz1SiBYJStV7v-5YjTAk9WEHF1HdxNuxtUuYvwB1fcg=s800-c-k-c0x00ffffff-no-rj",
+            width: 800,
+            height: 800,
+          },
+        },
+        localized: {
+          title: "Music Express",
+          description: "",
+        },
+      },
+      contentDetails: {
+        relatedPlaylists: {
+          likes: "",
+          uploads: "UUPLfrdK84czJXYf6QA7OW9A",
+        },
+      },
+      statistics: {
+        viewCount: "19728047",
+        subscriberCount: "108000",
+        hiddenSubscriberCount: false,
+        videoCount: "187",
+      },
+      brandingSettings: {
+        channel: {
+          title: "Music Express",
+          keywords:
+            '"acoustic songs" "popular songs" "acoustic songs cover" "acoustic cover" "acoustic love songs" "acoustic songs 2023" "acoustic cover of popular songs" "best acoustic songs" "greatest acoustic songs" "best acoustic cover" "songs cover" "english acoustic songs" "covers of popular songs" "acoustic covers of popular songs" "acoustic guitar covers of popular songs" "cover of popular songs" "acoustic love songs 2023" "acoustic guitar songs" "popular songs cover" acoustic "acoustic pop songs"',
+          unsubscribedTrailer: "KSgfZY2NPo8",
+        },
+      },
+    },
+  ],
+};
+
+export const SUGGESTED_VIDEOS_QCVMtrDz1w = {
+  kind: "youtube#searchListResponse",
+  nextPageToken: "CDIQAA",
+  pageInfo: {
+    totalResults: 108,
+    resultsPerPage: 50,
+  },
+  items: [
+    {
+      kind: "youtube#searchResult",
+      id: {
+        kind: "youtube#video",
+        videoId: "RPbP9s8uMtg",
+      },
+      snippet: {
+        publishedAt: "2023-05-19T09:35:39Z",
+        channelId: "UClDyGbwne_6931sB9YXizRw",
+        title:
+          "Eric Clapton ,Phil Collins, Air Supply, Bee Gees, Chicago, Rod Stewart - Best Soft Rock 70s,80s,90s",
+        description:
+          "Eric Clapton ,Phil Collins, Air Supply, Bee Gees, Chicago, Rod Stewart - Best Soft Rock 70s,80s,90s\nEric Clapton ,Phil Collins, Air Supply, Bee Gees, Chicago, Rod Stewart - Best Soft Rock 70s,80s,90s\nEric Clapton ,Phil Collins, Air Supply, Bee Gees, Chicago, Rod Stewart - Best Soft Rock 70s,80s,90s \nhttps://youtu.be/RPbP9s8uMtg",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/RPbP9s8uMtg/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/RPbP9s8uMtg/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/RPbP9s8uMtg/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+          standard: {
+            url: "https://i.ytimg.com/vi/RPbP9s8uMtg/sddefault.jpg",
+            width: 640,
+            height: 480,
+          },
+          maxres: {
+            url: "https://i.ytimg.com/vi/RPbP9s8uMtg/maxresdefault.jpg",
+            width: 1280,
+            height: 720,
+          },
+        },
+        channelTitle: "Soft Rock",
+        liveBroadcastContent: "none",
+        publishTime: "2023-05-19T09:35:39Z",
+      },
+    },
+    {
+      kind: "youtube#searchResult",
+      id: {
+        kind: "youtube#video",
+        videoId: "mz9-HtpGsuE",
+      },
+      snippet: {
+        publishedAt: "2023-06-16T07:04:15Z",
+        channelId: "UCPLfrdK84czJXYf6QA7OW9A",
+        title:
+          "Top Acoustic Songs 2023 Cover - Best Acoustic Cover of Popular Songs - Soft Acoustic Love Songs",
+        description:
+          "Top Acoustic Songs 2023 Cover - Best Acoustic Cover of Popular Songs - Soft Acoustic Love Songs \nTop Acoustic Songs 2023 Cover - Best Acoustic Cover of Popular Songs - Soft Acoustic Love Songs \nTop Acoustic Songs 2023 Cover - Best Acoustic Cover of Popular Songs - Soft Acoustic Love Songs #CoverLagusantai #AkustikBaratTerbaik #DeLirik   \n[00:00:00] - 01 Shallow - Lady Gaga\n[00:03:23] - 02 Perfect - Ed Sheeran\n[00:07:34] - 03 Send My Love -Adele\n[00:11:12] - 04 Lucky \n[00:14:23] - 05 Lemon Tree - Fools Garden\n[00:17:48] - 06 Always Remember Us This Way\n[00:21:03] - 07 When We Were Young - Adele\n[00:25:50] - 08 When You Say Nothing At All \n[00:30:00] - 09 Someone You Loved\n[00:32:47] - 10 You Broke Me First\n[00:35:35] - 11 You Are The Reason\n[00:38:49] - 12 When I Look At You - Miley Cyrus\n[00:42:01] - 13 I'm Yours - Jason Mraz\n[00:46:28] - 14 Girls Like You\n[00:49:53] - 15 Bad Habits - Ed Sheeran\n[00:53:37] - 16 Be Like That\n[00:56:46] - 17 Dusk Til Dawn\n[00:59:45] - 18 A Thousand Years \n[01:03:33] - 19 All of Me - John Legend\n[01:06:39] - 20 Late Night Talking \n[01:09:32] - 21 Let Me Down Slowly\n[01:12:18] - 22 Need You Now\n[01:16:00] - 23 Memories - Maroon 5\n[01:19:07] - 24 Please Forgive Me\n[01:24:03] - 25 Savage Love\n[01:26:39] - 26 We Can't Stop\nThanks For Watching!",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/mz9-HtpGsuE/default_live.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/mz9-HtpGsuE/mqdefault_live.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/mz9-HtpGsuE/hqdefault_live.jpg",
+            width: 480,
+            height: 360,
+          },
+          standard: {
+            url: "https://i.ytimg.com/vi/mz9-HtpGsuE/sddefault_live.jpg",
+            width: 640,
+            height: 480,
+          },
+          maxres: {
+            url: "https://i.ytimg.com/vi/mz9-HtpGsuE/maxresdefault_live.jpg",
+            width: 1280,
+            height: 720,
+          },
+        },
+        channelTitle: "Music Express",
+        liveBroadcastContent: "live",
+        publishTime: "2023-06-16T07:04:15Z",
+      },
+    },
+    {
+      kind: "youtube#searchResult",
+      id: {
+        kind: "youtube#video",
+        videoId: "uevZ6qqiCYo",
+      },
+      snippet: {
+        publishedAt: "2023-02-14T03:46:01Z",
+        channelId: "UCKRyxu8oCD3WB65Jp4aeP6g",
+        title:
+          "Boyce Avenue Greatest Hits Full Album | Best Songs Of Boyce Avenue",
+        description:
+          "Boyce Avenue Greatest Hits Full Album | Best Songs Of Boyce Avenue\nBoyce Avenue Greatest Hits Full Album | Best Songs Of Boyce Avenue\nBoyce Avenue Greatest Hits Full Album | Best Songs Of Boyce Avenue\nThanks for watching! Don't forget to SUBCRIBE, Like & Share my video if you enjoy it! Have a nice day!\n❤  Subcriber ❤ : https://bit.ly/1tgYE2h\n❤  Facebook ❤ : https://bit.ly/39nQGzN\n❤  Twitter      ❤ : https://goo.gl/96he64\n#boyceavenue, #boyceavenuegreatesthits, #boyceavenuegreatesthitsfullalbum, #bestofboyceavenue, #bestsongsofboyceavenue, #thebestofboyceavenue, #boyceavenueplaylis , #boyceavenuebesthits, #boyceavenuehits, #boyceavenuefullalbum, #boyceavenuealbum, #boyceavenuesongs, #boyceavenuebestsongs, #boyceavenuebestof, #boyceavenuetopsongs, #boyceavenuetophits, #top20boyceavenuesongs, #boyceavenuecollection, #boyceavenuegreatesthits2023, #boyceavenue2023,",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/uevZ6qqiCYo/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/uevZ6qqiCYo/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/uevZ6qqiCYo/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+          standard: {
+            url: "https://i.ytimg.com/vi/uevZ6qqiCYo/sddefault.jpg",
+            width: 640,
+            height: 480,
+          },
+          maxres: {
+            url: "https://i.ytimg.com/vi/uevZ6qqiCYo/maxresdefault.jpg",
+            width: 1280,
+            height: 720,
+          },
+        },
+        channelTitle: "Acoustic Playlist",
+        liveBroadcastContent: "none",
+        publishTime: "2023-02-14T03:46:01Z",
+      },
+    },
+    {
+      kind: "youtube#searchResult",
+      id: {
+        kind: "youtube#video",
+        videoId: "ufsGitfS75A",
+      },
+      snippet: {
+        publishedAt: "2023-02-28T16:29:23Z",
+        channelId: "UCU8Wqv1rJPWa3gfFHvDgTpA",
+        title:
+          "3 HOURS RELAXING GUITAR MUSIC - Deeply Relaxing Guitar Music For A Romantic And Restful Sleep",
+        description:
+          "3 HOURS RELAXING GUITAR MUSIC - Deeply Relaxing Guitar Music For A Romantic And Restful Sleep\n💿 Listen Everywhere\n→ Relaxing With Guitar Music : https://www.youtube.com/playlist?list=PL27tiZdtiDzxEwzYWvmriSIpnLnkskJxv\n_____________________________________________\n📃 Playlist:\n\n00:00:00 - 1. Beautiful in White\n00:04:02 - 2. You Are the Reason\n00:07:03 - 3. Apologize\n00:10:14 - 4. I DO\n00:14:29 - 5. Beautiful in White\n00:18:32 - 6. Nothing_s going to change my love for you\n00:22:22 - 7. I Will Always Love You\n00:26:14 - 8. See You Again\n00:30:14 - 9. Yesterday Once More\n00:30:14 - 10. Love Paradise\n00:33:25 - 11. How deep is your love\n00:38:08 - 12. Someone Like You\n00:42:48 - 13. Right Here Waiting \n00:46:49 - 14. Let Me Down Slowly Fixed\n00:50:10 - 15. Kiss the Rain\n00:54:21 - 16. It must have been love\n00:59:22 - 17. Perfect\n01:03:24 - 18. Beautiful in White\n01:06:25 - 19. You Are the Reason\n01:09:36 - 20. Apologize\n01:13:51 - 21. I DO\n01:17:54 - 22. Beautiful in White\n01:21:44 - 23. Nothing_s going to change my love for you\n01:25:36 - 24. I Will Always Love You\n01:29:36 - 25. See You Again\n01:29:36 - 26. Yesterday Once More\n01:32:47 - 27. Love Paradise\n01:37:30 - 28. How deep is your love\n01:42:10 - 29. Someone Like You\n01:46:11 - 30. Right Here Waiting \n01:49:32 - 31. Let Me Down Slowly Fixed\n01:53:43 - 32. Kiss the Rain\n01:58:44 - 33. It must have been love\n02:02:46 - 34. Perfect\n_____________________________________________\n\n🔔 Please Subscribe!\n→ https://www.youtube.com/channel/UCU8Wqv1rJPWa3gfFHvDgTpA?sub_confirmation=1\n\n🎸 About Guitar Melodies channel\nHere, you'll find a collection of guitar music pieces that have been carefully curated to take you back to the golden era of the 60s, 70s, and 80s. Each cover is expertly crafted to capture the essence of the era and bring it to life in a soulful and stirring way.\n\nIf you're looking for music that's perfect for relaxing and unwinding, or simply want to take a trip down memory lane, then this channel is for you. So, kick back, relax, and enjoy the nostalgic melodies that will transport you to a bygone era.\n\n_____________________________________________\n#guitarmelodies #guitarmusic #guitarromantic",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/ufsGitfS75A/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/ufsGitfS75A/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/ufsGitfS75A/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+          standard: {
+            url: "https://i.ytimg.com/vi/ufsGitfS75A/sddefault.jpg",
+            width: 640,
+            height: 480,
+          },
+          maxres: {
+            url: "https://i.ytimg.com/vi/ufsGitfS75A/maxresdefault.jpg",
+            width: 1280,
+            height: 720,
+          },
+        },
+        channelTitle: "Guitar Melodies",
+        liveBroadcastContent: "none",
+        publishTime: "2023-02-28T16:29:23Z",
+      },
+    },
+    {
+      kind: "youtube#searchResult",
+      id: {
+        kind: "youtube#video",
+        videoId: "278OdcGMBcc",
+      },
+      snippet: {
+        publishedAt: "2023-04-12T02:25:39Z",
+        channelId: "UCxlL_SIPDo5NWCDgJ0xT_YQ",
+        title:
+          "Best Chill Acoustic Love Songs Playlist 2023 ❤️ Soft Acoustic Cover  Popular Love Songs Of All Time",
+        description:
+          '🟢  Listen on Link\nhttps://magicmusic.lnk.to/theBestPop\n\nBest Chill Acoustic Love Songs Playlist 2023 ❤️ Soft Acoustic Cover  Popular Love Songs Of All Time\n\n🔔 If this music makes you happy , make sure to like ,subscribe & share it with others \n▽ Follow " Trendy Black " : https://www.youtube.com/@trendyblack9648/featured\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬ \n🔔 Thanks for watching! Have a nice day ! ❤️\n\n[00:00:00] - Let Her Go\n[00:03:22] - At My Worst\n[00:06:05] - Always Remember Us This Way\n[00:09:27] - Dusk Till Dawn\n[00:13:01] - Save Your Tears\n[00:16:06] - I Love You 3000\n[00:19:32] - abcdefu\n[00:22:50] - A Thousand Years\n[00:26:47] - Comethru\n[00:30:02] - Just Give Me A Reason\n[00:34:07] - Let Me Down Slowly\n[00:37:40] - Kings & Queens\n[00:40:37] - Dancing On My Own\n[00:43:53] - So Far Away\n[00:47:32] - Memories\n[00:50:39] - Shallow\n[00:53:56] - We Don\'t Talk Anymore\n[00:57:57] - You Broke Me First\n[01:01:01] - Senorita\n[01:04:14] - Takeaway\n\nAcoustic Songs Cover,Acoustic Love Songs Cover,acoustic songs 2023,new songs 2023,acoustic songs cover,acoustic cover, acoustic cover 2023, love songs 2023, guitar cover, acoustic songs, acoustic music, acoustic songs 2023,\nacoustic love songs 2023, acoustic songs 2023, acoustic music, acoustic cover, acoustic guitar songs, best acoustic songs,\nbest acoustic cover, English acoustic songs, old acoustic songs,acoustic cover, acoustic cover 2023, love songs 2023, guitar cover, acoustic songs, acoustic music, acoustic songs 2023, acoustic songs 2023, acoustic music 2023, acoustic music 2023, acoustic guitar cover, acoustic cover, guitar acoustic songs, guitar acoustic cover, best guitar cover, romantic guitar songs, new acoustic songs, ballad acoustic songs, english acoustic songs, english songs, english love songs, ballad english songs, ballad acoustic music, new english songs, love songs 2023, love songs 2023, cover of popular songs, acoustic cover of popular songs, top hits, tik tok love songs, tik tok, tik tok music, best love songs, sad love songs, chill music, chill, chill love songs, lofi, lofi love songs, love songs of all time, old love songs, acoustic old love songs, love songs 80s, love songs 90s, love songs 80s 90s, most popular love songs, love songs cover, songs cover, acoustic cover love songs, acoustic cover 2023, acoustic cover 2023, guitar cover 2023, english songs 2023, great acoustic songs, great love songs, acoustic love songs 2023, acoustic love songs, acoustic music cover, ballad acoustic cover, ballad guitar cover, beautiful love songs, new guitar cover, new acoustic cover, new acoustic love songs, top hits acoustic songs, guitar cover 2023, acoustic cover 2023, acoustic cover love songs 2023, love songs 2023, youtube, love songs tik tok, english acoustic music, english guitar songs, english ballad cover, english acoustic love songs, best acoustic songs, acoustic songs cover, new english love songs, acoustic music 2023, english guitar cover, guitar songs, acoustic guitar songs, best acoustic cover, English acoustic songs, old acoustic songs, greatest acoustic songs, best acoustic love songs, acoustic love songs 90s, love songs, best love songs cover, acoustic love songs 2023, sad acoustic songs, love songs 80s 90s lyrics, old love songs 80s 90s lyrics, classic love songs, top love songs, acoustic old love songs, greatest songs, ballad love songs, love songs playlist, acoustic guitar love songs, old love songs playlist, sweet love songs, memories love songs, best of love songs, acoustic, songs, hits, old songs, old english love songs, old beautiful love songs, old love songs with lyrics, 80s love songs, 90s love songs, nonstop love songs, romantic love songs, most love songs, greatest love songs, mellow love songs, falling in love, new love songs, acoustic cover with lyrics\n\nCopyright by Trendy Black. Do not reup!\nCopyright by Trendy Black. Do not reup!',
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/278OdcGMBcc/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/278OdcGMBcc/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/278OdcGMBcc/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+          standard: {
+            url: "https://i.ytimg.com/vi/278OdcGMBcc/sddefault.jpg",
+            width: 640,
+            height: 480,
+          },
+          maxres: {
+            url: "https://i.ytimg.com/vi/278OdcGMBcc/maxresdefault.jpg",
+            width: 1280,
+            height: 720,
+          },
+        },
+        channelTitle: "Trendy Black",
+        liveBroadcastContent: "none",
+        publishTime: "2023-04-12T02:25:39Z",
+      },
+    },
+    {
+      kind: "youtube#searchResult",
+      id: {
+        kind: "youtube#video",
+        videoId: "diPFMuHM8ec",
+      },
+      snippet: {
+        publishedAt: "2023-03-24T14:00:23Z",
+        channelId: "UCZMmNIhi0LTHXqJ1zqJ5PSw",
+        title: "24 Maret 2023",
+        description: "",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/diPFMuHM8ec/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/diPFMuHM8ec/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/diPFMuHM8ec/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+        },
+        channelTitle: "darma wan",
+        liveBroadcastContent: "none",
+        publishTime: "2023-03-24T14:00:23Z",
+      },
+    },
+    {
+      kind: "youtube#searchResult",
+      id: {
+        kind: "youtube#video",
+        videoId: "tf7VWiRbGRs",
+      },
+      snippet: {
+        publishedAt: "2022-03-18T13:32:57Z",
+        channelId: "UCgc00bfF_PvO_2AvqJZHXFg",
+        title:
+          "Boyce Avenue Acoustic Cover Love Songs/Wedding Songs Vol. 3 (Connie Talbot, Megan Nicole, Alex Goot)",
+        description:
+          "Watch Boyce Avenue’s Acoustic Cover Love Songs/Wedding Songs Vol. 3 (feat. Connie Talbot, Megan Nicole, Lia Marie Johnson and Alex Goot)\n\nStream Here: https://smarturl.it/BAacousticcovers\nMore Acoustic Covers: https://youtube.com/playlist?list=PL0BD69368AB943C89&playnext=1\nTickets + VIP Meet & Greets: http://smarturl.it/BATour\n\n- - - - - - - - - - - -\n\n00:00 Thinking Out Loud \n04:35 In Case You Didn’t Know\n08:20 Endless Love (feat. Connie Talbot)\n12:40 You And Me\n15:56 Right Here Waiting \n20:04 Wherever You Will Go\n23:27 (Everything I Do) I Do It For You (feat. Connie Talbot)\n27:36 Every Breath You Take \n31:17 Wonderful Tonight\n34:58 Stand By Me\n38:15 Now And Forever \n41:48 Heaven (feat. Megan Nicole) \n45:58 Collide \n50:09 This Year’s Love \n53:40 God Must Have Spent \n58:20 Latch (feat. Lia Marie Johnson) \n1:01:57 Only Girl (In The World) (feat. Alex Goot)\n1:05:52 Wicked Game \n1:09:02 I Will Always Love You \n\n- - - - - - - - - - - -\n\nWatch Boyce Avenue's acoustic cover love songs/wedding songs vol. 3, including collaborations with Connie Talbot, Megan Nicole, Lia Marie Johnson, and Alex Goot #lovesongs #weddingsongs #cover #thinkingoutloud #incaseyoudidntknow #endlesslove #youandme #rightherewaiting #whereveryouwillgo #everythingido #idoitforyou #everybreathyoutake #wonderfultonight #standbyme #nowandforever #heaven #collide #thisyearslove #godmusthavespent #latch #onlygirl  #wickedgame #iwillalwaysloveyou #boyceavenue #connietalbot #megannicole #liamariejohnson #alexgoot \n\n- - - - - - - - - - - -\n\n🔔 Subscribe & make sure to enable all push notifications! 🔔\n\nWatch more of our videos:\nAcoustic Covers: https://www.youtube.com/playlist?list=PL0BD69368AB943C89&playnext=1\nOriginal Music Videos: http://youtube.com/playlist?list=PLE592C5463BB7915E&playnext=1&index=1\nCover Collaborations: http://youtube.com/playlist?list=PLB0A54526DAB9CF4E&playnext=1&index=1\n\n- - - - - - - - - - - -\n\nBoyce Avenue:\nAlejandro Manzano (Lead Vocals, Acoustic Guitar, Piano): http://instagram.com/alejandroluismanzano \nFabian Manzano (Background Vocals, Electric Guitar): http://instagram.com/fabianmanzano\nDaniel Manzano (Background Vocals, Bass, Percussion): http://instagram.com/danielmanzano\n\nhttp://instagram.com/boyceavenue\nhttp://twitter.com/boyceavenue\nhttp://facebook.com/boyceavenue\nhttp://boyceavenue.com\n\n- - - - - - - - - - - -\n\nAudio & Video Produced by Boyce Avenue\nEngineered, Mixed & Mastered by Adam Barber\nOriginally Performed by Ed Sheeran, Brett Young, Lionel Richie, Diana Ross, Luther Vandross, Mariah Carey, Shania Twain, Lifehouse, Richard Marx, The Calling, Bryan Adams, The Police, Eric Clapton, Ben E. King, Howie Day, David Gray, N’sync, Sam Smith, Rihanna, Chris Isaak, Dolly Parton, Whitney Houston",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/tf7VWiRbGRs/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/tf7VWiRbGRs/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/tf7VWiRbGRs/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+          standard: {
+            url: "https://i.ytimg.com/vi/tf7VWiRbGRs/sddefault.jpg",
+            width: 640,
+            height: 480,
+          },
+          maxres: {
+            url: "https://i.ytimg.com/vi/tf7VWiRbGRs/maxresdefault.jpg",
+            width: 1280,
+            height: 720,
+          },
+        },
+        channelTitle: "Boyce Avenue",
+        liveBroadcastContent: "none",
+        publishTime: "2022-03-18T13:32:57Z",
+      },
+    },
+    {
+      kind: "youtube#searchResult",
+      id: {
+        kind: "youtube#video",
+        videoId: "P1inUXWyVoo",
+      },
+      snippet: {
+        publishedAt: "2022-01-24T00:02:38Z",
+        channelId: "UCGYd74QGEh7Bhu0GVtIZ6Fg",
+        title: "Sunset Bossa Nova - Best Pop Hits Covers 2022",
+        description:
+          "Subscribe to our channel! 👉 https://bit.ly/3ArZbHJ 🎧📻🎧📻🎧\nSunset Bossa Nova - Best Pop Hits Covers 2022\n00:00 I Fall Apart - @SarahMenescalOfficial \n03:39 More Than A Woman - Ituana\n06:37 On The Beach - Groove Da Praia, Shelly Sony & Luca Giacco\n10:08 Talking In Your Sleep (Bossa Nova Mix) - Ituana & Groove Da Praia\n13:57 The Lady In Red - The Cooltrane Quartet\n17:44 Take It Easy - Jamie Lancaster\n21:00 Missing - Herbie Garrett, Krister & Mayla Da Viola\n24:28 Portuguese Love – Amazonics, Apollinare Rossi & Julie Benson\n27:42 The Rhythm Of The Night - Groove Da Praia & Anakelly\n30:15 Little Lies - Luca Giacco\n32:15 One Of These Nights - James Farrelli & Ituana\n35:28 Love You Inside Out - Beluga's Trio & Shelly Sony\n39:11 Suedehead - Urban Love Feat. Luca Giacco\n42:10 Seven Days In Sunny June - Luca Giacco\n45:41 When The World Is Running Down - BossArt Ensemble, Os Alquimistas & Natascha\n48:44 Crazy - Celso Mendes & Lua\n52:27 True – The Moleskins, BossArt Ensemble & Brazilian Jazz Cuts\n56:32 Right Down The Line – Scubba & Dinah York\n59:46 Hold On My Heart - The Cooltrane Quartet Feat. Luca Giacco\n01:04:45 Hurts To Be In Love - Michelle Simonal\n01:07:22 Back Down South - Stereo Dub Feat. Karen Souza\n01:10:07 Reminiscing - Michelle Simonal\n01:12:25 Girls Like You - 48th St. Collective Feat. Nikki Ocean\n01:17:14 I've Been Losing You - Os Alquimistas, Luca Giacco & Anakelly\n01:20:26 Lucky – Michelle Simonal\n01:23:10 Every Rose Has Its Thorn - Dinah Eastwood\n01:27:40 Roads - Urban Love & Ivette Moraes\n01:30:32 The Sea - Amazonics\n01:34:02 Losing Grip - Stella Starlight Trio Feat. Cassandra Beck\n01:38:12 Oh L'Amour - Sarah Menescal\n01:41:17 Say Say Say - Eve St. Jones\n01:44:25 I Just Wanna Stop - Michelle Simonal\n01:46:48 More Than I Can Bear - Luca Giacco\n01:50:46 Our Day Will Come - Brazil XXI Feat. Sixth Finger\n01:53:29 Behind Blue Eyes - Amazonics Feat. Michelle Simonal\n01:57:33 It`s My Life - Ituana\n02:00:57 Cars And Girls - Groove Da Praia\n02:05:44 Cryin' - Sarah Menescal\n02:09:03 Sure Know Something - 48th St. Collective\n02:12:09 Cry For You - Cassandra Beck\n02:14:17 As - Natty Bong & Michelle Simonal\n02:17:30 Not Fade Away - Scubba & Michelle Simonal\n02:21:04 All The Love In The World - Amazonics\n02:23:44 Big In Japan - Banda Do Sul Feat. Isa\n02:28:05 What's Up - Sarah Menescal\n\n#SunsetBossanova #PopHits #Covers2022",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/P1inUXWyVoo/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/P1inUXWyVoo/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/P1inUXWyVoo/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+          standard: {
+            url: "https://i.ytimg.com/vi/P1inUXWyVoo/sddefault.jpg",
+            width: 640,
+            height: 480,
+          },
+          maxres: {
+            url: "https://i.ytimg.com/vi/P1inUXWyVoo/maxresdefault.jpg",
+            width: 1280,
+            height: 720,
+          },
+        },
+        channelTitle: "Playlists Kool",
+        liveBroadcastContent: "none",
+        publishTime: "2022-01-24T00:02:38Z",
+      },
+    },
+    {
+      kind: "youtube#searchResult",
+      id: {
+        kind: "youtube#video",
+        videoId: "4T7HwLGNiuw",
+      },
+      snippet: {
+        publishedAt: "2023-01-05T10:10:00Z",
+        channelId: "UCSX5Gk1UvlYWYyjeVZFnp-w",
+        title:
+          "Morning Vibes 🍀 Positive Feelings and Energy ~ Morning songs for a positive day",
+        description:
+          "Morning Vibes - Positive Feelings and Energy ~ Morning songs for a positive day\n\nWelcome to Chill Vibes! In this channel, we'll be providing you with upbeat and positive morning songs to help you start your day off on the right foot.\n\nStarting your day with positive energy is one of the best things you can do for your mental and physical health. In this playlist, we've compiled some of our favorite Morning Vibes songs with a positive vibe, to help you start your day on the right foot.\n\nHave a nice day with morning vibes songs\n\n\n🎵 | Music provided by Epidemic Pop: \n\nhttps://spoti.fi/3BJpDgo\n\n\n🎨 Artwork by Sam: \n\nhttps://www.instagram.com/little_sam137/\n\n\n🎧 Tracklist:\n\n00:00 Don't Waste My Time - Victor Lundberg\n03:12 I Did It All For You - Victor Lundberg\n06:10 Today Is a Good Day to Live - John T. Graham\n10:35 Think About You - Sture Zetterberg\n13:43 I'll Get Over You - Loving Caliber\n16:57 Homesick - Loving Caliber\n20:46 Grown Apart - Victor Lundberg\n24:00 Be Free with Me (Acoustic Version) - Siine\n27:04 I'm Gonna Let The Sunshine In Today - Loving Caliber\n30:08 Fed Up With Us - Loving Caliber\n33:18 I Bet You're Cold - Gamma Skies\n36:25 If You Go - Wildflowers\n39:49 Come Back To Love - Sture Zetterberg\n42:47 Even If the Sky Is Falling Down - Candelion\n45:31 Come To The Water - Go For Howell\n48:27 I Wish You Were Mine - Loving Caliber\n52:14 Get over You Again - Christine Smit\n55:36 Could Have Been Stardust - Sam Shore\n58:47 Best For You - Victor Lundberg\n1:02:29 Faster Car (Acoustic Version) - Loving Caliber\n1:06:14 All We Had Was Time - Bang Bang\n1:09:26 Baby Bye - Vicki Vox\n1:12:38 17 - Wildflowers\n1:16:38 All Day In Bed - Bang Bang\n1:19:38 All Those Things We Did Back Then - Wildflowers\n1:22:51 Fall into You - Houses On The Hill\n1:25:40 Rose In The Garden - Cody Francis\n1:28:59 It'll Be Alright - Cody Francis\n1:32:08 Just a Little Time - CLNGR\n1:34:47 Body to Body - Sture Zetterberg\n1:38:14 Ever Since We Kissed - Victor Lundberg\n1:42:22 Better without Me - Wildflowers\n1:45:24 Building Chemistry - Cody Francis\n1:48:36 Get to Know You - Cody Francis\n1:51:18 I'm Dreaming Of You - Candelion\n1:54:39 Showed Me How to Heal - Victor Lundberg\n\n\n\n#morningsongs \n#englishsongs\n#acousticsongs",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/4T7HwLGNiuw/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/4T7HwLGNiuw/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/4T7HwLGNiuw/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+          standard: {
+            url: "https://i.ytimg.com/vi/4T7HwLGNiuw/sddefault.jpg",
+            width: 640,
+            height: 480,
+          },
+          maxres: {
+            url: "https://i.ytimg.com/vi/4T7HwLGNiuw/maxresdefault.jpg",
+            width: 1280,
+            height: 720,
+          },
+        },
+        channelTitle: "Chill Vibes",
+        liveBroadcastContent: "none",
+        publishTime: "2023-01-05T10:10:00Z",
+      },
+    },
+    {
+      kind: "youtube#searchResult",
+      id: {
+        kind: "youtube#video",
+        videoId: "gNTFF9Zatj4",
+      },
+      snippet: {
+        publishedAt: "2022-10-24T17:29:32Z",
+        channelId: "UCFm4zM6-08kb9abXDk4fxXQ",
+        title: "Manhattan Lounge - Cool Music",
+        description:
+          "Subscribe to our channel! 👉 http://bit.ly/MB-subscription\nSpotify: https://open.spotify.com/playlist/06nm8FJLZGU9O0LRaNw6gu\nManhattan Lounge - Cool Music (4 Hours Background Music):\n01 00:00 A New Day - Bellestar, Urban Love, Tom Polo\n02 02:05 Follow You, Follow Me - Tom Polo, Urban Love\n03 04:09 Castle In The Sky - Von Mondo, Volpe\n04 07:14 Talk It Out (Meteadisco Mix) - Dual Sessions\n05 10:27 Hold On, We're Going Home (Urban Love Remix) - Francoise Sanders, Urban Love\n06 13:20 Wicked Game (Luxury Remix) - Ituana\n07 16:37 Magic (Deep Love Mix) - Urban Love\n08 19:25 Always Remember Us This Way (Extended Remix) - Roger Beck\n09 23:15 Ask - Dual Sessions, Style Project\n10 25:36 I Didn't Know I Was Looking For Love (Index Remix) - Eve St. Jones\n11 28:45 Radioactive (Krister Remix) - Dual Sessions\n12 32:34 Love Is In The Air (Bellestar Remix) - Urban Love, Bellestar\n13 35:47 Your Love (Bellestar Remix) - Dinah Eastwood, Bellestar\n14 38:32 Here Comes The Sun (Remix) - Sarah Menescal\n15 41:10 Grizzly Bear (Javier Penna Remix) - Os Digitalistas\n16 44:23 Can't Take My Eyes Off You - Natalie Renoir, Stereo Dub, Brazil XXI\n17 47:18 Don't Start Now - Bristol Love, Lee Avril\n18 51:02 Summertime - Jamaican Reggae Cuts\n19 54:34 Elder (Floating Away) - Bellestar, Klub Rider\n20 57:48 Starlight - Justo Spillmann\n21 01:00:44 I Ran (So Far Away) (Liongold Remix) - Dinah Eastwood\n22 01:03:51 West End Girls - Bellestar, Sixth Finger\n23 01:06:51 Daylight - Ronan, Dew\n24 01:10:45 Cuarzo - Lila Frascara\n25 01:14:04 Here Today, Gone Tomorrow (Positive Remix) - Banda Do Sul, Cherie Currie\n26 01:16:52 The Sweetest Taboo (Remix) - Scubba, Ivette Moraes, Ronan\n27 01:20:01 Wonderful Life (Klub Rider Remix) - Klub Rider, The Cooltrane Quartet\n28 01:24:02 The Night - Von Mondo, Volpe, Klub Rider\n29 01:27:21 Good For You (Krister Remix) - Style Project\n30 01:30:33 Hurts To Be In Love (Extended Club Remix) - Ronan, Michelle Simonal\n31 01:34:53 Let's Dance - Futurama, Dew\n32 01:39:15 I Put A Spell On You - Jamaican Reggae Cuts\n33 01:42:51 Master Blaster (Jammin’) - Natty Bong\n34 01:46:54 Alone (City 48 Mix) - Sixth Finger\n35 01:49:41 Oops!...I Did It Again (Wax Hero Rework) - Brazil XXI, Eve St. Jones\n36 01:52:47 Dance (Hills Mix) - Os Digitalistas\n37 01:55:46 Summer - Lee Avril, Style Project\n38 01:58:38 Love Will Tear Us Apart (Ronan Remix) - Bellestar, Ronan\n39 02:01:17 Escaping - Bellestar, Urban Love\n40 02:04:01 Sunny Road (Future Disco Mix) - Eve St. Jones, Dual Sessions\n41 02:06:49 Fast Car (Krister Remix) - Dual Sessions\n42 02:09:46 Need U (100�) (G-Spliff Remix) - Lila Liu\n43 02:12:07 Another Kind Of Love - Adrian Deno\n44 02:17:07 Homem Voador - United Rhythms Of Brazil\n45 02:20:21 Tape Loop - Ituana\n46 02:23:32 Your Love Is King (Ronan Remix) - Amazonics\n47 02:26:26 Watermelon Sugar (Javier Penna Remix) - Banda Do Sul, Natalie Renoir\n48 02:29:39 Under The Milky Way (Gs Remix) - Anakelly, G-Spliff\n49 02:33:11 Too Much Heaven (Wax Hero Remix Extended) - Dual Sessions, Natalie Renoir\n50 02:38:24 Lullaby - Freedom Dub\n51 02:41:44 He's The Greatest Dancer (Luxury Remix) - Ituana\n52 02:45:18 All The Good Girls Go To Hell - Lila Frascara\n53 02:48:32 Lovin' You (Astrovoid Remix) - Amazonics\n54 02:51:31 Seventh Heaven - Limelight Sound\n55 02:55:12 Space - Lee Avril, Style Project\n56 02:57:15 Groove Na Paz - United Rhythms Of Brazil, Dj Leao\n57 02:59:45 Tiny Dancer (Ronan Remix) - Urban Love, Dew\n58 03:03:49 Time After Time (Dataset Remix) - Sarah Menescal, Dataset\n59 03:07:21 Stranger In Moscow - Trippynova\n60 03:11:05 Friends - The Reggister's\n61 03:15:10 Knockin' On Heaven's Door - Sublime Reggae Kings\n62 03:17:53 Reggae - Vintage Reggae Soundsystem, Max Dubster\n63 03:20:44 Ironic - Pinky Dread, Vintage Reggae Soundsystem\n64 03:24:17 Smooth Operator - General Soundbwoy, Ivette Moraes\n65 03:28:26 Call Me - Sublime Reggae Kings, Pinky Dread\n66 03:31:12 The Sea (Reggae Version) - Amazonics\n67 03:34:47 Let's Spend The Night (Ronan Remix) - Adrian Deno\n68 03:38:04 Africa - Bristol Love, Shelly Sony\n69 03:41:08 Silver Dreams - Urban Love\n70 03:43:58 West 30 - Ama Lur, Dj Style\n71 03:46:43 Blew My Mind - Barbie Williams\n72 03:49:25 House - Tripssono, Space Afro, Lua\n73 03:52:06 Lovesong (Style Project Remix) - Roger Beck\n74 03:54:30 Melting Edge - Abril D'Sola\n75 03:57:17 We Grew Apart - Justo Spillmann\n\n#manhattan #lounge #music #cool \n\n#Rooftop93 #Ascent Lounge #Ophelia Lounge #48Lounge #Castell Rooftop Lounge #Ty Bar #Spring Lounge #TAO #The Skylark #Living Room",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/gNTFF9Zatj4/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/gNTFF9Zatj4/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/gNTFF9Zatj4/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+          standard: {
+            url: "https://i.ytimg.com/vi/gNTFF9Zatj4/sddefault.jpg",
+            width: 640,
+            height: 480,
+          },
+          maxres: {
+            url: "https://i.ytimg.com/vi/gNTFF9Zatj4/maxresdefault.jpg",
+            width: 1280,
+            height: 720,
+          },
+        },
+        channelTitle: "PMB Music",
+        liveBroadcastContent: "none",
+        publishTime: "2022-10-24T17:29:32Z",
+      },
+    },
+    {
+      kind: "youtube#searchResult",
+      id: {
+        kind: "youtube#video",
+        videoId: "mVx9G3_5Exc",
+      },
+      snippet: {
+        publishedAt: "2022-01-04T17:56:45Z",
+        channelId: "UCgc00bfF_PvO_2AvqJZHXFg",
+        title:
+          "Boyce Avenue Acoustic Cover Rewind 2021 (Bad Habits, Zombie, Stand By Me, Save Your Tears, Slide)",
+        description:
+          "Boyce Avenue's top acoustic covers from 2021, including Bad Habits, Zombie, Stand By Me, Save Your Tears, Slide, and more.\n\nStream Here: https://smarturl.it/BAacousticcovers\nMore Acoustic Covers: https://youtube.com/playlist?list=PL0BD69368AB943C89&playnext=1\nTickets + VIP Meet & Greets: http://smarturl.it/BATour\n\n🔔 Subscribe & enable all notifications🔔\n\n- - - - - - - - - - - -\n\n0:00 Wonderful Tonight\n3:39 Stand By Me\n6:55 Let It Be\n10:54 Now And Forever\n14:27 I Will Always Love You\n18:48 Zombie\n22:48 Don't Look Back In Anger\n27:46 One (ft. Jennel Garcia) \n32:02 I See Fire\n36:55 The Way It Is (ft. Alex Goot)\n40:47 Wicked Game\n43:58 Somewhere Only We Know (ft. Alex Goot)\n47:48 Everything You Want\n51:53 Breaking The Habit\n54:57 Slide\n58:37 Shape Of My Heart\n1:03:11 Save Your Tears\n1:06:47 Bad Habits\n1:10:34 California Dreamin' \n1:13:25 In Your Eyes\n1:18:16 Have Yourself A Merry Little Christmas\n\n- - - - - - - - - - - -\n\nWatch Boyce Avenue's top acoustic cover videos from 2021, including collaborations with Jennel Garcia & Alex Goot #Acoustic #Cover #2021 #BoyceAvenue #wonderfultonight #standbyme #letitbe #nowandforever #iwillalwaysloveyou #zombie #dontlookbackinanger #one #iseefire #thewayitis #wickedgame #somewhereonlyweknow #everythingyouwant #breakingthehabit #slide #shapeofmyheart #saveyourtears #badhabits #californiadreamin #inyoureyes #haveyourselfamerrylittlechristmas #acousticcover #coversongs #acousticsongs #coversong #topcovers\n\n- - - - - - - - - - - -\n\nWatch more of our videos:\nAcoustic Covers: https://youtube.com/playlist?list=PL0BD69368AB943C89&playnext=1\nOriginal Music Videos: http://youtube.com/playlist?list=PLE592C5463BB7915E&playnext=1&index=1\nCover Collaborations: http://youtube.com/playlist?list=PLB0A54526DAB9CF4E&playnext=1&index=1\n\n- - - - - - - - - - - -\n\nBoyce Avenue:\nAlejandro Manzano (Lead Vocals, Acoustic Guitar, Piano): http://instagram.com/alejandroluismanzano \nFabian Manzano (Background Vocals, Electric Guitar): http://instagram.com/fabianmanzano\nDaniel Manzano (Background Vocals, Bass, Percussion): http://instagram.com/danielmanzano\n\nhttp://instagram.com/boyceavenue\nhttp://twitter.com/boyceavenue\nhttp://facebook.com/boyceavenue\nhttp://boyceavenue.com\n\n- - - - - - - - - - - -\n\nAudio & Video Produced by Boyce Avenue\nEngineered, Mixed, Mastered by Adam Barber\nFilmed, Edited, & Colored by Adam Barber & Boyce Avenue\nOriginally Performed by Eric Clapton, Ben E. King, The Beatles, Richard Marx, Dolly Parton, Whitney Houston, The Cranberries, Oasis, U2, Mary J. Blige, Ed Sheeran, Bruce Hornsby & The Range, Chris Isaak, Keane, Vertical Horizon, Linkin Park, The Goo Goo Dolls, Sting, The Weeknd, The Mama's & The Papa's, José Feliciano, Peter Gabriel, Judy Garland, Frank Sinatra, Michael Bublé, Coldplay, Brian McKnight, Sam Smith, Kelly Clarkson, James Taylor, Martina McBride, John Legend, Josh Groban",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/mVx9G3_5Exc/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/mVx9G3_5Exc/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/mVx9G3_5Exc/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+          standard: {
+            url: "https://i.ytimg.com/vi/mVx9G3_5Exc/sddefault.jpg",
+            width: 640,
+            height: 480,
+          },
+          maxres: {
+            url: "https://i.ytimg.com/vi/mVx9G3_5Exc/maxresdefault.jpg",
+            width: 1280,
+            height: 720,
+          },
+        },
+        channelTitle: "Boyce Avenue",
+        liveBroadcastContent: "none",
+        publishTime: "2022-01-04T17:56:45Z",
+      },
+    },
+    {
+      kind: "youtube#searchResult",
+      id: {
+        kind: "youtube#video",
+        videoId: "CYFKL_ta7rA",
+      },
+      snippet: {
+        publishedAt: "2019-11-06T15:40:34Z",
+        channelId: "UCh9fkStU7pQxJMQsmadxEWA",
+        title:
+          "Acoustic 2019 | The Best Acoustic Covers of Popular Songs 2019 (Boyce Avenue)",
+        description:
+          "Best of Acoustic Songs, Covers. Boyce Avenue 2019\n\nDon't forget to SUBSCRIBE, Like & Share my video!\n\nPhotograph - 0:00\nToo Good At Goodbyes - 4:24\nWe Can't Stop - 7:53\nA Thousand Years - 11:39\nHeaven - 16:07\nPerfect - 20:16\nMirrors - 23:39\nRise - 28:33\nWhen  I Was Your Man - 31:49\nTime After Time - 35:33 \nDemons - 39:17\nThinking Out Loud - 42:13\nSay  You Won't Let Go - 46:49\nSay Something - 50:20\nSuperman - 53:59\nIn Case You Didn't Know - 57:11\nDespacito - 1:00:50\nSee You Again - 1:04:04\nThe Middle - 1:08:29\nMirrors - 1:11:31\nIn Case You Didn't Know - 1:16:29\nMalibu Nights - 1:20:08\nWhen I Was Your Man - 1:23:57\nAttention - 1:27:32\nEvery Breath You Take - 1:30:59\n\nListen to brave browser so there are no ads or they will pay you if you enabled ads! Download it here:\nhttps://brave.com/mus888\n\nGadgets used in editing:\nXiaomi Redmi: https://invol.co/cl351e4\nPeripherals:\nXitrix Gaming Monitor: https://invol.co/cl35uqg\n\nI do not own the music, images used in the video. This video is purely fan-made, if you (owners) want to remove this video, please CONTACT US first before doing anything. We will respectfully remove the video.. \nemail: 18music.lovers@gmail.com\n\nThank you very much! have a wonderful day, always!\n\n#Acoustic #BoyceAvenue #Cover #BestAcoustic #Acoustic2019 #PopularSongs",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/CYFKL_ta7rA/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/CYFKL_ta7rA/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/CYFKL_ta7rA/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+          standard: {
+            url: "https://i.ytimg.com/vi/CYFKL_ta7rA/sddefault.jpg",
+            width: 640,
+            height: 480,
+          },
+          maxres: {
+            url: "https://i.ytimg.com/vi/CYFKL_ta7rA/maxresdefault.jpg",
+            width: 1280,
+            height: 720,
+          },
+        },
+        channelTitle: "Music Lovers",
+        liveBroadcastContent: "none",
+        publishTime: "2019-11-06T15:40:34Z",
+      },
+    },
+    {
+      kind: "youtube#searchResult",
+      id: {
+        kind: "youtube#video",
+        videoId: "Z3E5PGGZk_k",
+      },
+      snippet: {
+        publishedAt: "2023-04-13T15:47:39Z",
+        channelId: "UCSX5Gk1UvlYWYyjeVZFnp-w",
+        title:
+          "Good Vibes 🍀 Comfortable songs to make you feel better ~ Chill music playlist",
+        description:
+          "Good Vibes 🍀 Comfortable songs to make you feel better ~ Chill music playlist\n\nHello everyone!~ Welcome to Chill Vibes  @chillvibesplaylist \n\nStarting your day with positive music is a great way to start your day off on the right foot. In this video, I've compiled a chill muisc playlist of morning songs that will help you feel positive and inspired.\n\nWhether you're a morning person or not so much, these comfortable songs will help you get into the positive mindset that will help you start your day off on the right foot! Whether you're looking for something to listen to on your way to work or just to boost your mood before starting your day, these positive songs are perfect for you!\n\n\n🎵 | Music provided by Epidemic Pop: \n\nhttps://spoti.fi/3BJpDgo\n\n\n🎨 Artwork by Sam: \n\nhttps://www.instagram.com/little_sam137/\n\n\n► Help us get 100.000 subscribers: https://www.youtube.com/channel/UCSX5Gk1UvlYWYyjeVZFnp-w?sub_confirmation=1\n\n\n🎧 Tracklist:\n\n00:00 Don't Waste My Time - Victor Lundberg\n03:12 Homesick - Loving Caliber\n07:00 Even If the Sky Is Falling Down - Candelion\n09:42 That's How You Know That You're In Love - Loving Caliber\n12:58 Baby Bye - Vicki Vox\n16:10 17 - Wildflowers\n20:09 Today Is a Good Day to Live - John T. Graham\n24:33 Be Free with Me (Acoustic Version) - Siine\n27:36 Days of Silence - Las Lunas\n30:52 There's a New Day - Staffan Carlen\n34:11 Sweet Baby - Bothnia\n37:12 Deep and Abiding - Victor Lundberg\n40:10 All We Had Was Time - Bang Bang\n43:22 All Day In Bed - Bang Bang\n46:22 All Those Things We Did Back Then - Wildflowers\n49:34 Think About You - Sture Zetterberg\n52:41 Without Her - Wildflowers\n56:08 As Long as I've Got You - Frigga\n59:58 Come Back To Love - Sture Zetterberg\n1:02:57 Loving This Moment - Gamma Skies\n1:06:18 Test Of Time - Sture Zetterberg\n1:09:10 Get over You Again - Christine Smit\n1:12:31 Ball And Chain - Bird Of Figment\n1:15:45 Fed Up With Us - Loving Caliber\n1:18:54 Let Us Run Away - Loving Caliber\n1:22:11 In Love - Gamma Skies\n1:24:57 Could Have Been Stardust - Sam Shore\n1:28:07 Something Different - CLNGR\n1:31:33 Baby Without You - Loving Caliber\n1:34:58 Body to Body - Sture Zetterberg\n1:38:25 Not as Cool as You Think - Mindme\n1:41:59 When I Really Come Alive - Wildflowers\n1:45:26 I'll Get Over You - Loving Caliber\n1:48:40 Lines In The Sand - Victor Lundberg\n1:51:58 I Did It All For You - Victor Lundberg\n1:54:55 Can You Feel Me (Acoustic Version) - Love Beans\n\n\nContact Info:\n» Email: maiquan@unitymediavn.com \n\n#chillmusic \n#englishsongs\n#morningsongs",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/Z3E5PGGZk_k/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/Z3E5PGGZk_k/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/Z3E5PGGZk_k/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+          standard: {
+            url: "https://i.ytimg.com/vi/Z3E5PGGZk_k/sddefault.jpg",
+            width: 640,
+            height: 480,
+          },
+          maxres: {
+            url: "https://i.ytimg.com/vi/Z3E5PGGZk_k/maxresdefault.jpg",
+            width: 1280,
+            height: 720,
+          },
+        },
+        channelTitle: "Chill Vibes",
+        liveBroadcastContent: "none",
+        publishTime: "2023-04-13T15:47:39Z",
+      },
+    },
+    {
+      kind: "youtube#searchResult",
+      id: {
+        kind: "youtube#video",
+        videoId: "zMSzyVvHkBw",
+      },
+      snippet: {
+        publishedAt: "2022-10-08T11:07:07Z",
+        channelId: "UCByP6n9Pq1fjiNwnn9BNK8g",
+        title:
+          "Love Songs Of The 70s, 80s, 90s 💖 Best Old Beautiful Love Songs 70s 80s 90s 💖Best Love Songs Ever",
+        description:
+          "Love Songs Of The 70s, 80s, 90s 💖 Best Old Beautiful Love Songs 70s 80s 90s 💖Best Love Songs Ever\nhttps://youtu.be/zMSzyVvHkBw\n#Lovesongs, #lovesong, #loveduets\nIf you like it, share and contribute more ideas about music. Don't forget to subscribe to my Music Play channel. Thank you so much!\nWe really love this music and want to share it with everyone.\n.................................................. ..................................\n▶ The advertisements in the video are due to the copyright holder automatically placed on YouTube. I have no right to interfere with him.\nSorry if this affects you!\n▶ I made this video just out of love and passion, I want to share it with everyone to enjoy these wonderful songs.\n▶ I have no property in this video. If there is a copyright dispute, please let me know by mail below.\nEmail : Contact@crown-media.vn\nTag : \nlove songs 2020,best love songs 2020,love song 2020,love song,best love song,love songs,best love songs,romantic song,romantic songs,collection love songs,love songs ever,english love songs,best songs 2020,best song 2020,2020 love songs,romantic love songs 2020,best love songs of all time,love songs playlist,romantic songs 2020,love songs collection,best english love songs 2020,love songs 2020 playlist,opm love songs 2020,beautiful love songs 2020",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/zMSzyVvHkBw/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/zMSzyVvHkBw/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/zMSzyVvHkBw/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+          standard: {
+            url: "https://i.ytimg.com/vi/zMSzyVvHkBw/sddefault.jpg",
+            width: 640,
+            height: 480,
+          },
+          maxres: {
+            url: "https://i.ytimg.com/vi/zMSzyVvHkBw/maxresdefault.jpg",
+            width: 1280,
+            height: 720,
+          },
+        },
+        channelTitle: "Music Play",
+        liveBroadcastContent: "none",
+        publishTime: "2022-10-08T11:07:07Z",
+      },
+    },
+    {
+      kind: "youtube#searchResult",
+      id: {
+        kind: "youtube#video",
+        videoId: "Ji1EI-itIs4",
+      },
+      snippet: {
+        publishedAt: "2021-02-04T18:34:22Z",
+        channelId: "UCgc00bfF_PvO_2AvqJZHXFg",
+        title:
+          "Boyce Avenue Acoustic Cover Love Songs/Wedding Songs (Connie Talbot, Jennel Garcia, Hannah Trigwell)",
+        description:
+          "Watch Boyce Avenue’s Acoustic Cover Love Songs/Wedding Songs (feat. Connie Talbot, Jennel Garcia, and Hannah Trigwell)\nStream Here: https://smarturl.it/BAacousticcovers\nMore Acoustic Covers: https://youtube.com/playlist?list=PL0BD69368AB943C89&playnext=1\nTickets + VIP Meet & Greets: http://smarturl.it/BATour\n\n- - - - - - - - - - - -\n\n0:00 Say You Won’t Let Go\n3:30 Can You Feel The Love Tonight (feat. Connie Talbot) \n7:38 Perfect \n11:56 Here Without You \n15:32 Iris \n19:39 Can’t Help Falling In Love \n21:50 I Don’t Want To Miss A Thing - Aerosmith (feat. Jennel Garcia) \n25:40 Faithfully \n30:03 Unchained Melody  \n33:36 Use Somebody (feat. Hannah Trigwell) \n36:50 Hey There Delilah\n40:39 Wanted \n44:31 Your Body Is A Wonderland\n48:34 Come On Get Higher \n51:59 Umbrella \n55:46 My Girl \n58:41 Kiss From A Rose\n1:03:13 Wonderwall \n1:06:53 Yellow\n\n- - - - - - - - - - - -\n\nWatch Boyce Avenue's acoustic cover love songs/wedding songs, including collaborations with Connie Talbot, Jennel Garcia, and Hannah Trigwell #lovesongs #weddingsongs #cover #umbrella #perfect #yellow #wonderwall #heytheredelilah #sayyouwontletgo #iris #unchainedmelody #canthelpfallinginlove #canyoufeelthelovetonight #wanted #kissfromarose #mygirl #herewithoutyou #usesomebody  #idontwanttomissathing #faithfully #yourbodyisawonderland #comeongethigher #boyceavenue #acoustic #acousticcover #coversongs #acousticsongs #coversong\n\n- - - - - - - - - - - -\n\n🔔 Subscribe & make sure to enable all push notifications! 🔔\n\nWatch more of our videos:\nAcoustic Covers: https://www.youtube.com/playlist?list=PL0BD69368AB943C89&playnext=1\nOriginal Music Videos: http://youtube.com/playlist?list=PLE592C5463BB7915E&playnext=1&index=1\nCover Collaborations: http://youtube.com/playlist?list=PLB0A54526DAB9CF4E&playnext=1&index=1\n\n- - - - - - - - - - - -\n\nBoyce Avenue:\nAlejandro Manzano (Lead Vocals, Acoustic Guitar, Piano): http://instagram.com/alejandroluismanzano \nFabian Manzano (Background Vocals, Electric Guitar): http://instagram.com/fabianmanzano\nDaniel Manzano (Background Vocals, Bass, Percussion): http://instagram.com/danielmanzano\n\nhttp://instagram.com/boyceavenue\nhttp://twitter.com/boyceavenue\nhttp://facebook.com/boyceavenue\nhttp://boyceavenue.com\n\n- - - - - - - - - - - -\n\nAudio & Video Produced by Boyce Avenue\nEngineered, Mixed & Mastered by Adam Barber\nOriginally Performed by James Arthur, Elton John (Lion King), Ed Sheeran, 3 Doors Down, Goo Goo Dolls, Elvis Presley, Aerosmith, Journey, The Righteous Brothers, Kings of Leon, The Plain White T’s, Hunter Hayes, John Mayer, Matt Nathanson, Rihanna, The Temptations, Seal, Oasis, Coldplay",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/Ji1EI-itIs4/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/Ji1EI-itIs4/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/Ji1EI-itIs4/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+          standard: {
+            url: "https://i.ytimg.com/vi/Ji1EI-itIs4/sddefault.jpg",
+            width: 640,
+            height: 480,
+          },
+          maxres: {
+            url: "https://i.ytimg.com/vi/Ji1EI-itIs4/maxresdefault.jpg",
+            width: 1280,
+            height: 720,
+          },
+        },
+        channelTitle: "Boyce Avenue",
+        liveBroadcastContent: "none",
+        publishTime: "2021-02-04T18:34:22Z",
+      },
+    },
+    {
+      kind: "youtube#searchResult",
+      id: {
+        kind: "youtube#video",
+        videoId: "mWzRduXKof0",
+      },
+      snippet: {
+        publishedAt: "2022-05-08T17:07:53Z",
+        channelId: "UCyKs4L4EULCfySbTybA9bAg",
+        title: "Beach & Bossa Nova Music - 5 Hours",
+        description:
+          "Our #BEACH & #BOSSANOVA playlist have fantastic results in bars and restaurants where it creates a luxury and fancy ambience.\nSubscribe to our channel! 👉 http://bit.ly/MB-subscription\nBeach & Bossa Nova Music - 5 Hours - Playlist:\nSpotify: https://open.spotify.com/playlist/6uwXUDC94YBvGkTnbpEtMO\n01 00:00 All Night Long (All Night) - Eve St. Jones\n02 03:50 The Lady In Red - The Cooltrane Quartet\n03 07:37 Cry For Help - Amazonics, Michelle Simonal\n04 10:33 The Captain Of Her Heart - Flora Martínez\n05 14:42 I Feel It Coming - Eve St. Jones\n06 18:18 When The World Is Running Down - Bossart Ensemble, Os Alquimistas, Natascha\n07 21:21 Duel - Amazonics\n08 24:34 Take It Easy - Jamie Lancaster\n09 27:50 Company - @SarahMenescalOfficial \n10 30:50 Precious - Amazonics\n11 34:08 I Fall Apart - Sarah Menescal\n12 37:46 I Wanna Dance With Somebody - Bossart Ensemble, Adelle\n13 41:39 Never Gonna Give You Up - The Cooltrane Quartet\n14 44:47 Watermelon Sugar - Banda Do Sul, Natalie Renoir\n15 48:20 Portuguese Love – Amazonics, Apollinare Rossi, Julie Benson\n16 51:34 Missing - Herbie Garrett, Krister, Mayla Da Viola\n17 55:03 Cars And Girls - Groove Da Praia\n18 59:50 Little Lies - Luca Giacco\n19 01:01:50 Last Friday Night (T.G.I.F.) - Anakelly, Stereo Dub, Nova Bossa Ltd.\n20 01:05:20 Titanium - Banda Do Sul, Natalie Renoir\n21 01:09:19 Rock Your Baby - Amazonics\n22 01:12:44 More Than A Woman - Ituana\n23 01:15:42 Walking On The Chinese Wall - Groove Da Praia, Luca Giacco\n24 01:19:25 Only Happy When It Rains - Amazonics\n25 01:22:26 Hunting High And Low - Sarah Menescal\n26 01:25:16 Reminiscing - Michelle Simonal\n27 01:28:34 One Of These Nights - Ituana, James Farrelli\n28 01:31:47 Sea Of Love - The Moleskins\n29 01:35:30 Say Say Say - Eve St. Jones\n30 01:38:39 Slave To Love - Bossart Ensemble, Marvin\n31 01:42:10 Just An Illusion - Eve St. Jones\n32 01:45:40 The Sea - Amazonics\n33 01:49:10 True - The Moleskins, Bossart Ensemble, Brazilian Jazz Cuts\n34 01:53:15 The Rhythm Of The Night - Groove Da Praia, Anakelly\n35 01:55:47 Standing Outside In The Rain - Groove Da Praia, Luca Giacco\n36 01:58:15 Hurts To Be In Love - Michelle Simonal\n37 02:00:53 All The Love In The World - Amazonics\n38 02:03:33 I've Been Losing You - Os Alquimistas, Luca Giacco, Anakelly\n39 02:06:45 Yes Sir, I Can Boogie (Bossa Nova Version) - Groove Da Praia\n40 02:09:25 Night Fever - Banda Do Sul, Nastascha\n41 02:12:50 Endless Love - Jamie Lancaster, Michelle Simonal\n42 02:15:43 I Just Can't Stop Loving You - Brazil XXI, Deise Costa\n43 02:19:32 Overprotected - Ituana\n44 02:23:00 Pink - Les Crossaders, Mandy Jones\n45 02:26:27 Right Down The Line – Scubba & Dinah York\n46 02:29:42 King Of Pain - Stereo Dub\n47 02:33:36 Viva La Vida - Scubba\n48 02:37:46 Stand By Me - Sarah Menescal\n49 02:40:52 Mistake Number 3 - Scubba, Dinah York\n50 02:44:12 Behind Blue Eyes - Amazonics, Michelle Simonal\n51 02:48:15 Your Love Is King - Amazonics\n52 02:51:44 I Cannot Believe It's True – Banda Do Sul, Luca Giacco\n53 02:55:15 This Is What You Came For - Michelle Simonal\n54 02:58:19 Again - Bossart Ensemble & Nova Bossa Ltd.\n55 03:01:07 Sweetest Taboo - Scubba, Ivette Moraes\n56 03:05:15 Peaches - Nenei\n57 03:08:50 Smile - Cassandra Beck\n58 03:11:25 Burn Rubber On Me (Why You Wanna Hurt Me) - Luca Giacco\n59 03:14:13 It Ain't Over Til' It's Over - Beluga's Trio, Celso Mendes\n60 03:18:20 Let Her Go - Dual Sessions\n61 03:22:04 Tape Loop - Ituana\n62 03:25:15 The Scientist - Flora Martínez\n63 03:29:42 Hold On My Heart - The Cooltrane Quartet, Luca Giacco\n64 03:34:41 Happy - Flora Martínez\n65 03:38:09 2U - Shelly Sony\n66 03:41:26 Into The Groove - Banda Do Sul, Nastascha\n67 03:45:15 Lost In Love - Scubba, Lila Liu\n68 03:47:50 Passionfruit - Amazonics\n69 03:51:54 Ebony And Ivory - Brazilian Jazz Cuts, Lee Avril, Renauld\n70 03:55:34 Dont Let The Sun Go Down On Me - Karen Souza\n71 03:59:34 Skyfall - Natalie Renoir\n72 04:03:08 Last Train To London - Eve St. Jones, Massey\n73 04:06:56 I Didn't Know I Was Looking For Love - Eve St. Jones\n74 04:11:21 Crazy In Love - Scubba\n75 04:14:43 Rock With You - Morgan, G & Machines\n76 04:18:24 That's When I Think Of You - George White Group, Luca Giacco\n77 04:21:58 Hotline Bling - James Farrelli\n78 04:25:01 Go Your Own Way - Nova Bossa Ltd., Marvin, Natalie Renoir\n79 04:27:48 Together Forever - Os Digitalistas\n80 04:31:12 I'm A Slave 4 U - Banda Do Sul, DJ Leao, Sao Vicente\n81 04:35:15 Candy - Jamie Lancaster, Ituana\n82 04:39:33 Too Hot - 48Th St Collective, Lua\n83 04:42:52 Every Beat Of My Heart - Sarah Menescal\n84 04:46:44 The Way You Make Me Feel - Sarah Menescal\n85 04:49:08 Time After Time - Sarah Menescal\n86 04:52:37 Call Me - Sarah Menescal\n87 04:55:27 ...Baby One More Time - Ghetto Blaster Ltd., Deise Costa\n88 04:58:35 Lanterna Dos Afogados - Sarah Menescal\n89 05:01:26 My Cherie Amour - Bristol Love, Rolla\n90 05:04:35 Castle On The Hill - George White Group\n91 05:09:01 Sugar - Groovy Waters\n& More!\n\nBossa Nova Music to #study #work #relax",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/mWzRduXKof0/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/mWzRduXKof0/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/mWzRduXKof0/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+          standard: {
+            url: "https://i.ytimg.com/vi/mWzRduXKof0/sddefault.jpg",
+            width: 640,
+            height: 480,
+          },
+          maxres: {
+            url: "https://i.ytimg.com/vi/mWzRduXKof0/maxresdefault.jpg",
+            width: 1280,
+            height: 720,
+          },
+        },
+        channelTitle: "Music Brokers",
+        liveBroadcastContent: "none",
+        publishTime: "2022-05-08T17:07:53Z",
+      },
+    },
+    {
+      kind: "youtube#searchResult",
+      id: {
+        kind: "youtube#video",
+        videoId: "W3lA_fDl50o",
+      },
+      snippet: {
+        publishedAt: "2023-01-29T02:17:39Z",
+        channelId: "UCXHbxy8uIKkGfOxtrU3DOSg",
+        title:
+          "Acoustic 2023 - Top Guitar Acoustic Cover - Best Acoustic Songs of All Time - Popular Songs Cover",
+        description:
+          "Acoustic 2023 - Top Guitar Acoustic Cover - Best Acoustic Songs of All Time - Popular Songs Cover\n🔔 If you like this track, please like and subscribe to this mix and share it on social sites (Facebook, Reddit, Twitter, etc.) so more people can hear it!\n🔔 We always bring you the best music to relax while working, always accompany us to enjoy the best.\nWe are a music development company for YouTube.\nWe look forward to collaborating with talented artists.\n© ️ All rights reserved to their respective owners, content\n---------------------------------------------------\n✅ Acoustic Songs is created to promote and support new artists (musicians/labels, composers, producers, photographers/filmmakers) who want to create a fan base.\n✅ We try to find the best and most enjoyable music for you! We hope to make your day better with the music we share! Peace of love and music.\n-----------------------------------------------------\n🔔 Thank you for watching! ..I read your comments..I hope the music you share will make your day brighter!",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/W3lA_fDl50o/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/W3lA_fDl50o/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/W3lA_fDl50o/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+          standard: {
+            url: "https://i.ytimg.com/vi/W3lA_fDl50o/sddefault.jpg",
+            width: 640,
+            height: 480,
+          },
+          maxres: {
+            url: "https://i.ytimg.com/vi/W3lA_fDl50o/maxresdefault.jpg",
+            width: 1280,
+            height: 720,
+          },
+        },
+        channelTitle: "Acoustic Songs",
+        liveBroadcastContent: "none",
+        publishTime: "2023-01-29T02:17:39Z",
+      },
+    },
+    {
+      kind: "youtube#searchResult",
+      id: {
+        kind: "youtube#video",
+        videoId: "Y-JQ-RCyPpQ",
+      },
+      snippet: {
+        publishedAt: "2018-09-13T06:01:51Z",
+        channelId: "UCJhjE7wbdYAae1G25m0tHAA",
+        title:
+          "Relaxing Bossa Nova & Jazz Music For Study - Smooth Jazz Music - Background Music",
+        description:
+          "💿 Listen Everywhere\nhttps://bgmc.lnk.to/uLbP1e5l\n_____________________________________________\n\n🔔 Please Subscribe!\n→ https://www.youtube.com/user/cafemusicbgmchannel\n\n💿 Listen on Spotify, Apple Music, and more\n→ Cafe Music BGM channel: https://lnk.to/eerYQXXe\n\n📝 Use the BGMC\n→ Music for Videos: https://bgmc-library.com/\n→ Music for Stores: https://bgmc-station.com/en/\n_____________________________________________\n\n☕ About Cafe Music BGM channel\nWe are making cafe music for relaxation, for work, for study, etc.\nAll music in this video & on this channel is original music by BGMC.\nWe are playing all the songs.\n\n🎶 The band is produced by Cafe Music BGM channel\n→ JUTESETS: https://lnk.to/cKsSZK04\n_____________________________________________\n\n🎬 YouTube channels by BGMC\n→ BGM channel: https://www.youtube.com/user/bgmchannelbgm\n→ Green Music BGM channel: https://www.youtube.com/user/japanrelaxingmusic\n→ J-POP Music BGM channel: https://www.youtube.com/user/jpopcoverchannel\n→ Hawaiian BGM channel: https://www.youtube.com/HawaiianBGMchannel\n\n🎶 Artists by BGMC\n→ BGM channel: https://lnk.to/TZWnnMjq\n→ Green Music BGM channel: https://lnk.to/7ZkFpSUD\n→ Hawaiian BGM channel: https://lnk.to/ktHak7fs\n→ Hip Hop Jazz BGM channel: https://lnk.to/3aoZLbfS\n→ Ambient BGM channel: https://lnk.to/98jQRFKU\n→ Music Box BGM channel: https://lnk.to/Q5kpTnLs\n\n📩 Contact\n→ Official Website: https://www.bgmcrecords.com/\n\n🔗 Follow us on Social Media\n→ Instagram: https://www.instagram.com/bgmc_bgmchannel/\n→ Facebook: https://www.facebook.com/bgmc.bgmchannel/\n→ Twitter: https://twitter.com/bgmc_bgmchannel\n\n\n© Music is Copyrighted.\n#BossaNova #Jazz #StudyMusic",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/Y-JQ-RCyPpQ/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/Y-JQ-RCyPpQ/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/Y-JQ-RCyPpQ/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+          standard: {
+            url: "https://i.ytimg.com/vi/Y-JQ-RCyPpQ/sddefault.jpg",
+            width: 640,
+            height: 480,
+          },
+          maxres: {
+            url: "https://i.ytimg.com/vi/Y-JQ-RCyPpQ/maxresdefault.jpg",
+            width: 1280,
+            height: 720,
+          },
+        },
+        channelTitle: "Cafe Music BGM channel",
+        liveBroadcastContent: "none",
+        publishTime: "2018-09-13T06:01:51Z",
+      },
+    },
+    {
+      kind: "youtube#searchResult",
+      id: {
+        kind: "youtube#video",
+        videoId: "ni5vm1Lzw7Q",
+      },
+      snippet: {
+        publishedAt: "2021-07-05T15:31:25Z",
+        channelId: "UCFm4zM6-08kb9abXDk4fxXQ",
+        title: "Remix ⚡ Covers Popular Songs",
+        description:
+          "Subscribe ❤️ https://bit.ly/PMBMusic-Suscr\nRemix ⚡ Popular Remixes ⚡ House Remix ⚡Deep House Remixes ⚡Lounge⚡Best Remixes\nRemix ⚡ Covers Popular Songs - Playlist Spotify: https://bit.ly/Remix2021-SP\n01 00:00 Self Control - Krister, Dalbani\n02 03:01 Time After Time (Dataset Remix) - Sarah Menescal, Dataset\n03 06:34 Wicked Game (Strange Desire Mix) - Ituana\n04 09:42 Wonderful Life (Klub Rider Remix) - Klub Rider, The Cooltrane Quartet\n05 13:43 Your Love (Bellestar Remix) - Dinah Eastwood, Bellestar\n06 16:28 Love Is In The Air (Bellestar Remix) - Urban Love, Bellestar\n07 19:41 The Sweetest Taboo (Remix) - Scubba, Ivette Moraes, Ronan\n08 22:49 Dreams (No.oN Remix) - Eve St. Jones, No.oN\n09 26:09 Cuarzo (G-Sremix) - Lila Frascara\n10 29:08 Castle In The Sky - Von Mondo, Volpe\n11 32:14 Lovefool (Dalbani Remix) - Urselle\n12 35:21 Good For You (Krister Remix) – Style Project, Krister\n13 38:33 Always Remember Us This Way (Extended Remix) - Roger Beck\n14 42:23 Magic - Trippynova, Natalie Renoir\n15 46:17 Don't Start Now (Rollo & Co Remix) - Bristol Love, Lee Avril\n16 49:42 Big In Japan (Krister Remix) - Banda Do Sul, Krister\n17 53:47 Please Don't Go (DJ Leao Remix) - Future Soundscapes, Sao Vicente, DJ Leao\n18 56:17 Oops!...I Did It Again (Wax Hero Rework) - Brazil XXI, Eve St. Jones\n19 59:23 Eye In The Sky (DJ Style Remix) - James Farrelli, Sarah Menescal, DJ Style\n20 01:02:53 Talk It Out (Meteadisco Mix) - Dual Sessions\n21 01:06:07 Radioactive (Krister Remix)  - Dual Sessions, Krister\n22 01:09:56 Just Can't Get Enough (Deep House Mix) - Os Digitalistas, Mayla Da Viola\n23 01:13:04 Can't Take My Eyes Off You - Natalie Renoir, Stereo Dub, Brazil XXI\n24 01:15:59 Let's Dance - Futurama, Dew\n25 01:20:22 Elder (Floating Away) - Bellestar, Klub Rider\n26 01:23:36 Passionfruit - Shelly Sony\n27 01:26:13 West End Girls - Bellestar, Sixth Finger\n28 01:29:13 Silver Dreams - Urban Love\n29 01:32:03 Can't Help Falling In Love - Sarah Menescal\n30 01:35:19 Light My Fire (DJ Leao Mix) - Freedom Dub, Rosin Taylor, DJ Leao\n31 01:38:26 Gypsy Woman (She's Homeless) - Bellestar\n32 01:41:15 Believe (Klub Rider Remix) - Urban Love, York, Klub Rider\n33 01:47:35 Everybody's Free (To Feel Good) - Dualbox, Ama Lur\n34 01:50:21 Valerie (Deep Piano Mix) - Julie Benson\n35 01:53:58 I Feel It Coming (Dataset Remix) - Sixth Finger, Natty Bong\n36 01:56:55 Fast Car (Krister Remix) - Dual Sessions, Krister\n37 01:59:52 Roads (Retro House Mix) - Urban Love, Ivette Moraes\n38 02:02:24 Don't You (Forget About Me) (Krister Remix) - Dual Sessions, Luca Giacco\n39 02:06:09 I Never Thought I'd See The Day (Dalbani Remix) - Ivette Moraes, Dalbani\n40 02:08:58 Garota De Ipanema - United Rhythms Of Brazil, Hernan Nunzi, Os Digitalistas\n41 02:12:56 Need U (100%) (G-Spliff Remix) - Lila Liu, G-Spliff\n42 02:15:16 How Deep Is Your Love - Bellestar, Klub Riders, Glambeats Corp.\n43 02:18:55 If I Can't Have You_Radio - Sixth Finger\n44 02:22:05 Talking In Your Sleep (Crystal Remix) - Ituana, Groove Da Praia\n45 02:26:12 All The Good Girls Go To Hell - Lila Frascara\n46 02:29:26 Tiny Dancer (Ronan Remix) (Radio Edit) - Urban Love, Dew, Ronan\n47 02:33:30 He's The Greatest Dancer (Luxury Remix) - Ituana\n48 02:37:04 Invisible Touch - Os Digitalistas, Mo'Nique\n49 02:41:00 Alone (City 48 Mix) - Sixth Finger\n50 02:43:47 Forever Young - DJ Style, Mayla Da Viola\n51 02:47:08 Tainted Love (Remix) - Karen Souza, Stella Starlight Trio\n52 02:50:40 Flashdance... What A Feeling (Ronan's Remix) - Ronan\n53 02:55:44 Venice - Max Dubster\n54 02:58:35 These Dreams - Groovy Waters, Luca Giacco\n55 03:02:10 Forever And Ever - Von Mondo, Volpe, Glambeats Corp.\n56 03:05:08 Hymn For The Weekend - Morgan, G & Machines\n57 03:07:50 If You Ever Want My Love Again – Urban Love, Luca Giacco\n58 03:10:57 Lullaby - Freedom Dub\n59 03:14:17 Too Much Heaven (Wax Hero Remix Extended) - Dual Sessions, Natalie Renoir\n60 03:19:30 You Should Be Dancing (Club Mix) - DJ Style, Groove Messengers\n61 03:25:56 Repetition – Luca Giacco, Stereo Dub\n62 03:28:52 Space Cowboy (Vintage Remix Edit) - Eve St. Jones\n63 03:32:57 Boys Don't Cry - Lifuki\n64 03:36:11 Over My Shoulder - Sarah Menescal, Groove Da Praia\n65 03:39:28 Cry For Help - Amazonics, Michelle Simonal\n66 03:42:24 Inside Out - Dinah Eastwood\n67 03:45:07 Blinding Lights - Glambeats Corp.\n68 03:48:34 Patience (Cool Wave Mix) - Sixth Finger, Dew\n69 03:53:42 Tape Loop - Ituana\n70 03:56:54 The Night - Von Mondo, Volpe, Klub Rider\n71 04:00:13 Lança Perfume - United Rhythms Of Brazil, Os Digitalistas, Hernan Nunzi\n72 04:03:33 Let's Spend The Night (Ronan Remix) - Adrian Deno, Ronan\n73 04:06:50 Never Forget - Ronan, Lila Frascara\n74 04:07:45 I Heard It Through The Grapevine (Pink Lemonade Radio Edit) - Karen Souza\n\n#Remix #Covers #Popular #Songs #Remixes #House #Deep #Lounge",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/ni5vm1Lzw7Q/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/ni5vm1Lzw7Q/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/ni5vm1Lzw7Q/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+          standard: {
+            url: "https://i.ytimg.com/vi/ni5vm1Lzw7Q/sddefault.jpg",
+            width: 640,
+            height: 480,
+          },
+          maxres: {
+            url: "https://i.ytimg.com/vi/ni5vm1Lzw7Q/maxresdefault.jpg",
+            width: 1280,
+            height: 720,
+          },
+        },
+        channelTitle: "PMB Music",
+        liveBroadcastContent: "none",
+        publishTime: "2021-07-05T15:31:25Z",
+      },
+    },
+    {
+      kind: "youtube#searchResult",
+      id: {
+        kind: "youtube#video",
+        videoId: "zlsit6xumg8",
+      },
+      snippet: {
+        publishedAt: "2021-01-05T09:38:19Z",
+        channelId: "UCyKs4L4EULCfySbTybA9bAg",
+        title: "Lounge Romance - Cool Music",
+        description:
+          "Subscribe to our channel! 👉 http://bit.ly/MB-subscription\nLounge Romance - Cool Music:\n01 00:00 Let Her Go - Dual Sessions\n02 03:44 Don't Speak (Reggae Version) - Sarah Menescal\n03 07:47 Take It Easy Jamie Lancaster\n04 11:03 Talking In Your Sleep (Bossa Nova Mix) - Ituana, Groove Da Praia\n05 14:51 The Lady In Red - The Cooltrane Quartet\n06 18:39 Love Hurts - Sarah Menescal\n07 21:35 I Just Wanna Stop - Michelle Simonal\n08 23:58 Say Say Say - Eve St. Jones\n09 27:06 Portuguese Love – Amazonics, Apollinare Rossi, Julie Benson\n10 30:21 I Fall Apart - Sarah Menescal\n11 33:59 More Than A Woman - Ituana\n12 36:57 Golden - Jamie Lancaster\n13 40:25 Love You Inside Out - Beluga's Trio, Shelly Sony\n14 44:08 If You Want Me To Stay - Don & Gene\n15 47:10 I Like You - Brazil XXI, Luca Giacco\n16 51:12 Crazy - Celso Mendes, Lua\n17 54:55 Back To Black - Eve St. Jones\n18 59:02 Behind Blue Eyes - Amazonics, Michelle Simonal\n19 01:03:06 Would I Lie To You - Eve St. Jones\n20 01:06:47 Your Love - Dinah Eastwood\n21 01:09:47 Hard Woman - Luca Giacco\n22 01:13:42 Too Much Heaven (Wax Hero Deep Drum Remix) - Dual Sessions, Natalie Renoir\n23 01:17:59 Pink - Les Crossaders, Mandy Jones\n24 01:21:26 Melting Edge - Abril D'Sola\n25 01:24:13 The Sea - Amazonics\n26 01:27:43 One Of These Nights - James Farrelli, Ituana\n27 01:30:56 Sure know something - 48th St. Collective\n28 01:34:01 Every Rose Has Its Thorn - Dinah Eastwood\n29 01:38:31 When The World Is Running Down - BossArt Ensemble, Os Alquimistas,Natascha\n30 01:41:34 (I've Had) The Time Of My Life - Jamie Lancaster, Eve St. Jones\n31 01:45:11 I Feel It Coming - Eve St. Jones\n32 01:48:47 The Rhythm Of The Night - Groove Da Praia, Anakelly\n33 01:51:20 Everywhere - Eve St. Jones\n34 01:54:21 You Get What You Give - Amazonics\n35 01:57:36 Watermelon Sugar - Banda Do Sul, Natalie Renoir\n36 02:01:09 On The Beach - Groove Da Praia, Shelly Sony, Luca Giacco\n37 02:04:40 Cars And Girls - Groove Da Praia\n38 02:09:27 Little Lies - Luca Giacco\n39 02:11:27 Tequila Sunrise - Corcovado Frequency\n40 02:13:56 Over My Shoulder - 48th St. Collective, Michelle Simonal\n41 02:17:37 Fly Me To The Moon - The Cooltrane Quartet, Nenei\n42 02:21:07 Moving Targets - Stereo Dub, Dualbox, E-Mulation\n43 02:25:06 Lucky - Michelle Simonal\n44 02:27:50 It`s My Life - Ituana\n45 02:31:14 Girls Like You - 48th St. Collective, Nikki Ocean\n46 02:35:03 Your Love Is King - Amazonics\n47 02:38:31 Cruising For Bruising - Michelle Simonal\n48 02:42:00 Overprotected - Ituana\n49 02:45:28 Mistake Number 3 - Scubba, Dinah York\n50 02:48:47 Reminiscing - Michelle Simonal\n51 02:52:05 No Money (Chill Version) - Corcovado Frequency\n52 02:55:13 Too Hot - 48Th St. Collective, Lua\n53 02:58:32 Cryin' - Sarah Menescal\n54 03:01:51 Right Down The Line - Scubba, Dinah York\n55 03:05:06 You And I - Groove Messengers, Dinah York\n56 03:09:23 Flesh For Fantasy - Apollinare Rossi, Tango Tripping Project\n57 03:12:36 Company - Sarah Menescal\n58 03:15:36 Lately - Celso Mendes, Julie Benson\n59 03:20:33 Seven Days In Sunny June - Luca Giacco\n60 03:24:04 This Girl (Chill Mix) - Groove Messengers, Jamaican Reggae Cuts\n61 03:27:11 Running Away - Urban Love, Ivette Moraes\n62 03:30:33 Finally - Stella Starlight Trio\n63 03:34:12 Toxic - Groove Da Praia, Mandy Jones\n64 03:37:18 Hurts To Be In Love - Michelle Simonal\n65 03:39:55 Titanium - Banda Do Sul, Natalie Renoir\n66 03:43:54 Last Friday Night (T.G.I.F.) - Anakelly, Stereo Dub, Nova Bossa Ltd.\n67 03:47:24 Tape Loop - Ituana\n68 03:50:35 Too Much Heaven (Wax Hero Deep Drum Remix) - Dual Sessions, Natalie Renoir\n69 03:54:20 Don't Start Now - Nenei, Stella Starlight Trio\n70 03:57:40 Latch - Groove Da Praia\n71 04:02:00 Human - The Cooltrane Quartet, Michelle Simonal, Francoise Sanders\n72 04:05:07 Riders On The Storm - Apollinare Rossi, Jazzystics\n73 04:08:54 Candy - Jamie Lancaster, Ituana\n74 04:13:11 Beat It - Groove Da Praia\n75 04:17:07 Yummy - Jamie Lancaster\n76 04:20:35 Maniac - Urselle\n77 04:24:42 Two Ghosts - Apollinare Rossi\n78 04:28:09 Foxey Lady - Apollinare Rossi\n79 04:31:51 I Can't Go For That (No Can Do) - Sarah Menescal\n80 04:35:40 Fortunate Son - Stella Starlight Trio\n81 04:39:34 Rock With You - Morgan, G & Machines\n82 04:43:15 Snow (Hey Oh) - Jazzystics, Julie Benson\n83 04:47:21 Used To Love Her - Sarah Menescal\n84 04:50:23 I Finally Found Someone - Jamie Lancaster, Cassandra Beck\n85 04:53:35 Lullaby - Freedom Dub\n86 04:56:55 The Captain Of Her Heart - Flora Martinez\n87 05:01:04 All The Small Things - Jamie Lancaster, Ituana\n88 05:03:39 Back To Life - The Cooltrane Quartet\n89 05:07:07 Learn To Fly - Ituana\n90 05:10:54 Junk Of The Heart (Happy) - Scubba, Cassandra Beck\n91 05:13:57 Viva La Vida - Scubba\n92 05:18:07 2u - Shelly Sony\n93 05:21:24 This Is What You Came For - Michelle Simonal\n94 05:24:29 Dance Monkey - James Farrelli\n95 05:28:06 Body And Soul - Dinah Eastwood, Luca Giacco\n96 05:30:46 Live To Tell - Michelle Simonal\n& More!\n\n#Lounge #Romance #CoolMusic",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/zlsit6xumg8/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/zlsit6xumg8/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/zlsit6xumg8/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+          standard: {
+            url: "https://i.ytimg.com/vi/zlsit6xumg8/sddefault.jpg",
+            width: 640,
+            height: 480,
+          },
+          maxres: {
+            url: "https://i.ytimg.com/vi/zlsit6xumg8/maxresdefault.jpg",
+            width: 1280,
+            height: 720,
+          },
+        },
+        channelTitle: "Music Brokers",
+        liveBroadcastContent: "none",
+        publishTime: "2021-01-05T09:38:19Z",
+      },
+    },
+    {
+      kind: "youtube#searchResult",
+      id: {
+        kind: "youtube#video",
+        videoId: "V3-d3HhtkKQ",
+      },
+      snippet: {
+        publishedAt: "2022-12-30T03:13:52Z",
+        channelId: "UCSzok7xBWSxKgNOY_qtzVgQ",
+        title: "Jonah Baker - 20 Most Loved Acoustic Covers",
+        description:
+          "Jonah Baker's 20 Most Loved Acoustic Cover (compilation)\n\n0:00 Girls Like You\n3:06 Ghost\n5:41 You're Still The One\n9:25 Señorita feat. Celine\n12:24 Stuck With U\n15:30 Memories\n18:53 Mirrors\n22:35 I'm So Tired... feat. Bailey Rushlow\n25:27 Baby\n28:03 You Are The Reason\n31:32 Fireflies feat. Jada Facer\n34:31 Shallow feat. Xenia\n37:47 Don't Leave Me Alone\n40:38 Yellow\n44:01 The Joker And The Queen feat. Celine\n46:49 Beautiful Soul\n50:22 Before You Go\n54:00 A Thousand Miles\n57:16 Anyone feat. Celine\n1:00:29 Someone You Loved\n\n#acoustic #cover #jonahbaker",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/V3-d3HhtkKQ/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/V3-d3HhtkKQ/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/V3-d3HhtkKQ/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+          standard: {
+            url: "https://i.ytimg.com/vi/V3-d3HhtkKQ/sddefault.jpg",
+            width: 640,
+            height: 480,
+          },
+          maxres: {
+            url: "https://i.ytimg.com/vi/V3-d3HhtkKQ/maxresdefault.jpg",
+            width: 1280,
+            height: 720,
+          },
+        },
+        channelTitle: "Jonah Baker",
+        liveBroadcastContent: "none",
+        publishTime: "2022-12-30T03:13:52Z",
+      },
+    },
+    {
+      kind: "youtube#searchResult",
+      id: {
+        kind: "youtube#video",
+        videoId: "ZrD-p6RMC9s",
+      },
+      snippet: {
+        publishedAt: "2023-03-28T00:45:13Z",
+        channelId: "UCXHbxy8uIKkGfOxtrU3DOSg",
+        title:
+          "Top New English Acoustic Songs 2023 - The Best Acoustic Cover of Popular Songs of All Time",
+        description:
+          "Top New English Acoustic Songs 2023 - The Best Acoustic Cover of Popular Songs of All Time\n🔔 If you like this track, please like and subscribe to this mix and share it on social sites (Facebook, Reddit, Twitter, etc.) so more people can hear it!\n🔔 We always bring you the best music to relax while working, always accompany us to enjoy the best.\nWe are a music development company for YouTube.\nWe look forward to collaborating with talented artists.\n© ️ All rights reserved to their respective owners, content\n---------------------------------------------------\n✅ Acoustic Songs is created to promote and support new artists (musicians/labels, composers, producers, photographers/filmmakers) who want to create a fan base.\n✅ We try to find the best and most enjoyable music for you! We hope to make your day better with the music we share! Peace of love and music.\n-----------------------------------------------------\n🔔 Thank you for watching! ..I read your comments..I hope the music you share will make your day brighter!",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/ZrD-p6RMC9s/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/ZrD-p6RMC9s/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/ZrD-p6RMC9s/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+          standard: {
+            url: "https://i.ytimg.com/vi/ZrD-p6RMC9s/sddefault.jpg",
+            width: 640,
+            height: 480,
+          },
+          maxres: {
+            url: "https://i.ytimg.com/vi/ZrD-p6RMC9s/maxresdefault.jpg",
+            width: 1280,
+            height: 720,
+          },
+        },
+        channelTitle: "Acoustic Songs",
+        liveBroadcastContent: "none",
+        publishTime: "2023-03-28T00:45:13Z",
+      },
+    },
+    {
+      kind: "youtube#searchResult",
+      id: {
+        kind: "youtube#video",
+        videoId: "SkSHt9EAje0",
+      },
+      snippet: {
+        publishedAt: "2021-06-12T14:00:28Z",
+        channelId: "UCKHsXi0fY-mvLAAnLq95PPQ",
+        title: "Lounge Music - Latin Cafe - Chill Out Bossa Nova Music",
+        description:
+          "Thank you for listening! 🐾 Join Us Everywhere\n🎧 Download / Stream https://fanlink.to/LoungeMusic \n\nJazz and Bossa Nova Music is perfect to assist your relaxation, reading, studying, work, sleeping, focusing, stress relief, romantic dinner, cooking, or just as background music for any event in your life.\n         \n🌎 Follow Lounge Music everywhere \n► Instagram https://www.instagram.com/loungemusicjazz  \n► Twitter https://twitter.com/LoungeMusicJazz  \n► SoundCloud https://soundcloud.com/loungemusicchannel  \n\n☕ About Lounge Music channel:  \nWe are making Jazz Music and Beautiful Bossa Nova Music for relaxation, for work, for study, etc.\n🎵 All music in this video and on this channel is original music by us.\nAll songs are performed by our musicians.\nAll music is created by our authors.\n🎥 All videos on this channel are original videos by us. We create all videos. \n\n📀 Lounge Music channel is a part of Relax Music Records Label.\n🎬 Channels produced by Relax Music Records:\n\n► Lounge Music channel  → https://www.youtube.com/c/LoungeMusicChannel \n► Relax Music channel  → https://www.youtube.com/c/RelaxMusicRecords\n► Happy Music channel → https://www.youtube.com/c/HappyMusicchannel\n► Vinyl Jazz Music channel → https://www.youtube.com/c/VinylJazzMusic\n► Compilariz → https://www.youtube.com/c/Compilariz \n\n📜 “Relax Music Records” produces and provides music to the world.\n📩 Contact\n For business inquiries and licensing of our music contact us via the contact form on the website.\n Official Website: https://relaxmusicrecords.com/\n \n© All rights reserved. \n℗ Music is Copyrighted by Relax Music Records.\n© Video is Copyrighted by Relax Music Records.\n\n🚫 Any reproduction or republication of all or part of this video/audio is prohibited.\n\n▶️ SUBSCRIBE! → https://goo.gl/EBzGGl  \n🎼 AWESOME MUSIC COLLECTION! → https://www.youtube.com/c/LoungeMusicChannel/videos  \n🎧 Listen to Lounge Music Everywhere → https://fanlink.to/LoungeMusic   \n\n#loungemusic #bossanova   #chilljazz",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/SkSHt9EAje0/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/SkSHt9EAje0/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/SkSHt9EAje0/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+          standard: {
+            url: "https://i.ytimg.com/vi/SkSHt9EAje0/sddefault.jpg",
+            width: 640,
+            height: 480,
+          },
+          maxres: {
+            url: "https://i.ytimg.com/vi/SkSHt9EAje0/maxresdefault.jpg",
+            width: 1280,
+            height: 720,
+          },
+        },
+        channelTitle: "Lounge Music",
+        liveBroadcastContent: "none",
+        publishTime: "2021-06-12T14:00:28Z",
+      },
+    },
+    {
+      kind: "youtube#searchResult",
+      id: {
+        kind: "youtube#video",
+        videoId: "99x6-28mAmQ",
+      },
+      snippet: {
+        publishedAt: "2023-04-05T07:16:28Z",
+        channelId: "UCfEqWeRlYVNPK3bkNB9SBLw",
+        title: "OPM HITS MEDLEY | CLASSIC OPM ALL TIME FAVORITES LOVE SONGS",
+        description:
+          "Music list: \n01. In Your Eyes\n02. Nothing's Gonna Change My Love For You\n03. Exchange of Hearts\n04. Just Once\n05. Stuck On You\n06. Don't Know What to Say\n07. Maybe This Time\n08. Never Thought That I Could Love\n09. Having You Near Me\n10. Through The Years\n11. I’ve Been Waiting For You\n12. Everything I Own\n13. Love To Be Loved By You\n14. My Love\n15. On This Day\n16. Right Here Waiting\n17. The Power Of Love\n18. The Will of The Wind\n19. That's What Friends Are For\n20. Beautiful In White\n\n\nPlease visit my music channel to enjoy new songs. Have a nice day \nThanks for watching! \nDon't forget to SUBCRIBE, Like & Share my video if you enjoy it!\n Have a nice day!\n© Follow Love Song Forever\nLike + Subcribe: https://bom.so/2g05do\n🔔 Turn on notifications to stay updated with new uploads!\n🚫 If you have any problem with copyright issues, please CONTACT US DIRECTLY before doing anything, or question please write to me in email\nTag: love songs,Best love songs of all time,best love songs ever,best love songs,love songs greatest hits,love songs playlist,love songs for weddings,love songs acoustic,love songs country,love songs new,English Love Songs,love songs 80s,love duets,melow love songs,collection love songs,romantic love songs,romantic,Nonstop Love Songs,Love Songs Collection,beautiful love songs,most beautiful love songs,best romantic love songs,romantic songs",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/99x6-28mAmQ/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/99x6-28mAmQ/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/99x6-28mAmQ/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+          standard: {
+            url: "https://i.ytimg.com/vi/99x6-28mAmQ/sddefault.jpg",
+            width: 640,
+            height: 480,
+          },
+          maxres: {
+            url: "https://i.ytimg.com/vi/99x6-28mAmQ/maxresdefault.jpg",
+            width: 1280,
+            height: 720,
+          },
+        },
+        channelTitle: "Love Song Forever",
+        liveBroadcastContent: "none",
+        publishTime: "2023-04-05T07:16:28Z",
+      },
+    },
+    {
+      kind: "youtube#searchResult",
+      id: {
+        kind: "youtube#video",
+        videoId: "4as2bcQOj00",
+      },
+      snippet: {
+        publishedAt: "2022-11-18T12:45:40Z",
+        channelId: "UCSX5Gk1UvlYWYyjeVZFnp-w",
+        title:
+          "Chill Music Playlist 🍂 Chill songs when you want to feel motivated and relaxed ~ morning songs",
+        description:
+          "Chill Music Playlist 🍂 Chill songs when you want to feel motivated and relaxed ~ morning songs\n\nIf you're looking for a good way to feel motivated and relax, check out this chill music playlist! This playlist features some of the best chill songs when you want to feel motivated and relaxed. Whether you're working or taking a break, this chill songs playlist will help you drift off to sleep or get in the mood for a productive day.\n\nWhether you're looking to relax after a long day or want to get motivated for the day, this chill music playlist is the perfect choice for you! Whether you're a morning person or not so much, this chill music playlist will have you feeling the chill vibes no matter what!\n\n🎵 | Music provided by Epidemic Pop: https://spoti.fi/3BJpDgo\n\n🎨 Artwork by Sam Yang:\n\nhttps://www.instagram.com/samdoesarts/\n\nhttps://www.youtube.com/channel/UCNNOvB507MRfny7Jcv8MmOw/videos\n\nhttps://www.inprnt.com/gallery/samdoesarts/\n\n🎧 Tracklist:\n\n00:00 Don't Waste My Time - Victor Lundberg\n03:13 I Did It All For You - Victor Lundberg\n06:12 What Is It Like - Loving Caliber\n09:31 You Set My World On Fire - Loving Caliber\n12:47 Homesick - Loving Caliber\n16:36 Think About You - Sture Zetterberg\n19:45 Baby Bye - Vicki Vox\n22:57 Without Her - Wildflowers\n26:25 If You Go - Wildflowers\n29:49 17 - Wildflowers\n33:49 For Someone like Me - Victor Lundberg\n38:07 Deep and Abiding - Victor Lundberg\n41:07 Waiting down the Line - Wildflowers\n44:13 How to Carry On - Wildflowers\n47:33 All Those Things We Did Back Then - Wildflowers\n50:45 Could Have Been Stardust - Sam Shore\n53:56 Body to Body - Sture Zetterberg\n57:23 Stay for a Little While - Wildflowers\n1:01:19 I Don't Know You Anymore - Victor Lundberg\n1:05:25 Grown Apart - Victor Lundberg\n1:08:38 Come on Heartbreaker - Sture Zetterberg\n1:11:47 This Poor Love Song - Sture Zetterberg\n1:15:10 Be Free with Me (Acoustic Version) - Siine\n1:18:15 Best Kept Secrets - Rue Rosa\n1:21:42 Ever Since We Kissed - Victor Lundberg\n1:25:50 True - Ten Towers\n1:29:31 You Can't Control Who You Fall For - Victor Lundberg\n1:33:55 Bye Bye Love - Windshield\n1:37:27 Showed Me How to Heal - Victor Lundberg\n1:41:32 Lines In The Sand - Victor Lundberg\n1:44:52 Come Back To Love - Sture Zetterberg\n1:47:50 Part Of Me Still Wants You - Sture Zetterberg\n1:50:55 I'm Not over You - Victor Lundberg\n1:54:47 When I Really Come Alive - Wildflowers\n\n\n\n#pop\n#englishsongs\n#acousticsongs",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/4as2bcQOj00/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/4as2bcQOj00/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/4as2bcQOj00/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+          standard: {
+            url: "https://i.ytimg.com/vi/4as2bcQOj00/sddefault.jpg",
+            width: 640,
+            height: 480,
+          },
+          maxres: {
+            url: "https://i.ytimg.com/vi/4as2bcQOj00/maxresdefault.jpg",
+            width: 1280,
+            height: 720,
+          },
+        },
+        channelTitle: "Chill Vibes",
+        liveBroadcastContent: "none",
+        publishTime: "2022-11-18T12:45:40Z",
+      },
+    },
+    {
+      kind: "youtube#searchResult",
+      id: {
+        kind: "youtube#video",
+        videoId: "Cl-tFR2nBFE",
+      },
+      snippet: {
+        publishedAt: "2023-04-15T01:05:40Z",
+        channelId: "UCXHbxy8uIKkGfOxtrU3DOSg",
+        title:
+          "The Best Acoustic Cover of Popular Songs 2023 - Guitar Love Songs Cover - Acoustic Songs 2023",
+        description:
+          "The Best Acoustic Cover of Popular Songs 2023 - Guitar Love Songs Cover - Acoustic Songs 2023\n🔔 If you like this track, please like and subscribe to this mix and share it on social sites (Facebook, Reddit, Twitter, etc.) so more people can hear it!\n🔔 We always bring you the best music to relax while working, always accompany us to enjoy the best.\nWe are a music development company for YouTube.\nWe look forward to collaborating with talented artists.\n© ️ All rights reserved to their respective owners, content\n---------------------------------------------------\n✅ Acoustic Songs is created to promote and support new artists (musicians/labels, composers, producers, photographers/filmmakers) who want to create a fan base.\n✅ We try to find the best and most enjoyable music for you! We hope to make your day better with the music we share! Peace of love and music.\n-----------------------------------------------------\n🔔 Thank you for watching! ..I read your comments..I hope the music you share will make your day brighter!",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/Cl-tFR2nBFE/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/Cl-tFR2nBFE/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/Cl-tFR2nBFE/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+          standard: {
+            url: "https://i.ytimg.com/vi/Cl-tFR2nBFE/sddefault.jpg",
+            width: 640,
+            height: 480,
+          },
+          maxres: {
+            url: "https://i.ytimg.com/vi/Cl-tFR2nBFE/maxresdefault.jpg",
+            width: 1280,
+            height: 720,
+          },
+        },
+        channelTitle: "Acoustic Songs",
+        liveBroadcastContent: "none",
+        publishTime: "2023-04-15T01:05:40Z",
+      },
+    },
+    {
+      kind: "youtube#searchResult",
+      id: {
+        kind: "youtube#video",
+        videoId: "y8Rql8-eklA",
+      },
+      snippet: {
+        publishedAt: "2023-04-19T08:06:28Z",
+        channelId: "UCpqCbqAFyC2udHum2BzfvHQ",
+        title: "Acoustic Covers 2023 | Acoustic Covers of Popular Songs",
+        description:
+          "Acoustic Covers 2023 | Acoustic Covers of Popular Songs \n\nThanks for watching! 🤩 Don't forget to... \n►SUBSCRIBE 👉   https://www.youtube.com/@acoustic./videos\n►LIKE 👍 & SHARE ➡️ ...my video if you enjoy it!\n    I hope you enjoyed it 😊 Have a nice day!💪🔥\n\ntracklist 🎧 \n►00:00 Photograph \n►04:24 Too Good At Goodbyes \n►07:53 We Can't Stop \n►11:39 A Thousand Years \n►16:07 Heaven \n►20:16 Perfect \n►23:39 Mirrors \n►28:33 Rise \n►31:49 When  I Was Your Man \n►35:33 Time After Time \n►39:17 Demons \n►42:13 Thinking Out Loud \n►46:49 Say  You Won't Let Go \n►50:20 Say Something \n►53:59 Superman \n►57:11 In Case You Didn't Know \n►01:00:50 Despacito \n►01:04:04 See You Again \n►01:08:29 The Middle \n►01:11:31 Mirrors \n►01:16:29 In Case You Didn't Know \n►01:20:08 Malibu Nights \n►01:23:57 When I Was Your Man \n►01:27:32 Attention \n►01:30:59 Every Breath You Take \n\ntags: #acousticsongs #acousticlovesongs #acousticsongscover #acousticmusic #acousticcover #acousticguitarsongs #bestacousticsongs #englishacousticsongs #oldacoustic #lovesongs #bestlovesongs #bestoflovesongs #englishlovesongs #acoustic #songs #hits #music #cover #coversongs #acousticcover #singer #song #liveperformance",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/y8Rql8-eklA/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/y8Rql8-eklA/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/y8Rql8-eklA/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+          standard: {
+            url: "https://i.ytimg.com/vi/y8Rql8-eklA/sddefault.jpg",
+            width: 640,
+            height: 480,
+          },
+          maxres: {
+            url: "https://i.ytimg.com/vi/y8Rql8-eklA/maxresdefault.jpg",
+            width: 1280,
+            height: 720,
+          },
+        },
+        channelTitle: "acoustic vibes ",
+        liveBroadcastContent: "none",
+        publishTime: "2023-04-19T08:06:28Z",
+      },
+    },
+    {
+      kind: "youtube#searchResult",
+      id: {
+        kind: "youtube#video",
+        videoId: "qod7f7lnkbE",
+      },
+      snippet: {
+        publishedAt: "2023-05-22T01:40:28Z",
+        channelId: "UCDdE2gTlIo0IL3lwuciEJCQ",
+        title:
+          "OPM Chill Songs 🌈 Adie, Moira, Arthur Nery, Nobita, Ben&Ben (Mix)",
+        description:
+          '💌 Welcome to "New Opm 2023" - New opm music that helps you love your life more and get through bad days easier!\n\nEvery day I update the channel with lyric videos of the newest new opm tracks for my subscribers.\n\n♪♪ So, chill with some lovely songs and tell me about your feelings in the comments.\n\n(｡ ˃ᴗ˂ ｡)و',
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/qod7f7lnkbE/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/qod7f7lnkbE/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/qod7f7lnkbE/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+          standard: {
+            url: "https://i.ytimg.com/vi/qod7f7lnkbE/sddefault.jpg",
+            width: 640,
+            height: 480,
+          },
+          maxres: {
+            url: "https://i.ytimg.com/vi/qod7f7lnkbE/maxresdefault.jpg",
+            width: 1280,
+            height: 720,
+          },
+        },
+        channelTitle: "Chill Opm Songs",
+        liveBroadcastContent: "none",
+        publishTime: "2023-05-22T01:40:28Z",
+      },
+    },
+    {
+      kind: "youtube#searchResult",
+      id: {
+        kind: "youtube#video",
+        videoId: "b648g1cDOmg",
+      },
+      snippet: {
+        publishedAt: "2023-03-08T13:43:52Z",
+        channelId: "UCOYuYVeVEsU2Ago26XkhwCg",
+        title:
+          "Music Travel Love - New Acoustic Cover Songs 2023 (Non Stop Playlist) | Music Avenue",
+        description:
+          "Music Avenue Youtube Channel | Music Avenue\n\nTHE BEST OF MUSIC TRAVEL LOVE Popular Songs 2023\n\n1.   Have You Ever Seen The Rain\n2.   How Deep Is Your Love\n3.   When You Say Nothing At All\n4.   You Are My Sunshine\n5.   Baby Now That I Found You\n6.   It Will Rain\n7.   More Than Words\n8.   Nothing's Gonna Change My Love For You\n9.   Perfect\n10. Stand by Me\n11. Sweet Child of Mine\n12. Take Me Home, Country Roads\n13. Tears in Heaven\n14. This I Promise You\n15. When You Look Me In The Eyes\n16. Kiss Me\n17. Truly Madly Deeply\n18. Just The Way You Are\n19. True Colors\n20. Power of Love\n\n© All music and images are copyrighted and belong to the respective owners. \n\nThank you! \n\nMusic Avenue",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/b648g1cDOmg/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/b648g1cDOmg/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/b648g1cDOmg/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+          standard: {
+            url: "https://i.ytimg.com/vi/b648g1cDOmg/sddefault.jpg",
+            width: 640,
+            height: 480,
+          },
+          maxres: {
+            url: "https://i.ytimg.com/vi/b648g1cDOmg/maxresdefault.jpg",
+            width: 1280,
+            height: 720,
+          },
+        },
+        channelTitle: "Music Avenue",
+        liveBroadcastContent: "none",
+        publishTime: "2023-03-08T13:43:52Z",
+      },
+    },
+    {
+      kind: "youtube#searchResult",
+      id: {
+        kind: "youtube#video",
+        videoId: "ushOXEf7Fzc",
+      },
+      snippet: {
+        publishedAt: "2022-09-06T07:01:05Z",
+        channelId: "UCAu5x0y9wYsa1ECMxEh1Z5Q",
+        title:
+          "Acoustic Chill Songs | Best Acoustic Covers Of Popular Songs 2023",
+        description:
+          "➤ Playlist Spotify: https://magicmusic.lnk.to/theBestPop\nAcoustic Chill Songs | Best Acoustic Covers Of Popular Songs 2023\nhttps://youtu.be/ushOXEf7Fzc\n----------------------------------------------------------------\n🎸 🎼 Tracklist:\n00:00. lost. & Honeyfox & Pop Mage - Let Her Go\n03:28. Honeyfox, lost., Pop Mage - Forever Young\n05:54. Honeyfox, lost., Pop Mage - Let Me Down Slowly\n09:27. Honeyfox, lost., Pop Mage - abcdefu\n12:56. Hannah Gracelynn, lost., Pop Mage - Payphone\n16:50. Honeyfox & lost. & Pop Mage - A Thousand Years\n20:48. Honeyfox, lost., Pop Mage - Unstoppable\n24:08. Jemma Johnson, lost., Pop Mage - See You Again\n27:15. Honeyfox, lost. & Pop Mage - I'm Yours\n31:59. Honeyfox, lost., Pop Mage - Sweet But Psycho\n34:18. Benlon, Pop Mage - Someone You Loved\n37:26. Simon Erics, lost. & Pop Mage - Wake Me Up\n43:26. Michelle Ray, lost., Pop Mage - Apologize\n46:30. lost., Pop Mage - Thinking Out Loud\n50:33. Timmy Commerford, lost., Pop Mage - At My Wors\n53:16. Satyen, lost., Pop Mage - Perfect\n56:46. lost. & Pop Mage - Mood\n59:31. Benlon, Pop Mage - All Of Me\n01:04:40. Benlon, Pop Mage - Memories\n01:07:58. Benlon, Pop Mage - Dusk Till Dawn\n----------------------------------------------------------------\n◢Hey, Welcome to English Love Songs. I always update popular cover English songs  to make videos for you guys. Hope you guys enjoy listening to music with me. If you find it interesting, please give me some interaction as well as share it with friends and family to listen to it. Love you guys forever\n-----------------------------------------------------------------------------------\n#acousticcover #acousticlovesongs #acousticsongs\n\n© Copyright belong to English Love Songs\n© English Love Songs - Magic Music ☞ Do not Reup",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/ushOXEf7Fzc/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/ushOXEf7Fzc/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/ushOXEf7Fzc/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+          standard: {
+            url: "https://i.ytimg.com/vi/ushOXEf7Fzc/sddefault.jpg",
+            width: 640,
+            height: 480,
+          },
+          maxres: {
+            url: "https://i.ytimg.com/vi/ushOXEf7Fzc/maxresdefault.jpg",
+            width: 1280,
+            height: 720,
+          },
+        },
+        channelTitle: "English Love Songs",
+        liveBroadcastContent: "none",
+        publishTime: "2022-09-06T07:01:05Z",
+      },
+    },
+    {
+      kind: "youtube#searchResult",
+      id: {
+        kind: "youtube#video",
+        videoId: "Vbqh4KcEQ80",
+      },
+      snippet: {
+        publishedAt: "2023-01-28T02:27:59Z",
+        channelId: "UCeccof3xATHRJVYTGx36wdw",
+        title:
+          "Best Of OPM Acoustic Love Songs 2023 Playlist ❤️ Top Tagalog Acoustic Songs Cover Of All Time 290",
+        description:
+          'Best Of OPM Acoustic Love Songs 2023 Playlist ❤️ Top Tagalog Acoustic Songs Cover Of All Time 290\n\n🔔 If this music makes you happy , make sure to like ,subscribe & share it with others \n▽ Follow " OPM Acoustic " : https://bit.ly/2QSjsDl\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬ \n🔔 Thanks for watching! Have a nice day ! ❤️\n\n[00:00:00] - Sundo\n[00:03:46] - Tadhana\n[00:07:12] - Huwag Na Lang Kaya\n[00:09:31] - Araw\n[00:12:55] - Nangangamba\n[00:16:25] - Binibini\n[00:19:53] - Ipagpatawad Mo\n[00:23:10] - Ikako\n[00:26:29] - Marikit\n[00:30:59] - Narda\n[00:35:35] - Nakikibig Ka Ba Sa Akin\n[00:39:40] - Ikaw\n[00:44:21] - Gitara\n[00:48:22] - Ligaya\n[00:52:29] - Kathang Isip\n[00:57:18] - Kung Wala Ka\n[01:01:29] - Araw\n[01:06:01] - Himala\n[01:09:15] - Malayo Ka Man\n[01:11:37] - Isang Tanong, Isang Sagot\n[01:14:52] - Naaalala Ka\n[01:17:50] - Huling El Bimbo\n[01:23:29] - Araw Araw Love\n[01:26:10] - Harana\n\nopm acoustic, tagalog acoustic, opm acoustic love songs, tagalog acoustic love songs, opm acoustic cover, tagalog acoustic cover, opm acoustic songs 2023, opm acoustic songs 2023, tagalog acoustic songs 2023, opm songs 2023, tagalog songs 2023, opm love songs, tagalog love songs, pampatulog acoustic songs, pamatay puso acoustic, opm songs karaoke, tagalog songs karaoke, opm songs with lyrics, tagalog songs with lyrics, acoustic love songs 2023, new songs 2023, opm 2023, tagalog 2023, paubaya,acoustic songs, acoustic love songs, acoustic songs cover, acoustic love songs 2023, acoustic songs 2023, acoustic music, acoustic cover, acoustic guitar songs, best acoustic songs, best acoustic cover, English acoustic songs, old acoustic songs, greatest acoustic songs,  acoustic love songs,  acoustic songs cover,  acoustic love songs 2023,  acoustic songs 2023,  acoustic music,  acoustic cover,  acoustic guitar songs,  best acoustic songs,  best acoustic cover,  English acoustic songs,  old acoustic songs,  greatest acoustic songs,  best acoustic love songs,  acoustic love songs 90s,  love songs,  best love songs,  best of love songs,  best love songs cover,  english love songs,  acoustic,  songs,  hits, old love songs, old acoustis songs, acoustic songs, acoustic love songs, acoustic songs cover, acoustic music, acoustic cover, acoustic guitar songs, best acoustic songs, best acoustic cover, English acoustic songs, old acoustic songs, greatest acoustic songs, best acoustic love songs, acoustic love songs 90s, love songs, best love songs, best of love songs, best love songs cover, english love songs, acoustic, acosutic love songs 2023, acoustic songs 2023, acoustic songs, best acoustic love songs, acoustic love songs 90s, love songs, best love songs, best of love songs, best love songs cover, english love songs, acoustic, songs, hits,old love songs,old acoustis songs,acoustic songs,acoustic love songs,acoustic songs cover,acoustic music,acoustic cover,acoustic guitar songs,best acoustic songs,best acoustic cover,English acoustic songs,old acoustic songs,greatest acoustic songs,best acoustic love songs,acoustic love songs 90s,love songs,best love songs,best of love songs,best love songs cover,english love songs,acoustic,acosutic love songs 2023,acoustic songs 2023,\n\nCopyright by OPM Acoustic. Do not reup!\nCopyright by OPM Acoustic. Do not reup!',
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/Vbqh4KcEQ80/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/Vbqh4KcEQ80/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/Vbqh4KcEQ80/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+          standard: {
+            url: "https://i.ytimg.com/vi/Vbqh4KcEQ80/sddefault.jpg",
+            width: 640,
+            height: 480,
+          },
+          maxres: {
+            url: "https://i.ytimg.com/vi/Vbqh4KcEQ80/maxresdefault.jpg",
+            width: 1280,
+            height: 720,
+          },
+        },
+        channelTitle: "OPM Acoustic",
+        liveBroadcastContent: "none",
+        publishTime: "2023-01-28T02:27:59Z",
+      },
+    },
+    {
+      kind: "youtube#searchResult",
+      id: {
+        kind: "youtube#video",
+        videoId: "5ZvHmK0Z4JM",
+      },
+      snippet: {
+        publishedAt: "2023-01-03T19:42:55Z",
+        channelId: "UCyKs4L4EULCfySbTybA9bAg",
+        title: "Relaxing Bossa Lounge - Music To Relax / Study / Work",
+        description:
+          "Good Mood Jazz and Afternoon Bossa Nova Music To Relax / Study / Work\nSubscribe to our channel! 👉 http://bit.ly/MB-subscription\nAppleMusic: https://music.apple.com/us/playlist/relaxing-bossa-lounge/pl.319def837bac48708e9d6ebda2cd414b\nSpotify: https://open.spotify.com/playlist/0bxG7I9mIlQgH62YxWFzV1?si=4a988bd390c140c2\n01 00:00 Stand By Me - @SarahMenescalOfficial \n02 03:07 I Wanna Dance With Somebody (Who Loves Me) - Bossart Ensemble, Adelle\n03 07:00 Over My Shoulder - Sarah Menescal, Groove Da Praia\n04 10:17 Cry For Help - Amazonics, Michelle Simonal\n05 13:13 Don't Dream It's Over - Groove Da Praia\n06 16:26 Call Me - Sarah Menescal\n07 19:15 How Many Lies - Luca Giacco\n08 22:36 Precious - Amazonics\n09 25:53 Space Cowboy - Eve St. Jones\n10 29:18 Don't Start Now - Nenei, Stella Starlight Trio\n11 32:38 Man Down - Shelly Sony\n12 36:41 Do You Really Wan't To Hurts Me - Karen Souza\n13 40:25 Standing Outside In The Rain - Groove Da Praia, Luca Giacco\n14 42:53 Company - Sarah Menescal\n15 45:53 I Feel It Coming - Eve St. Jones\n16 49:29 Cryin' - Sarah Menescal\n17 52:48 Two People - Shelly Sony\n18 55:47 Gypsy Woman (She Is Homeless) - George White Group\n19 58:28 I Ran (So Far Away) - Dinah Eastwood\n20 01:02:30 Hungry Like The Wolf - Dinah Eastwood\n21 01:06:34 Everywhere - Eve St. Jones\n22 01:09:35 Rolling In The Deep - Urban Love, Monique\n23 01:13:42 Endless Love - Jamie Lancaster, Michelle Simonal\n24 01:16:35 Halo - George White Group, Luca Giacco\n25 01:21:06 Rehab - Amazonics, Michelle Simonal\n26 01:24:53 That's What I Like - Apollinare Rossi, Nenei\n27 01:29:07 I'm Not In Love - Karen Souza\n28 01:33:15 Square Rooms - Natalie Renoir\n29 01:36:57 Adventure Of A Lifetime - Sarah Menescal\n30 01:40:53 Valerie - Karen Souza\n31 01:45:06 You Shook Me All Night Long - Dinah Eastwood\n32 01:49:49 A Matter Of Trust - Brazil XXI\n33 01:53:23 This Is What You Came For - Michelle Simonal\n34 01:56:28 Passionfruit - Amazonics\n35 02:00:32 24K Magic - Jamie Lancaster\n36 02:04:24 Heaven Give Me Words (Bossa Nova Version) - Lizette\n37 02:08:16 Again - Bossart Ensemble, Nova Bossa Ltd.\n38 02:11:04 Don't Stop 'Til You Get Enough - Scubba\n39 02:16:16 Like A Prayer - Sarah Menescal\n40 02:19:55 Lost In Love - Scubba, Lila Liu\n41 02:22:30 I'm Throwing My Arms Around Paris - Brazil XXI, Luca Giacco\n42 02:25:10 Loving You - Amazonics\n43 02:29:17 Hello - Amazonics\n44 02:33:48 Don't You Remember? - Morgan, G & Machines\n45 02:37:59 Seven Nation Army - Ituana\n46 02:41:06 Viva La Vida - Scubba\n47 02:45:15 Breakout - Eve St. Jones\n48 02:49:25 Don't You Want Me - Stella Starlight Trio\n49 02:53:03 Missing - 48Th St. Collective\n50 02:56:46 Tainted Love - Karen Souza, Stella Starlight Trio\n51 03:00:00 I Touch Myself - Anekka, Brazilian Jazz Cuts\n52 03:03:20 True - Jamie Lancaster\n53 03:07:04 The Captain Of Her Heart - Luca Giacco\n54 03:10:30 Stir It Up - Michelle Simonal\n55 03:14:01 Lucky - Michelle Simonal\n56 03:16:45 Breakfast In America - 48Th St. Collective\n57 03:19:58 Oh L'Amour - Sarah Menescal\n58 03:23:02 Last Train To London - Eve St. Jones, Massey\n59 03:26:51 Roses - Michelle Simonal\n60 03:30:02 Too Good At Goodbyes - Cassandra Beck\n61 03:34:04 Everybody Hurts - Karen Souza\n62 03:38:15 Waiting In Vain - Ituana\n63 03:42:52 Sweet Dreams (Are Made Of This) - 48Th St. Collective\n64 03:45:20 Blame It On The Boogie - Eve St. Jones\n65 03:48:03 Some People - Michelle Simonal\n66 03:51:31 I Don't Want Your Love - Sarah Menescal\n67 03:54:52 Yes Sir, I Can Boogie (Bossa Nova Version) - Groove Da Praia\n68 03:57:32 Hold On My Heart - The Cooltrane Quartet, Luca Giacco\n69 04:02:31 Sahara Night - George White Group\n\n#relaxing #bossanova #lounge",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/5ZvHmK0Z4JM/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/5ZvHmK0Z4JM/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/5ZvHmK0Z4JM/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+          standard: {
+            url: "https://i.ytimg.com/vi/5ZvHmK0Z4JM/sddefault.jpg",
+            width: 640,
+            height: 480,
+          },
+          maxres: {
+            url: "https://i.ytimg.com/vi/5ZvHmK0Z4JM/maxresdefault.jpg",
+            width: 1280,
+            height: 720,
+          },
+        },
+        channelTitle: "Music Brokers",
+        liveBroadcastContent: "none",
+        publishTime: "2023-01-03T19:42:55Z",
+      },
+    },
+    {
+      kind: "youtube#searchResult",
+      id: {
+        kind: "youtube#video",
+        videoId: "oS8o9nyWShE",
+      },
+      snippet: {
+        publishedAt: "2023-03-27T03:14:00Z",
+        channelId: "UCHc37FyG0ke9qCP2mpujz0g",
+        title: "No Copyright Accoustic love Song",
+        description: "#NoCopyright #FreeDownLoad #AcousticLoveSong",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/oS8o9nyWShE/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/oS8o9nyWShE/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/oS8o9nyWShE/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+        },
+        channelTitle: "collum finnion",
+        liveBroadcastContent: "none",
+        publishTime: "2023-03-27T03:14:00Z",
+      },
+    },
+    {
+      kind: "youtube#searchResult",
+      id: {
+        kind: "youtube#video",
+        videoId: "M986BAFW3lE",
+      },
+      snippet: {
+        publishedAt: "2022-12-27T06:50:28Z",
+        channelId: "UCSX5Gk1UvlYWYyjeVZFnp-w",
+        title:
+          "2023 new songs 🎇 Songs that makes you feel positive when you listen to it ~ morning songs",
+        description:
+          "2023 new songs ~ Songs that makes you feel positive when you listen to it ~ morning songs\n\nIn this video, we're going to countdown the 2023 new songs! Songs that make you feel positive when you listen to them, morning songs that will make your day start off well.\n\nWhether you're feeling down or just need a little boost, these songs are perfect for you! I hope you enjoy them as much as I do. Thanks for watching!\n\n\n🎵 | Music provided by Epidemic Pop: \n\nhttps://spoti.fi/3BJpDgo\n\n\n🎨 Artwork by Sam: \n\nhttps://www.instagram.com/little_sam137/\n\n\n🎧 Tracklist:\n\n00:00 Homesick - Loving Caliber\n03:48 Something Different - CLNGR\n07:14 Think About You - Sture Zetterberg\n10:21 17 - Wildflowers\n14:20 Loving This Moment - Gamma Skies\n17:42 The Only One For Me - Victor Lundberg\n21:01 Rose In The Garden - Cody Francis\n24:20 Let Us Run Away - Loving Caliber\n27:38 Just Do It - Houses On The Hill\n30:40 We Don't Need Much - Bird Of Figment\n33:39 I'll Get Over You - Loving Caliber\n36:53 Without Her - Wildflowers\n40:21 Body to Body - Sture Zetterberg\n43:48 That's How You Know That You're In Love - Loving Caliber\n47:04 Still Thinking Of You - Loving Caliber\n50:03 We're A Little Messed Up - Wildflowers\n53:25 I Wish - Mindme\n56:06 Lucky Day - Loving Caliber\n59:24 Wrote You A Letter - Candelion\n1:02:40 You Can't Break My Heart - Victor Lundberg\n1:06:26 We Were Meant To Be - Loving Caliber\n1:10:04 What Is It Like - Loving Caliber\n1:13:22 Part Of Me Still Wants You - Sture Zetterberg\n1:16:26 Rare Love - Cody Francis\n1:19:31 Waiting for Love - Candelion\n1:22:35 Test Of Time - Sture Zetterberg\n1:25:27 Settled - Bird Of Figment\n1:28:48 Ball And Chain - Bird Of Figment\n1:32:03 What I Really Feel - Victor Lundberg\n1:35:39 There's a New Day - Staffan Carlen\n1:38:59 Sweet Baby - Bothnia\n1:42:02 Weather Any Storm - Cody Francis\n1:44:41 Even If the Sky Is Falling Down - Candelion\n1:47:24 Get over You Again - Christine Smit\n1:50:42 Sweet Embrace - Go For Howell\n1:53:42 When We Were Younger - Loving Caliber\n\n\n\n#popsongs \n#englishsongs\n#chillsongs",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/M986BAFW3lE/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/M986BAFW3lE/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/M986BAFW3lE/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+          standard: {
+            url: "https://i.ytimg.com/vi/M986BAFW3lE/sddefault.jpg",
+            width: 640,
+            height: 480,
+          },
+          maxres: {
+            url: "https://i.ytimg.com/vi/M986BAFW3lE/maxresdefault.jpg",
+            width: 1280,
+            height: 720,
+          },
+        },
+        channelTitle: "Chill Vibes",
+        liveBroadcastContent: "none",
+        publishTime: "2022-12-27T06:50:28Z",
+      },
+    },
+    {
+      kind: "youtube#searchResult",
+      id: {
+        kind: "youtube#video",
+        videoId: "1mmxuuVmST4",
+      },
+      snippet: {
+        publishedAt: "2018-09-27T22:10:55Z",
+        channelId: "UCJhjE7wbdYAae1G25m0tHAA",
+        title:
+          "Norah Jones Cover - Relaxing Cafe Music - Chill Out Jazz & Bossa Nova arrange.",
+        description:
+          "0:00 Don't Know Why\n2:30 One flight down\n5:17 Come away with me\n7:59 Shoot The Moon\n11:28 Nearness of you\n14:06 Seven Years\n16:52 Turn me on\n18:56 Feelin' the same way\n21:54 Cold Cold Heart\n25:18 I've got to see you again\n28:20 Lonestar\n30:35 The Long Day is Over\n33:11 Painter song\n35:32 Nightingale\n_____________________________________________\n\n🔔 Please Subscribe!\n→ https://www.youtube.com/user/cafemusicbgmchannel\n\n💿 Listen on Spotify, Apple Music, and more\n→ Cafe Music BGM channel: https://lnk.to/eerYQXXe\n\n📝 Use the BGMC\n→ Music for Videos: https://bgmc-library.com/\n→ Music for Stores: https://bgmc-station.com/en/\n_____________________________________________\n\n☕ About Cafe Music BGM channel\nWe are making cafe music for relaxation, for work, for study, etc.\nAll music in this video & on this channel is original music by BGMC.\nWe are playing all the songs.\n\n🎶 The band is produced by Cafe Music BGM channel\n→ JUTESETS: https://lnk.to/cKsSZK04\n_____________________________________________\n\n🎬 YouTube channels by BGMC\n→ BGM channel: https://www.youtube.com/user/bgmchannelbgm\n→ Green Music BGM channel: https://www.youtube.com/user/japanrelaxingmusic\n→ J-POP Music BGM channel: https://www.youtube.com/user/jpopcoverchannel\n→ Hawaiian BGM channel: https://www.youtube.com/HawaiianBGMchannel\n\n🎶 Artists by BGMC\n→ BGM channel: https://lnk.to/TZWnnMjq\n→ Green Music BGM channel: https://lnk.to/7ZkFpSUD\n→ Hawaiian BGM channel: https://lnk.to/ktHak7fs\n→ Hip Hop Jazz BGM channel: https://lnk.to/3aoZLbfS\n→ Ambient BGM channel: https://lnk.to/98jQRFKU\n→ Music Box BGM channel: https://lnk.to/Q5kpTnLs\n\n📩 Contact\n→ Official Website: https://www.bgmcrecords.com/\n\n🔗 Follow us on Social Media\n→ Instagram: https://www.instagram.com/bgmc_bgmchannel/\n→ Facebook: https://www.facebook.com/bgmc.bgmchannel/\n→ Twitter: https://twitter.com/bgmc_bgmchannel\n\n\n© Music is Copyrighted.\n#NorahJones #Jazz #CafeMusic",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/1mmxuuVmST4/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/1mmxuuVmST4/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/1mmxuuVmST4/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+          standard: {
+            url: "https://i.ytimg.com/vi/1mmxuuVmST4/sddefault.jpg",
+            width: 640,
+            height: 480,
+          },
+          maxres: {
+            url: "https://i.ytimg.com/vi/1mmxuuVmST4/maxresdefault.jpg",
+            width: 1280,
+            height: 720,
+          },
+        },
+        channelTitle: "Cafe Music BGM channel",
+        liveBroadcastContent: "none",
+        publishTime: "2018-09-27T22:10:55Z",
+      },
+    },
+    {
+      kind: "youtube#searchResult",
+      id: {
+        kind: "youtube#video",
+        videoId: "1dGdQseXgZE",
+      },
+      snippet: {
+        publishedAt: "2023-05-11T02:52:05Z",
+        channelId: "UCi4vci-25S566Ll2dlHta2A",
+        title:
+          "Top Hits 2023 | New Popular Songs 2023 | Pop Songs 2023 | Best English Songs 2023 | 2023 New Songs",
+        description:
+          'Top Hits 2023 | New Popular Songs 2023 | Pop Songs 2023 | Best English Songs 2023 | 2023 New Songs\nhttps://youtu.be/1dGdQseXgZE\n\n➤ Thank you for taking the time to watch our video\n➤ If satisfied, please support me by:\n👉 Like and comment\n👉 Subscribe and share our videos with people around for them to watch too\nREGISTER HERE: bit.ly/3ktSwZB   \n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n▶️ "Music Collection" is a youtube channel that synthesizes the best songs in the world. Our channel specializes in creating music videos, specifically pop, acoutics, ... from all ages with famous singers. Accompanied by lyrics videos so that listeners can satisfy their passion for singing.\n▶️ We will try to create the best and most impressive products for our listeners\n▶️ Thank you so much for your support again ️\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n➤➤➤ DO NOT REUP',
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/1dGdQseXgZE/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/1dGdQseXgZE/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/1dGdQseXgZE/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+          standard: {
+            url: "https://i.ytimg.com/vi/1dGdQseXgZE/sddefault.jpg",
+            width: 640,
+            height: 480,
+          },
+          maxres: {
+            url: "https://i.ytimg.com/vi/1dGdQseXgZE/maxresdefault.jpg",
+            width: 1280,
+            height: 720,
+          },
+        },
+        channelTitle: "Music Collection",
+        liveBroadcastContent: "none",
+        publishTime: "2023-05-11T02:52:05Z",
+      },
+    },
+    {
+      kind: "youtube#searchResult",
+      id: {
+        kind: "youtube#video",
+        videoId: "neUrSKo62VY",
+      },
+      snippet: {
+        publishedAt: "2023-04-25T00:57:22Z",
+        channelId: "UCXHbxy8uIKkGfOxtrU3DOSg",
+        title:
+          "Acoustic 2023 | The Best Acoustic Covers of Popular Songs 2023 | Top Acoustic Songs Collection",
+        description:
+          "Acoustic 2023 | The Best Acoustic Covers of Popular Songs 2023 | Top Acoustic Songs Collection\n🔔 If you like this track, please like and subscribe to this mix and share it on social sites (Facebook, Reddit, Twitter, etc.) so more people can hear it!\n🔔 We always bring you the best music to relax while working, always accompany us to enjoy the best.\nWe are a music development company for YouTube.\nWe look forward to collaborating with talented artists.\n© ️ All rights reserved to their respective owners, content\n---------------------------------------------------\n✅ Acoustic Songs is created to promote and support new artists (musicians/labels, composers, producers, photographers/filmmakers) who want to create a fan base.\n✅ We try to find the best and most enjoyable music for you! We hope to make your day better with the music we share! Peace of love and music.\n-----------------------------------------------------\n🔔 Thank you for watching! ..I read your comments..I hope the music you share will make your day brighter!",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/neUrSKo62VY/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/neUrSKo62VY/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/neUrSKo62VY/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+          standard: {
+            url: "https://i.ytimg.com/vi/neUrSKo62VY/sddefault.jpg",
+            width: 640,
+            height: 480,
+          },
+          maxres: {
+            url: "https://i.ytimg.com/vi/neUrSKo62VY/maxresdefault.jpg",
+            width: 1280,
+            height: 720,
+          },
+        },
+        channelTitle: "Acoustic Songs",
+        liveBroadcastContent: "none",
+        publishTime: "2023-04-25T00:57:22Z",
+      },
+    },
+    {
+      kind: "youtube#searchResult",
+      id: {
+        kind: "youtube#video",
+        videoId: "sg9OsWVUIls",
+      },
+      snippet: {
+        publishedAt: "2022-09-22T22:44:23Z",
+        channelId: "UCFm4zM6-08kb9abXDk4fxXQ",
+        title: "Acoustic Covers Of Popular Songs 100 Hits",
+        description:
+          "Subscribe to our channel! 👉 http://bit.ly/MB-subscription\nAcoustic Covers Of Popular Songs 100 Hits - Cool Music\n01 00:00 As It Was - Stereo Dub, Celso Mendes, Adelle\n02 03:12 Dreams (Acoustic Mix) - Eve St. Jones\n03 07:03 Angels (Acoustic Version) - Sarah Menescal\n04 09:40 Everglow - Sao Vicente, Eve St. Jones\n05 13:08 Every Little Thing She Does Is Magic - Apollinaire Rossi\n06 16:03 Over My Shoulder (Acoustic Version) - Sarah Menescal\n07 18:32 Get Lucky - Karen Souza\n08 21:53 Hello (Acoustic) - Amazonics\n09 26:03 Stand By Me (Acoustic Version) - Sarah Menescal\n10 28:17 Everybody's Changing (Acoustic Version) - Anakelly\n11 30:37 Speed Of Sound (Groove Da Praia Bossa Mix) - Groove Da Praia, C. Mendes, M. Simonal\n12 34:53 Love Is In The Air - 48Th St. Collective\n13 37:44 Anybody Seen My Baby (Acoustic Version) - Groove Da Praia\n14 40:04 Fragile - Urban Aires\n15 42:44 No Diggity - Natty Bong\n16 46:34 Hold On, We're Going Home - Francoise Sanders\n17 49:12 No One Is To Blame - Brazil XXI\n18 52:54 Perfect Strangers - Nikki Ocean\n19 56:22 Company (Acoustic Version) - Sarah Menescal\n20 59:01 Your Love - Dinah Eastwood\n21 01:02:01 Everything's Not Lost - Karen Souza\n22 01:05:16 Good For You - Style Project\n23 01:08:56 Californication - Nikki Ocean\n24 01:13:30 Lovesong - Roger Beck\n25 01:16:33 Attention - Klub Rider, Marvin\n26 01:19:25 Boys Don't Cry - Jamie Lancaster\n27 01:22:38 What Goes Around... Comes Around - James Farrelli\n28 01:26:10 Don't Speak - Sarah Menescal\n29 01:30:20 Never Gonna Give You Up - Karen Souza\n30 01:33:03 No One Can -  Dinah York\n31 01:36:52 Oh L'Amour - Sarah Menescal\n32 01:39:51 Drivers License - Krister, Dalbani\n33 01:43:19 Something (Flamenco Chill Mix) - Urban Aires\n34 01:45:45 Here Comes The Sun (Acoustic Version) - Sarah Menescal\n35 01:48:09 Circles (Acoustic Version) - Natty Bong, General Soundbwoy\n36 01:51:19 Crosses - Zed, Monsoon\n37 01:55:04 Love Hurts (Acoustic Version) - Sarah Menescal\n38 01:57:59 Original Sin - Lizette, Corcovado Frequency\n39 02:01:07 Jumpin' Jack Flash - Sd Project\n40 02:03:39 Lovesong - Roger Beck\n41 02:06:12 Can't Get You Out Of My Head - Marvin, Herbie Garrett\n42 02:08:56 Ocean Eyes – Stereo Dub, Lila Liu\n43 02:11:33 Rolling In The Deep - Urban Love, Monique\n44 02:15:40 It Ain't Over Til' It's Over - Beluga's Trio, Celso Mendes\n45 02:19:47 Somebody That I Used To Know - Freedom Dub, Angie\n46 02:23:57 Time After Time (Acoustic Version) - Sarah Menescal\n47 02:27:34 Your Love Alone Is Not Enough - Klub Rider, Marvin\n48 02:30:34 Here I Go Again - Dinah Eastwood\n49 02:35:11 Safe And Sound - Stereo Dub, Karen Souza\n50 02:37:43 Big In Japan (Acoustic Mix) - Banda Do Sul, Isa\n51 02:42:03 Let Her Go - Eve St. Jones\n52 02:46:10 Trouble - Anakely\n53 02:49:42 Everybody Hurts - Karen Souza\n54 02:53:53 Heroes - Lizette\n55 02:57:06 Brothers In Arms - Style Project\n56 03:00:30 Beat It (Bossa & Acoustic Mix) - Scubba, Lizette\n57 03:03:18 Hey Ya! - Urselle\n58 03:07:22 Jack & Diane - James Farrelli\n59 03:10:50 Broken Land - Celso Mendes, Marvin\n60 03:14:08 Who Can It Be Now? - Srereo Dub, Karen Souza\n61 03:17:24 Eye In The Sky - James Farrelli, Sarah Menescal\n62 03:21:08 Walking On The Moon - James Farrelli\n63 03:24:55 Fast Car - Nikki Ocean\n64 03:30:04 The Most Beautiful Girl In The World - James Farrelli\n65 03:33:46 Jamming - Groovy Waters\n66 03:36:31 One Of These Nights - James Farrelli, Ituana\n67 03:39:44 Roads - Urban love, Ivette Moraes\n68 03:42:36 God Put A Smile On My Face - Nikki Ocean\n69 03:46:12 Glory Box - Lila Frascara\n70 03:49:27 Sunday Morning (Acoustic Mix) - Dalbani, Herbie Garrett\n71 03:52:24 One Of Us (Sixth Finger Strings Mix) - Stereo Dub, Michelle Simonal\n72 03:56:58 Take It To The Limit - Mo'Nique\n73 04:00:30 I Ran (So Far Away) - Dinah Eastwood\n74 04:04:32 The Way You Make Me Feel - Nenei\n75 04:08:13 Losing Grip - Stella Starlight Trio, Cassandra Beck\n76 04:12:23 Don't Let The Sun Go Down On Me - Karen Souza\n77 04:16:23 I've Been Losing You - Os Alquimistas, Luca Giacco, Anakelly\n78 04:19:35 Cryin' (Acoustic Version) - Sarah Menescal\n79 04:22:54 The Passenger - Dinah Eastwood\n80 04:26:52 Caravan Of Love - Sarah Menescal\n81 04:30:32 Love Yourself - George White Group\n82 04:34:09 Holding Out For A Hero (Acoustic & Organic Mix) - Cassandra Beck\n83 04:37:36 Say Say Say (Acuostic Mix) - Eve St. Jones\n84 04:40:43 Girl, You'll Be A Woman Soon - Groovy Waters\n85 04:43:49 Time Is On My Side - Sao Vicente, Uschi\n86 04:47:01 Sure Know Something - 48Th St Collective\n87 04:50:06 I Finally Found Someone - Jamie Lancaster\n88 04:53:18 Every Rose Has Its Thorn - Dinah Eastwood\n89 04:57:48 I Just Wanna Stop - Michelle Simonal\n90 05:00:11 The River - Anakelly\n91 05:04:00 In Between Days - Karen Souza\n92 05:07:23 Please Don't Go - Eve St, Jones\n& more!\nAcoustic Covers Of Pop Songs - Acoustic Chillout Lounge - Acoustic Lounge - Vintage Acoustic Cafe - Acoustic Covers - Acoustic Music Best Songs - Background Music\n\n#acoustic #covers #backgroundmusic",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/sg9OsWVUIls/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/sg9OsWVUIls/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/sg9OsWVUIls/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+          standard: {
+            url: "https://i.ytimg.com/vi/sg9OsWVUIls/sddefault.jpg",
+            width: 640,
+            height: 480,
+          },
+          maxres: {
+            url: "https://i.ytimg.com/vi/sg9OsWVUIls/maxresdefault.jpg",
+            width: 1280,
+            height: 720,
+          },
+        },
+        channelTitle: "PMB Music",
+        liveBroadcastContent: "none",
+        publishTime: "2022-09-22T22:44:23Z",
+      },
+    },
+    {
+      kind: "youtube#searchResult",
+      id: {
+        kind: "youtube#video",
+        videoId: "XS7D_0EIcgs",
+      },
+      snippet: {
+        publishedAt: "2022-03-31T11:11:17Z",
+        channelId: "UCEi0EgWJ5m7gVBQ68a1L0TA",
+        title: "Into The Woods 🌲 - A Mysterious Folk/Pop Playlist",
+        description:
+          "Explore the forests and wander the woodlands with the best indie music! Tracklist & Spotify link below… 👇\nLISTEN ON SPOTIFY: https://spoti.fi/3xdj6K7\n» Subscribe to be the first to hear the finest new independent music! http://bit.ly/arbMsubscribe\n\n📩 SUBMIT YOUR MUSIC: https://www.submithub.com/blog/alexrainbirdmusic or https://submissions.alexrainbirdmusic.com/\n✉ Email for all other enquiries: alexrainbirdmusic@gmail.com\n\n\n💿 Tracklist:\n0:00 Reed Pittman - ‘Stay Lost With Me’\nhttps://spoti.fi/3xaS0U1\nhttps://www.instagram.com/reedpittman/\n2:54 The Satellite Station - ‘Ghost In The Night’\nhttps://spoti.fi/3jegHXB\nhttps://www.instagram.com/thesatellitestationmusic/\n6:07 sød ven - ‘hold on’\nhttps://spoti.fi/3x9Rplz\nhttps://www.instagram.com/sodvenmusic/\n9:31 Mark Diamond - ‘Colorado’\nhttps://spoti.fi/3jfeyLi\nhttps://www.instagram.com/markdmnd/\n12:14 Courtney Preis - ‘Cabin in the Woods’\nhttps://spoti.fi/3r4Ik9O\nhttps://www.instagram.com/courtneypreismusic/\n15:21 Hunter Metts - 'Open’\nhttps://spoti.fi/3NQNfF7\nhttps://www.instagram.com/hunterjmetts/\n19:07 Covenhoven - ‘Nothing Left To Be’\nhttps://spoti.fi/3ud5Jb3\nhttps://www.instagram.com/covenhoven/\n24:30 Thomas LaVine - ‘Calico’\nhttps://spoti.fi/3O4DzqO\nhttps://www.instagram.com/thomaslavinemusic/\n28:05 Boxtrod - ‘Juniper’\nhttps://spoti.fi/3LKndl5\nhttps://www.instagram.com/boxtrod/\n31:42 Jules Renner - ‘Shadows’\nhttps://spoti.fi/3r3RROv\nhttps://www.instagram.com/julesrennermusic/\n35:03 Homecamp - ‘Afterglow’\nhttps://spoti.fi/3DPMLdR\nhttps://www.instagram.com/homecampmusic/\n38:46 Yehra - ‘On & On’\nhttps://spoti.fi/3raCIed\nhttps://www.instagram.com/yehramusic/\n41:43 A.W.A & Mark Kelly - ‘Empyrean’\nhttps://spoti.fi/374DfYd  / https://spoti.fi/38ApMIf\nhttps://www.instagram.com/another.wandering.artist/\n45:54 Nothing Ends - ‘Cry’\nhttps://spoti.fi/3NTymlh\nhttps://www.instagram.com/nothingendsmusic/\n49:06 Ceitidh Mac - ‘Goldfinches’\nhttps://spoti.fi/3v0McK7\nhttps://www.instagram.com/ceitidh_mac/\n52:31 Jordan Lindley - 'Behind the Curtain’\nhttps://spoti.fi/3KmRW7E\nhttps://www.instagram.com/jordanlindley96/\n56:03 Ollie Dixon - ‘St. Agnes’\nhttps://spoti.fi/3DPGjn3\nhttps://www.instagram.com/olliedixon/\n59:31 IXIK - ‘Old Fires’\nhttps://spoti.fi/375U6Ka\nhttps://www.instagram.com/ixikmusic/\n1:02:46 Declan Ryan - 'Far Again’\nhttps://spoti.fi/3rvknsH\nhttps://www.instagram.com/declanryanmusic/\n1:05:46 Mohsin Zaman - ‘Close your eyes’\nhttps://spoti.fi/3LJSdlh\nhttps://www.instagram.com/mohsinzaman/\n1:08:51 Mcclendon - ‘What I’ve Become’\nhttps://spoti.fi/3DPIuqJ\nhttps://www.instagram.com/xmcclendonx/\n1:12:19 Jaguar Sun & Jesse Maranger - 'Autumn Fire’ (Acoustic Instrumental)’\nhttps://spoti.fi/3Jn0v0B  / https://spoti.fi/3NTGTVG\nhttps://www.instagram.com/jaguar__sun/\nhttps://www.instagram.com/jessemaranger/\n1:16:40 The Satellite Station - 'What Am I Supposed To Do’\nhttps://spoti.fi/3jegHXB\nhttps://www.instagram.com/thesatellitestationmusic/\n1:20:44 Cole Alan - 'Ghost Town’\nhttps://spoti.fi/36TF7Dn\nhttps://www.instagram.com/colealanmusic/\n1:23:50 Philip Jonathan - ‘I, Hope’\nhttps://spoti.fi/3LPsqb8\nhttps://www.instagram.com/philipjonathanmusic/\n1:28:03 Harry Keyworth - 'On+On’\nhttps://spoti.fi/38o0nRO\nhttps://www.instagram.com/harrykeyworth/\n1:31:33 Umair Ali & Zoha Zuberi - 'Take Your Turn’\nhttps://spoti.fi/3Khyjxy  / https://spoti.fi/3r7VLGe\nhttps://www.instagram.com/umairrali/\nhttps://www.instagram.com/zuberizoha/\n1:35:33 Son of Lazarus - 'Blood of My Blood’\nhttps://spoti.fi/35MNQq7\nhttps://www.instagram.com/sonoflazarusmusic/\n1:39:08 Matt Gombau - 'Breathe’\nhttps://spoti.fi/3LJU2yD\nhttps://www.instagram.com/mattgombau/\n1:42:55 Mathias Gundhus - 'Your Return’\nhttps://spoti.fi/3NP2puJ\nhttps://www.instagram.com/mathiasgundhus/\n1:47:08 Zanna Black - 'Sparrow’\nhttps://spoti.fi/3DMs0j2\nhttps://www.instagram.com/zanna_blackburn/\n1:51:29 Christian Sparacio & Nick Horn - 'Suburban Movie Song’\nhttps://spoti.fi/3Jn39n3  / https://spoti.fi/3uhwECF\nhttps://www.instagram.com/sparaciomusic/\nhttps://www.instagram.com/nickhorn_/\n1:54:54 TENTS - 'Laser Beam Light’\nhttps://spoti.fi/35MynX4\nhttps://www.instagram.com/tentsband/\n1:58:17 SHEAL - 'Wasteland’\nhttps://spoti.fi/3ueJemb\nhttps://www.instagram.com/sheilaghmcnab/\n2:01:50 Nadiiife - ‘What We Leave’\nhttps://spoti.fi/372aYS3\nhttps://www.instagram.com/nadiiife/\n2:06:03 Antony Hurley - 'Weigh It In’\nhttps://spoti.fi/3jgjcc2\nhttps://www.instagram.com/antonyhurley/\n2:09:27 Collective Music Society - 'Paris’\nhttps://spoti.fi/3JgO1Yz\nhttps://www.instagram.com/collectivemusicsociety/\n2:12:32 Lewis McLaughlin - 'Wolf In The Woods’\nhttps://spoti.fi/3uhxqQ5\nhttps://www.instagram.com/lewismclaughlinmusic/\n\n\n🌧️ 🐦 Find alexrainbirdMusic on\nOfficial website: http://www.alexrainbirdmusic.com/\nSpotify: http://spoti.fi/350QXar\nInstagram: https://instagram.com/alexrainbirdmusic/\nPodcast: https://pod.link/IndieMusicPodcast\nDiscord: https://discord.gg/nQxwjC25YX\nEverywhere else: https://www.alexrainbirdmusic.com/discover\n\n#IntoTheWoods #ForestMusic #IndieFolk",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/XS7D_0EIcgs/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/XS7D_0EIcgs/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/XS7D_0EIcgs/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+          standard: {
+            url: "https://i.ytimg.com/vi/XS7D_0EIcgs/sddefault.jpg",
+            width: 640,
+            height: 480,
+          },
+        },
+        channelTitle: "alexrainbirdMusic",
+        liveBroadcastContent: "none",
+        publishTime: "2022-03-31T11:11:17Z",
+      },
+    },
+    {
+      kind: "youtube#searchResult",
+      id: {
+        kind: "youtube#video",
+        videoId: "3pkfJXX_yOk",
+      },
+      snippet: {
+        publishedAt: "2023-02-14T00:47:01Z",
+        channelId: "UCXHbxy8uIKkGfOxtrU3DOSg",
+        title:
+          "Acoustic Cover Of Popular Songs - Acoustic Love Songs Cover 2023 - Best Acoustic Songs Ever",
+        description:
+          "Acoustic Cover Of Popular Songs - Acoustic Love Songs Cover 2023 - Best Acoustic Songs Ever\n🔔 If you like this track, please like and subscribe to this mix and share it on social sites (Facebook, Reddit, Twitter, etc.) so more people can hear it!\n🔔 We always bring you the best music to relax while working, always accompany us to enjoy the best.\nWe are a music development company for YouTube.\nWe look forward to collaborating with talented artists.\n© ️ All rights reserved to their respective owners, content\n---------------------------------------------------\n✅ Acoustic Songs is created to promote and support new artists (musicians/labels, composers, producers, photographers/filmmakers) who want to create a fan base.\n✅ We try to find the best and most enjoyable music for you! We hope to make your day better with the music we share! Peace of love and music.\n-----------------------------------------------------\n🔔 Thank you for watching! ..I read your comments..I hope the music you share will make your day brighter!",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/3pkfJXX_yOk/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/3pkfJXX_yOk/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/3pkfJXX_yOk/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+          standard: {
+            url: "https://i.ytimg.com/vi/3pkfJXX_yOk/sddefault.jpg",
+            width: 640,
+            height: 480,
+          },
+          maxres: {
+            url: "https://i.ytimg.com/vi/3pkfJXX_yOk/maxresdefault.jpg",
+            width: 1280,
+            height: 720,
+          },
+        },
+        channelTitle: "Acoustic Songs",
+        liveBroadcastContent: "none",
+        publishTime: "2023-02-14T00:47:01Z",
+      },
+    },
+    {
+      kind: "youtube#searchResult",
+      id: {
+        kind: "youtube#video",
+        videoId: "R_64FLgek8A",
+      },
+      snippet: {
+        publishedAt: "2022-10-02T01:51:18Z",
+        channelId: "UCFZSrENQMFmnBd6ksXteGsQ",
+        title:
+          "Good Vibes Reggae Music | OPM Songs Mix 90's | Acoustic OPM Road trip | New Tagalog Reggae Non-stop",
+        description: "#reggae #reggaemusic #reggaeton",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/R_64FLgek8A/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/R_64FLgek8A/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/R_64FLgek8A/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+          standard: {
+            url: "https://i.ytimg.com/vi/R_64FLgek8A/sddefault.jpg",
+            width: 640,
+            height: 480,
+          },
+        },
+        channelTitle: "c l o u d IX",
+        liveBroadcastContent: "none",
+        publishTime: "2022-10-02T01:51:18Z",
+      },
+    },
+    {
+      kind: "youtube#searchResult",
+      id: {
+        kind: "youtube#video",
+        videoId: "OA0pVvUaLOs",
+      },
+      snippet: {
+        publishedAt: "2021-09-27T10:59:08Z",
+        channelId: "UCyKs4L4EULCfySbTybA9bAg",
+        title: "Covers Of Popular Songs - 100 Hits",
+        description:
+          "Subscribe to our channel! 👉 http://bit.ly/MB-subscription\nCovers Of Popular Songs - 100 Hits - Playlist Spotify: https://bit.ly/100Covers-SP\nThere are some songs that you don’t truly appreciate until another artist takes it on and makes it their own. We proudly present this dazzling collection of hand-picked versions that are sure to make you smile nostalgically. Enjoy!\nCovers Of Popular Songs - 100 Hits - Playlist:\n01 00:00 Hello - @AmazonicsOfficial \n02 04:31 Get Lucky - Karen Souza\n03 07:52 Let Her Go - @DualSessions \n04 11:36 Take My Breath Away - Flora Martinez\n05 15:06 I Just Wanna Stop - Michelle Simonal\n06 17:29 Never Gonna Give You Up - @thecooltranequartet  \n07 20:37 Over My Shoulder - @SarahMenescalOfficial , Groove Da Praia\n08 23:54 Last Friday Night (T.G.I.F.) – Anakelly, Stereo Dub, Nova Bossa Ltd.\n09 27:24 Overprotected – Ituana\n10 30:52 Only Happy When It Rains - Amazonics\n11 33:54 Cryin' - Sarah Menescal\n12 37:13 If You Ever Want My Love Again – @UrbanLoveMusic , Luca Giacco\n13 40:20 Portuguese Love – Amazonics, Apollinare Rossi, Julie Benson\n14 43:35 Cry For Help - Amazonics, Michelle Simonal\n15 46:31 The Lady In Red - The Cooltrane Quartet\n16 50:18 Every Breath You Take - Karen Souza\n17 53:05 Stand By Me - Sarah Menescal\n18 56:12 Dangerous Woman – Nenei\n19 59:53 Say Say Say - Eve St. Jones\n20 01:03:02 Don't Speak - Sarah Menescal\n21 01:07:11 I've Been Losing You - Os Alquimistas, Luca Giacco, Anakelly\n22 01:10:23 Sure Know Something - 48Th St. Collective\n23 01:13:28 Adventure Of A Lifetime - Sarah Menescal\n24 01:17:24 What Goes Around... Comes Around - James Farrelli\n25 01:20:56 I Just Can't Stop Loving You - Brazil XXI, Deise Costa\n26 01:24:45 Girl You'll Be a Woman Soon - Groovy Waters\n27 01:27:51 Eye In The Sky - James Farrelli, Sarah Menescal\n28 01:31:35 It's My Life - Ituana\n29 01:34:59 Lost In Love - Scubba, Lila Liu\n30 01:37:34 Inside Out - Dinah Eastwood\n31 01:40:17 Tape Loop - Ituana\n32 01:43:29 Company - Sarah Menescal\n33 01:46:29 Back To Black - Eve St. Jones\n34 01:50:35 The Captain Of Her Heart - Luca Giacco\n35 01:54:01 The Rhythm Of The Night - Groove Da Praia, Anakelly\n36 01:56:34 Behind Blue Eyes - Amazonics, Michelle Simonal\n37 02:00:37 Like A Prayer - Sarah Menescal\n38 02:04:16 Come Undone - Urban Love\n39 02:07:59 I Cannot Believe It's True - Banda Do Sul, Luca Giacco\n40 02:11:30 Endless Love - Jamie Lancaster, Michelle Simonal\n41 02:14:23 What's Love Got To Do With It - Apollinare Rossi\n42 02:17:55 Everybody Wants To Rule The World - Jazzystics, Urselle\n43 02:21:49 Space Cowboy - Eve St. Jones\n44 02:25:14 Don't Speak - Sarah Menescal\n45 02:28:34 99 Red Balloons - Nova Bossa Ltd., Lizette\n46 02:32:01 Don't Let Me Down - Stella Starlight Trio\n47 02:35:52 Every Rose Has Its Thorn - Dinah Eastwood\n48 02:40:21 Ain't No Sunshine - Pinky Dread, Lila Frascara\n49 02:43:27 Wicked Game - @JamaicanReggaeCuts \n50 02:47:00 Stairway To Heaven - Sublime Reggae Kings\n51 02:50:58 Ironic - Pinky Dread, Vintage Reggae Soundsystem\n52 02:54:30 I Feel It Coming - Natty Bong\n53 02:58:40 I Want To Know What Love Is - Sublime Reggae Kings, Luca Giacco\n54 03:02:08 Do Ya Think I'm Sexy – Natty Bong, Max Dubster\n55 03:05:37 Man Down - Shelly Sony\n56 03:10:11 Sorry Seems To Be The Hardest Word - Pinky Dread\n57 03:13:42 Dust In The Wind - Vintage Reggae Soundsystem\n58 03:16:38 Smooth Operator - General Soundbwoy, Ivette Moraes\n59 03:20:47 No Rain - Natty Bong\n60 03:24:42 Lovin' You (Astrovoid Remix) - Amazonics\n61 03:27:40 The Sweetest Taboo (Remix) - Scubba, I.Moraes, Ronan\n62 03:30:48 Self Control - Krister, Dalbani\n63 03:33:49 Your Love (Bellestar Remix) - D.Eastwood, Bellestar\n64 03:36:34 Lovefool (Dalbani Remix) – Urselle\n65 03:39:42 Magic - Trippynova, Natalie Renoir\n66 03:43:36 Big In Japan (Krister Remix) - Banda Do Sul\n67 03:47:42 Dreams (No.oN Remix) - Eve St. Jones, No.oN\n68 03:51:01 Radioactive (Krister Remix) - Dual Sessions\n69 03:54:50 Love Is In The Air (Bellestar Remix) - Urban Love, Bellestar\n70 03:58:03 Love Is A Shield (Flamenco Chill Mix) – Urban Aires\n71 04:01:13 Can't Take My Eyes Off Of You - N. Renoir, Stereo Dub, Brazil XXI\n72 04:04:08 West End Girls - Bellestar, Sixth Finger\n73 04:07:08 Passionfruit - Shelly Sony\n74 04:09:44 Tiny Dancer (Ronan Remix) - Urban Love, Dew\n75 04:13:48 How Deep Is Your Love - Bellestar, Klub Riders, Glambeats Corp.\n76 04:17:27 Love You Inside Out - Beluga's Trio, Shelly Sony\n77 04:21:10 Boys Don't Cry - Lifuki\n78 04:24:23 Duel - Amazonics\n79 04:27:37 Bette Davis Eyes - Jazzystics, Karen Souza\n80 04:31:36 Wonderwall - The Cooltrane Quartet\n81 04:35:52 Please Don't Go - Eve St. Jones\n82 04:39:37 Africa - James Farrelli, Sarah Menescal\n83 04:43:47 Speed Of Sound - Anakelly\n84 04:48:18 Here Comes The Sun - Sarah Menescal\n85 04:50:51 Holiday - Krister, Dalbani, Lee Avril\n86 04:54:20 That's What I Like - Apollinare Rossi, Nenei\n& More!\n\nCovers Of Popular Songs / Pop Covers / Bossa Nova Covers / Jazz Covers / Lounge Covers\n\n#Covers #Popular #Songs #Hits",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/OA0pVvUaLOs/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/OA0pVvUaLOs/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/OA0pVvUaLOs/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+          standard: {
+            url: "https://i.ytimg.com/vi/OA0pVvUaLOs/sddefault.jpg",
+            width: 640,
+            height: 480,
+          },
+          maxres: {
+            url: "https://i.ytimg.com/vi/OA0pVvUaLOs/maxresdefault.jpg",
+            width: 1280,
+            height: 720,
+          },
+        },
+        channelTitle: "Music Brokers",
+        liveBroadcastContent: "none",
+        publishTime: "2021-09-27T10:59:08Z",
+      },
+    },
+    {
+      kind: "youtube#searchResult",
+      id: {
+        kind: "youtube#video",
+        videoId: "OKyWfPLqKwU",
+      },
+      snippet: {
+        publishedAt: "2023-03-28T03:25:12Z",
+        channelId: "UCTiRB6tbS69n5EX_47fbSZg",
+        title:
+          "Chill song Playlist 2023 - Work playlist | 20 Minutes Music Travel Love",
+        description: "Chill Songs at home 2023",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/OKyWfPLqKwU/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/OKyWfPLqKwU/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/OKyWfPLqKwU/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+          standard: {
+            url: "https://i.ytimg.com/vi/OKyWfPLqKwU/sddefault.jpg",
+            width: 640,
+            height: 480,
+          },
+          maxres: {
+            url: "https://i.ytimg.com/vi/OKyWfPLqKwU/maxresdefault.jpg",
+            width: 1280,
+            height: 720,
+          },
+        },
+        channelTitle: "Fanatic Nerd Music",
+        liveBroadcastContent: "none",
+        publishTime: "2023-03-28T03:25:12Z",
+      },
+    },
+    {
+      kind: "youtube#searchResult",
+      id: {
+        kind: "youtube#video",
+        videoId: "Ouzek8oGidE",
+      },
+      snippet: {
+        publishedAt: "2023-05-03T06:04:45Z",
+        channelId: "UCA-irFP9mRzbUxHdLAtzv1g",
+        title: "soft music playlist- Best English Acoustic Love Songs 2022",
+        description: "Acoustic soft song",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/Ouzek8oGidE/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/Ouzek8oGidE/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/Ouzek8oGidE/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+          standard: {
+            url: "https://i.ytimg.com/vi/Ouzek8oGidE/sddefault.jpg",
+            width: 640,
+            height: 480,
+          },
+          maxres: {
+            url: "https://i.ytimg.com/vi/Ouzek8oGidE/maxresdefault.jpg",
+            width: 1280,
+            height: 720,
+          },
+        },
+        channelTitle: "MUSIC STUDIO BY GABB",
+        liveBroadcastContent: "none",
+        publishTime: "2023-05-03T06:04:45Z",
+      },
+    },
+    {
+      kind: "youtube#searchResult",
+      id: {
+        kind: "youtube#video",
+        videoId: "1RPFUrP_lDU",
+      },
+      snippet: {
+        publishedAt: "2023-05-10T00:45:50Z",
+        channelId: "UCXHbxy8uIKkGfOxtrU3DOSg",
+        title:
+          "The Best Acoustic Cover of Popular Songs of All Time - Top English Acoustic Songs 2023 Collection",
+        description:
+          "The Best Acoustic Cover of Popular Songs of All Time - Top English Acoustic Songs 2023 Collection\n🔔 If you like this track, please like and subscribe to this mix and share it on social sites (Facebook, Reddit, Twitter, etc.) so more people can hear it!\n🔔 We always bring you the best music to relax while working, always accompany us to enjoy the best.\nWe are a music development company for YouTube.\nWe look forward to collaborating with talented artists.\n© ️ All rights reserved to their respective owners, content\n---------------------------------------------------\n✅ Acoustic Songs is created to promote and support new artists (musicians/labels, composers, producers, photographers/filmmakers) who want to create a fan base.\n✅ We try to find the best and most enjoyable music for you! We hope to make your day better with the music we share! Peace of love and music.\n-----------------------------------------------------\n🔔 Thank you for watching! ..I read your comments..I hope the music you share will make your day brighter!",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/1RPFUrP_lDU/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/1RPFUrP_lDU/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/1RPFUrP_lDU/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+          standard: {
+            url: "https://i.ytimg.com/vi/1RPFUrP_lDU/sddefault.jpg",
+            width: 640,
+            height: 480,
+          },
+          maxres: {
+            url: "https://i.ytimg.com/vi/1RPFUrP_lDU/maxresdefault.jpg",
+            width: 1280,
+            height: 720,
+          },
+        },
+        channelTitle: "Acoustic Songs",
+        liveBroadcastContent: "none",
+        publishTime: "2023-05-10T00:45:50Z",
+      },
+    },
+    {
+      kind: "youtube#searchResult",
+      id: {
+        kind: "youtube#video",
+        videoId: "UuRaCcVZA6c",
+      },
+      snippet: {
+        publishedAt: "2020-12-10T01:26:45Z",
+        channelId: "UCyKs4L4EULCfySbTybA9bAg",
+        title: "Bossa Nova Covers Popular Songs (5 Hours)",
+        description:
+          "Subscribe to our channel! 👉 http://bit.ly/MB-subscription\nBossa Nova Covers Popular Songs - Cool Music - Playlist Spotify: https://bit.ly/BossanovaPopular-SP\nEnjoy this non-stop Bossa Nova playist to let yourself relax, study or work in peace.\n01 00:00 Your Love Is King - @AmazonicsOfficial \n02 03:29 The Captain Of Her Heart - Luca Giacco\n03 06:55 The Happy Man - Michelle Simonal\n04 11:24 Company - @SarahMenescalOfficial \n05 14:23 I Feel It Coming - Eve St. Jones\n06 17:59 That's What I Like - Apollinare Rossi, Nenei\n07 22:13 Let Her Go - @DualSessions \n08 25:57 Overprotected - Ituana\n09 29:25 I Just Wanna Stop - Michelle Simonal\n10 31:48 Hunting High And Low - Sarah Menescal\n11 34:38 Come Undone - @UrbanLoveMusic \n12 38:21 Only Happy When It Rains - Amazonics\n13 41:23 Tape Loop - Ituana\n14 44:34 Last Friday Night (T.G.I.F.) - Anakelly, Stereo Dub, Nova Bossa Ltd.\n15 48:04 Walking On The Chinese Wall - Groove Da Praia, Luca Giacco\n16 51:47 Love Hurts - Sarah Menescal\n17 54:43 Talking In Your Sleep (Bossa Nova Mix) - Ituana, Groove Da Praia\n18 58:31 Over My Shoulder - 48th St. Collective, Michelle Simonal\n19 01:02:12 Shallow - Sarah Menescal, Luca Giacco\n20 01:05:26 The Sea - Amazonics\n21 01:08:56 Lullaby - Freedom Dub\n22 01:12:16 Titanium - Banda Do Sul, Natalie Renoir\n23 01:16:15 Hard Woman - Luca Giacco\n24 01:20:10 Tequila Sunrise - Corcovado Frequency\n25 01:22:39 More Than I Can Bear - Luca Giacco\n26 01:26:37 Back Down South - Stereo Dub, Karen Souza\n27 01:29:22 Portuguese Love - Amazonics, Apollinare Rossi, Julie Benson\n28 01:32:36 I Fall Apart - Sarah Menescal\n29 01:34:15 Hope Of Deliverance - Bristol Love\n30 01:40:07 Hotline Bling - James Farrelli\n31 01:43:09 More Than A Woman - Ituana\n32 01:46:07 Golden - Jamie Lancaster\n33 01:49:35 Mistake Number 3 - Scubba, Dinah York\n34 01:52:54 One Of These Nights - James Farrelli, Ituana\n35 01:56:07 Watermelon Sugar - Banda Do Sul, Natalie Renoir\n36 01:59:40 Missing - Herbie Garrett, Krister, Mayla Da Viola\n37 02:03:08 Slave To Love - Bossart Ensemble, Marvin\n38 02:06:39 Precious - Amazonics\n39 02:09:57 Sunday Morning (Bossa Nova Mix) - Dalbani, Herbie Garrett\n40 02:12:27 Little Lies - Luca Giacco\n41 02:14:27 Moving Targets - Stereo Dub, Dualbox, E-Mulation\n42 02:18:26 Girls Like You - 48th St. Collective, Nikki Ocean\n43 02:22:15 Reminiscing - Michelle Simonal\n44 02:25:33 Love You Inside Out - Beluga's Trio, Shelly Sony\n45 02:29:16 Don't Start Now - Nenei, Stella Starlight Trio\n46 02:32:36 True - The Moleskins, BossArt Ensemble, Brazilian Jazz Cuts\n47 02:34:41 I've Been Losing You - Os alquimistas, luca giacco, anakelly\n48 02:39:53 Suedehead - Urban Love, Luca Giacco\n49 02:42:52 Hold On My Heart - @thecooltranequartet , Luca Giacco\n50 02:47:51 Blinding Lights - Glambeats Corp.\n51 02:51:18 Seven Days In Sunny June - Luca Giacco\n52 02:54:48 When The World Is Running Down  - BossArt Ensemble, Os Alquimistas, Natascha\n53 02:57:51 One Of Us (Sixth Finger Strings Mix) - Stereo Dub, Michelle Simonal\n54 03:02:26 I Like You - Brazil XXI, Luca Giacco\n55 03:06:28 You Get What You Give - Amazonics\n56 03:09:43 Your Love Alone Is Not Enough - Klub Rider, Marvin\n57 03:12:44 Valerie - Sao Vicente, Ituana\n58 03:16:26 Roads - Urban Love, Ivette Moraes\n59 03:19:18 Crazy - Celso Mendes, Lua\n60 03:23:01 Two People - Shelly Sony\n61 03:26:01 Cruising For Bruising - Michelle Simonal\n62 03:29:29 Back To Black - Eve St. Jones\n63 03:33:36 We Belong Forever (Bossa Mix) - Urban Love\n64 03:40:18 Toxic - Groove Da Praia, Mandy Jones\n65 03:43:23 Cars And Girls - Groove Da Praia\n66 03:48:10 Cryin' - Sarah Menescal\n67 03:51:29 Right Down The Line - Scubba, Dinah York\n68 03:54:44 Go Your Own Way - Nova Bossa Ltd.  Marvin, Natalie Renoir\n69 03:57:31 Lately - Celso Mendes, Julie Benson\n70 04:02:28 Would I Lie To You - Eve St. Jones\n71 04:06:10 Jamming - Groovy Waters\n72 04:08:55 On The Beach - Groove Da Praia, Shelly Sony, Luca Giacco\n73 04:12:26 Hurts To Be In Love - Michelle Simonal\n74 04:15:03 Lucky - Michelle Simonal\n75 04:17:47 The Tide Is High - Cassandra Beck\n76 04:21:10 That's When I Think Of You - George White Group, Luca Giacco\n77 04:24:25 (You Drive Me) Crazy - Scubba, Dinah York\n78 04:28:07 Just An Illusion - Eve St. Jones\n79 04:31:37 Drops Of Jupiter - Sarah Menescal\n80 04:35:53 Ebony And Ivory - Brazilian Jazz Cuts, Lee Avril, Renauld\n81 04:39:32 Fever - Amazonics\n82 04:43:37 It`s My Life - Ituana\n83 04:47:01 Viva La Vida (Bossa version) - Scubba\n84 04:51:11 Learn To Fly - Ituana\n85 04:54:58 I Didn't Know I Was Looking For Love - Eve St. Jones\n86 04:59:24 Big in Japan - Banda Do Sul, Isa\n87 05:03:45 Oh L'Amour - Sarah Menescal\n88 05:06:49 Losing My Religion - Banda Do Sul\n89 05:10:46 (I've Had) The Time Of My Life - Jamie Lancaster, Eve St. Jones\n90 05:14:23 Save A Prayer - Sarah Menescal\n\n#Bossanova #Covers #PopularSongs",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/UuRaCcVZA6c/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/UuRaCcVZA6c/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/UuRaCcVZA6c/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+          standard: {
+            url: "https://i.ytimg.com/vi/UuRaCcVZA6c/sddefault.jpg",
+            width: 640,
+            height: 480,
+          },
+          maxres: {
+            url: "https://i.ytimg.com/vi/UuRaCcVZA6c/maxresdefault.jpg",
+            width: 1280,
+            height: 720,
+          },
+        },
+        channelTitle: "Music Brokers",
+        liveBroadcastContent: "none",
+        publishTime: "2020-12-10T01:26:45Z",
+      },
+    },
+    {
+      kind: "youtube#searchResult",
+      id: {
+        kind: "youtube#video",
+        videoId: "plu--RNw4DA",
+      },
+      snippet: {
+        publishedAt: "2023-04-16T00:47:28Z",
+        channelId: "UCXHbxy8uIKkGfOxtrU3DOSg",
+        title: "Acoustic 2023 / The Best Acoustic Songs Cover of All Time 2023",
+        description:
+          "Acoustic 2023 / The Best Acoustic Songs Cover of All Time 2023\n🔔 If you like this track, please like and subscribe to this mix and share it on social sites (Facebook, Reddit, Twitter, etc.) so more people can hear it!\n🔔 We always bring you the best music to relax while working, always accompany us to enjoy the best.\nWe are a music development company for YouTube.\nWe look forward to collaborating with talented artists.\n© ️ All rights reserved to their respective owners, content\n---------------------------------------------------\n✅ Acoustic Songs is created to promote and support new artists (musicians/labels, composers, producers, photographers/filmmakers) who want to create a fan base.\n✅ We try to find the best and most enjoyable music for you! We hope to make your day better with the music we share! Peace of love and music.\n-----------------------------------------------------\n🔔 Thank you for watching! ..I read your comments..I hope the music you share will make your day brighter!",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/plu--RNw4DA/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/plu--RNw4DA/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/plu--RNw4DA/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+          standard: {
+            url: "https://i.ytimg.com/vi/plu--RNw4DA/sddefault.jpg",
+            width: 640,
+            height: 480,
+          },
+          maxres: {
+            url: "https://i.ytimg.com/vi/plu--RNw4DA/maxresdefault.jpg",
+            width: 1280,
+            height: 720,
+          },
+        },
+        channelTitle: "Acoustic Songs",
+        liveBroadcastContent: "none",
+        publishTime: "2023-04-16T00:47:28Z",
+      },
+    },
+    {
+      kind: "youtube#searchResult",
+      id: {
+        kind: "youtube#video",
+        videoId: "PvllKnrHNr0",
+      },
+      snippet: {
+        publishedAt: "2021-04-14T19:06:47Z",
+        channelId: "UCTZtGxybFf45ttE14vXUmTQ",
+        title: "OPM Acoustic Love Songs | Acoustic Cover Playlist",
+        description:
+          "OPM Acoustic Love Songs | Acoustic Cover Playlist\n\n💬 Please Like,Share & Subscribe if You like the music. https://www.youtube.com/channel/UCTZtGxybFf45ttE14vXUmTQ\n\n💕I am very happy and happy to have you all here. My channel cannot generate revenue, but I do it for the passion and for the people who love me. If possible, offer me a cup of coffee ☕. Helps a lot for me as creators Thanks very much!\n💤 Buy Me a Coffee : https://ko-fi.com/mellowcat\n✔️ How my channel Grow?\n❌ Don't Click Me ! https://www.tubebuddy.com/mellowcat\n\n\n💕Tracklist💕\n\n1. Tuloy Pa Rin   \n2. Sorry Na, Pwede Ba \n3. Huwag Mo Nang Itanong  \n4. Huwag Na Lang Kaya \n5. Ang Huling El Bimbo  \n6. Gitara  \n7. Himala \n8. Magasin \n9. Ligaya\n10 Ikaw Ang Aking Mahal \n11. Naaalala Ka  \n12.Paniwalaan Mo\n13. Kahit Maputi Na Ang Buhok Ko\n14. Ako'y Sayo At Ika'y Akin Lamang \n15. Sana Ay Mahalin Mo Rin Ako \n16. Isang Tanong, Isang Sagot \n17. Ipagpatawad Mo  \n18. Araw-Gabi  \n\n🎨 Image Source : Wallpapercave\n\n✂️ Contact me for business inquiries: freakhadz@gmail.com\n💻 Want to be featured on my next playlists? Email me and we will arrange the process.\n📌 For Music Submission : https://forms.gle/cjypgZ6EkTTMj6Rg6\n©️ All copyright claims, please send to gmail address: at 💌freakhadz@gmail.com💌\n🎨 None of these images, music and video clips were created / owned by us. This video is completely fan made. \n\n🎬The video is with promotional purpose. All visual and audio elements belong to their respective owners. For copyright issues, please contact me \n\n--------------------------------------------- Disclaimer----------------------------------------------------\n\n⛔️Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for fair use for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use.\n\n#lovesongs#opmplaylist#acoustic",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/PvllKnrHNr0/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/PvllKnrHNr0/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/PvllKnrHNr0/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+          standard: {
+            url: "https://i.ytimg.com/vi/PvllKnrHNr0/sddefault.jpg",
+            width: 640,
+            height: 480,
+          },
+          maxres: {
+            url: "https://i.ytimg.com/vi/PvllKnrHNr0/maxresdefault.jpg",
+            width: 1280,
+            height: 720,
+          },
+        },
+        channelTitle: "MellowCat",
+        liveBroadcastContent: "none",
+        publishTime: "2021-04-14T19:06:47Z",
+      },
+    },
+    {
+      kind: "youtube#searchResult",
+      id: {
+        kind: "youtube#video",
+        videoId: "7DHg9JZQ7cM",
+      },
+      snippet: {
+        publishedAt: "2021-05-05T13:44:18Z",
+        channelId: "UCEi0EgWJ5m7gVBQ68a1L0TA",
+        title: "The Ocean Is Calling 🌊 - A Coastal Indie/Pop/Folk Playlist",
+        description:
+          "…and I must go! Soak up the surf, salt and sunshine with the best indie music! Tracklist & Spotify link below… 👇\nLISTEN ON SPOTIFY: https://spoti.fi/3ePgRTY\n» Subscribe to be the first to hear the finest new independent music! http://bit.ly/arbMsubscribe\n\n📩 SUBMIT YOUR MUSIC: https://www.submithub.com/blog/alexrainbirdmusic or https://submissions.alexrainbirdmusic.com/\n✉ Email for all other enquiries: alexrainbirdmusic@gmail.com\n\n\n💿 Tracklist:\n0:00 Zach Oliver - ‘Seaside’\nhttps://spoti.fi/3eFKWoJ\nhttps://www.instagram.com/zacholivermusic/\n3:01 Tay Oskee - ‘Floating’\nhttps://spoti.fi/3fgnJbZ\nhttps://www.instagram.com/tay_oskee_music/\n6:13 Luke Morris - 'Love Shack’\nhttps://spoti.fi/3tGL6AL\nhttps://www.instagram.com/lukemorrismusic/\n10:40 Dusty Boots - ‘Dancing In The Sun’\nhttps://spoti.fi/3eCntVE\nhttps://www.instagram.com/dustybootsmusic/\n13:55 The Satellite Station - 'For The Coast’\nhttps://spoti.fi/32gRlzL\nhttps://www.instagram.com/thesatellitestationmusic/\n17:32 Tommy Ashby - 'Poolside (ft. Lydia Clowes)’\nhttps://spoti.fi/3e1SwbT  / https://spoti.fi/3ag2xku\nhttps://www.instagram.com/tommyashbymusic/  / https://www.instagram.com/lydiaclowes/\n21:12 Israel Cannan - ‘By Way of the Sea’\nhttps://spoti.fi/2RgD6sN\nhttps://www.instagram.com/israelcannan/\n25:29 Jack Botts - ‘Slow Mornings’\nhttps://spoti.fi/3y7qiWs\nhttps://www.instagram.com/jackbotts/\n28:43 Hollow Coves - ‘Lonely Nights (feat Priscilla Ahn)’\nhttps://spoti.fi/3uJmybr / https://spoti.fi/3tHk2B6\nhttps://www.instagram.com/hollowcoves/ / https://www.instagram.com/priscillaahn/\n32:09 Lawson Hull - ‘Mexico’\nhttps://spoti.fi/3uKCs5i\nhttps://www.instagram.com/lawsonhull/\n36:12 The Paper Kites - ‘Dearest (feat. Lydia Cole)’\nhttps://spoti.fi/3bkD8H3\nhttps://www.instagram.com/thepaperkites/\n39:23 Galen Crew - ‘Weightless’\nhttps://spoti.fi/3uMNY0k\nhttps://www.instagram.com/galencrew/\n43:01 Josh Tobias - ‘High Tide’\nhttps://spoti.fi/3vWrmdR\nhttps://www.instagram.com/joshtobiasmusic/\n45:32 Amistat - ‘Build A Home’\nhttps://spoti.fi/3y5yxCl\nhttps://www.instagram.com/amistatmusic/\n48:44 Jackson Wooten - ‘Don’t Let Me Down’\nhttps://spoti.fi/3sg16sJ\nhttps://www.instagram.com/jacksonwooten/\n52:31 Sarah Proctor - 'The Breaks’\nhttps://spoti.fi/3eDK2sU\nhttps://www.instagram.com/sarahproctor/\n55:47 This New Light - '103 (feat. TCOYS)’\nhttps://spoti.fi/2Rbely8  / https://spoti.fi/3o8JHlf\nhttps://www.instagram.com/thisnewlightmusic/  / https://www.instagram.com/tcoy.s/\n58:44 Josh Lee Hamilton - ‘Heart Is Ready (Acoustic)’\nhttps://spoti.fi/3vWsazp\nhttps://www.instagram.com/joshleehamilton/\n1:03:09 Andreas Moe - 'Hey Lulu’\nhttps://spoti.fi/3dlOwUq\nhttps://www.instagram.com/andreasmoe/\n1:06:31 Jack Symes - ‘I Need to Be Alone’\nhttps://spoti.fi/3hkDZet\nhttps://www.instagram.com/endjacksymes/\n1:10:34 Leonie Kingdom - ‘Cellito’\nhttps://spoti.fi/3w5jGGh\nhttps://www.instagram.com/leoniekingdom/\n1:14:46 Yosef David - 'Where’d I Go Wrong’\nhttps://spoti.fi/3uKZjxU\nhttps://www.instagram.com/yosefdavidmusic/\n1:17:40 Man On An Island - 'Hold On’\nhttps://spoti.fi/3bgCf2f\nhttps://www.instagram.com/manonanisland_/\n1:22:48 Mikey Ferrari - 'wind blows’\nhttps://spoti.fi/3fbhoP4\nhttps://www.instagram.com/mikeyferrari/\n1:25:24 Jesse Taylor - 'Where I Belong’\nhttps://spoti.fi/3uIzDSj\nhttps://www.instagram.com/jessetaylorau/\n1:28:17 Luca Firth - 'Wings’\nhttps://spoti.fi/2RPa0AB\nhttps://www.instagram.com/fucalirth/\n1:31:48 Mari - 'Hold Me Again’\nhttps://spoti.fi/3xZx3cR\nhttps://www.instagram.com/maridennis93/\n1:35:35 Hunter Metts - 'The River’\nhttps://spoti.fi/3bjmLKE\nhttps://www.instagram.com/hunterjmetts/\n1:39:49 Matthew Frederick - 'Dust Cloud’\nhttps://spoti.fi/3uJ4QES\nhttps://www.instagram.com/mattjfrederick/\n1:44:50 Duncan Covey - 'Behind the Waves’\nhttps://spoti.fi/2RcOhTs\nhttps://www.instagram.com/duncancoveymusic/\n1:47:54 Portair - 'Where The Sun Goes Down’\nhttps://spoti.fi/2RGVQBH\nhttps://www.instagram.com/portair/\n1:51:10 Jacksonport - ‘Everything But Love’\nhttps://spoti.fi/3y9bOFE\nhttps://www.instagram.com/jacksonport_/\n1:54:14 Long For The Coast - ‘In Our Own Time’\nhttps://spoti.fi/3f9CMnS\nhttps://www.instagram.com/longforthecoast/\n1:57:22 Cathartic Fall - ‘Ocean (demo)’ \nhttps://spoti.fi/2RO1YIw\nhttps://www.instagram.com/catharticfall/\n\n\n🌧️ 🐦 Find alexrainbirdMusic on\nOfficial website: http://www.alexrainbirdmusic.com/\nSpotify: http://spoti.fi/350QXar\nInstagram: https://instagram.com/alexrainbirdmusic/\nPodcast: https://podlink.to/IMP\nDiscord: https://discord.gg/nQxwjC25YX\nPatreon: https://www.patreon.com/alexrainbirdMusic\nEverywhere else: https://www.alexrainbirdmusic.com/discover\n\n\n❓ About alexrainbirdMusic: Since 2011, Alex Rainbird has been discovering and showcasing the finest independent music. Joined by Beth Paterson as of 2017, our goal is to provide the best platform for underrated musicians to be heard, and for viewers to find amazing new music. We feature over 70 new artists/bands every month - join our 1 million subscribers to be the first to hear them!",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/7DHg9JZQ7cM/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/7DHg9JZQ7cM/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/7DHg9JZQ7cM/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+          standard: {
+            url: "https://i.ytimg.com/vi/7DHg9JZQ7cM/sddefault.jpg",
+            width: 640,
+            height: 480,
+          },
+          maxres: {
+            url: "https://i.ytimg.com/vi/7DHg9JZQ7cM/maxresdefault.jpg",
+            width: 1280,
+            height: 720,
+          },
+        },
+        channelTitle: "alexrainbirdMusic",
+        liveBroadcastContent: "none",
+        publishTime: "2021-05-05T13:44:18Z",
+      },
+    },
+    {
+      kind: "youtube#searchResult",
+      id: {
+        kind: "youtube#video",
+        videoId: "twM7ulKpPjI",
+      },
+      snippet: {
+        publishedAt: "2021-10-10T10:49:18Z",
+        channelId: "UCJIOFQLGwB3GH9K9waxwynQ",
+        title:
+          "Winter Coffee Shop Bookstore Ambience with Relaxing Smooth Jazz Music and Crackling Fireplace",
+        description:
+          "Enjoy this cozy winter coffee shop ambience with relaxing jazz music, crackling fireplace and cafe sounds for study, sleep, work, relax.\n\nEnjoy the music good vibes! ♫\n\n🎵 Music: Composed by Coffee Shop Vibes\n🎨 Illustration & Animation: 3D Art Illustration made by Coffee Shop Vibes\n       Illustration Art: https://bit.ly/2YFZ503\n\n☕ Coffee Shop Vibes Music Platforms:\nSpotify: https://spoti.fi/2XcSOrZ\nItunes: https://apple.co/3uAk3Je\n\n► Subscribe for more videos: https://www.youtube.com/channel/UCJIOFQLGwB3GH9K9waxwynQ?sub_confirmation=1\n\n► Spotify: https://open.spotify.com/playlist/6jlSsk66c3GoVEeZ0j0PV4\n\n► Our Coffee Shop Ambience Playlist: https://www.youtube.com/watch?v=OAgKx8wLR8Q&list=PL9H3FNYcxFAOBCD-oYkt1PyLcbnzpBy92\n\n\n📜 Coffee Shop Vibes is a net-based music label where you can find relaxing  original Jazz Music for relaxation, work, study and almost any occasion. Sit yourself comfortable on this coffee shop and enjoy the vibes of the background jazz music.\nAll the artwork ambiences are original and made in 3D, full of after effects and coziness.\n\n\nIf you have any suggestion, feel free to do so in the comments. \n\nThank you so much for your visit and come again!\n\nArt, Sound and Animation by Coffee Shop Vibes ©",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/twM7ulKpPjI/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/twM7ulKpPjI/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/twM7ulKpPjI/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+          standard: {
+            url: "https://i.ytimg.com/vi/twM7ulKpPjI/sddefault.jpg",
+            width: 640,
+            height: 480,
+          },
+          maxres: {
+            url: "https://i.ytimg.com/vi/twM7ulKpPjI/maxresdefault.jpg",
+            width: 1280,
+            height: 720,
+          },
+        },
+        channelTitle: "Coffee Shop Vibes",
+        liveBroadcastContent: "none",
+        publishTime: "2021-10-10T10:49:18Z",
+      },
+    },
+  ],
+};
+
+export const SEARCH_RESULT_DANCE = {
+  kind: "youtube#searchListResponse",
+  nextPageToken: "CDIQAA",
+  regionCode: "DE",
+  pageInfo: {
+    totalResults: 1000000,
+    resultsPerPage: 50,
+  },
+  items: [
+    {
+      kind: "youtube#searchResult",
+      id: {
+        kind: "youtube#video",
+        videoId: "32si5cfrCNc",
+      },
+      snippet: {
+        publishedAt: "2020-07-06T00:00:00Z",
+        channelId: "UCOmHUn--16B90oW2L6FRR3A",
+        title:
+          "BLACKPINK - &#39;How You Like That&#39; DANCE PERFORMANCE VIDEO",
+        description:
+          "MORE INFO ABOUT DANCE COVER CONTEST : https://bit.ly/2Z2UBy6 #BLACKPINK #블랙핑크 #HowYouLikeThat ...",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/32si5cfrCNc/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/32si5cfrCNc/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/32si5cfrCNc/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+        },
+        channelTitle: "BLACKPINK",
+        liveBroadcastContent: "none",
+        publishTime: "2020-07-06T00:00:00Z",
+      },
+    },
+    {
+      kind: "youtube#searchResult",
+      id: {
+        kind: "youtube#video",
+        videoId: "wyCpZKC9uzY",
+      },
+      snippet: {
+        publishedAt: "2023-06-16T20:21:29Z",
+        channelId: "UCwziYrXUKke6-prf-fG_CxQ",
+        title: "SEE TINH TING TING TANG TING REMIX | Jollibee Dance |",
+        description:
+          "Jollibee Ting ting ting tang tang tang Jollibee Dance Music remix by Dj JorDan.",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/wyCpZKC9uzY/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/wyCpZKC9uzY/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/wyCpZKC9uzY/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+        },
+        channelTitle: "Gerielle TV",
+        liveBroadcastContent: "none",
+        publishTime: "2023-06-16T20:21:29Z",
+      },
+    },
+    {
+      kind: "youtube#searchResult",
+      id: {
+        kind: "youtube#video",
+        videoId: "MsXdUtlDVhk",
+      },
+      snippet: {
+        publishedAt: "2022-12-17T17:00:31Z",
+        channelId: "UCKsHD-leOlL7zK9iPWgY9Ug",
+        title:
+          "Lady Gaga - Bloody Mary (TikTok Remix | Speed Up) | Wednesday Dance Scene",
+        description:
+          "Like and turn on the '  ' to get notifications for new uploads! ▸Listen on Spotify : http://bit.ly/3J5KO1E ▸Spotify Playlist ...",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/MsXdUtlDVhk/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/MsXdUtlDVhk/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/MsXdUtlDVhk/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+        },
+        channelTitle: "itsAirLow",
+        liveBroadcastContent: "none",
+        publishTime: "2022-12-17T17:00:31Z",
+      },
+    },
+    {
+      kind: "youtube#searchResult",
+      id: {
+        kind: "youtube#video",
+        videoId: "A1vdKfXlB_g",
+      },
+      snippet: {
+        publishedAt: "2020-02-10T13:30:00Z",
+        channelId: "UC8NFs-VWUsyuq4zaYVVMgCQ",
+        title: "The Dance Freeze Song | Freeze Dance | Scratch Garden",
+        description:
+          "ALL 5 DANCE FREEZE SONGS NOW AVAILABLE! https://orcd.co/dancefreeze The Dance Freeze Song by Scratch Garden ...",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/A1vdKfXlB_g/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/A1vdKfXlB_g/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/A1vdKfXlB_g/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+        },
+        channelTitle: "Scratch Garden",
+        liveBroadcastContent: "none",
+        publishTime: "2020-02-10T13:30:00Z",
+      },
+    },
+    {
+      kind: "youtube#searchResult",
+      id: {
+        kind: "youtube#video",
+        videoId: "OiC1rgCPmUQ",
+      },
+      snippet: {
+        publishedAt: "2023-05-25T23:00:09Z",
+        channelId: "UC-J-KZfRV8c13fOCkhXdLiQ",
+        title:
+          "Dua Lipa - Dance The Night (From Barbie The Album) [Official Music Video]",
+        description:
+          "Dua Lipa - Dance The Night (From Barbie The Album) [Official Music Video] Download/Stream: ...",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/OiC1rgCPmUQ/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/OiC1rgCPmUQ/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/OiC1rgCPmUQ/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+        },
+        channelTitle: "Dua Lipa",
+        liveBroadcastContent: "none",
+        publishTime: "2023-05-25T23:00:09Z",
+      },
+    },
+    {
+      kind: "youtube#searchResult",
+      id: {
+        kind: "youtube#video",
+        videoId: "ENKBnhyf4X0",
+      },
+      snippet: {
+        publishedAt: "2023-05-03T22:01:52Z",
+        channelId: "UCAy3471Df8l2AMBkkOLJsVA",
+        title:
+          "Astronomia Shuffle Dance | Neon Mode | Tuzelity Coffin Dance 2023 | SHUFFLE DANCE COMPILATION #7",
+        description:
+          "Download TikTok Videos ⮕ https://downloaderi.com Best dance challenge - Have fun with this tuzelity in a club speed challenge ...",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/ENKBnhyf4X0/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/ENKBnhyf4X0/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/ENKBnhyf4X0/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+        },
+        channelTitle: "DanceLo",
+        liveBroadcastContent: "none",
+        publishTime: "2023-05-03T22:01:52Z",
+      },
+    },
+    {
+      kind: "youtube#searchResult",
+      id: {
+        kind: "youtube#video",
+        videoId: "4XZz3WXRw0A",
+      },
+      snippet: {
+        publishedAt: "2023-04-05T15:00:08Z",
+        channelId: "UCOmHUn--16B90oW2L6FRR3A",
+        title: "JISOO - ‘꽃(FLOWER)’ DANCE PERFORMANCE VIDEO",
+        description:
+          "JISOO #지수 #BLACKPINK #블랙핑크 #FIRSTSINGLEALBUM #ME #TITLE #꽃 #FLOWER #DANCE_PERFORMANCE_VIDEO ...",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/4XZz3WXRw0A/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/4XZz3WXRw0A/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/4XZz3WXRw0A/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+        },
+        channelTitle: "BLACKPINK",
+        liveBroadcastContent: "none",
+        publishTime: "2023-04-05T15:00:08Z",
+      },
+    },
+    {
+      kind: "youtube#searchResult",
+      id: {
+        kind: "youtube#video",
+        videoId: "zUbW0GsRT1k",
+      },
+      snippet: {
+        publishedAt: "2023-03-26T23:24:37Z",
+        channelId: "UCczFdwWpVEpoqb-eMm4c4dQ",
+        title:
+          "This dance stopped traffic 😳 Matt Steffanina &amp; Enola Bedard",
+        description: "",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/zUbW0GsRT1k/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/zUbW0GsRT1k/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/zUbW0GsRT1k/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+        },
+        channelTitle: "Matt Steffanina",
+        liveBroadcastContent: "none",
+        publishTime: "2023-03-26T23:24:37Z",
+      },
+    },
+    {
+      kind: "youtube#searchResult",
+      id: {
+        kind: "youtube#video",
+        videoId: "XqZsoesa55w",
+      },
+      snippet: {
+        publishedAt: "2016-06-17T23:00:30Z",
+        channelId: "UCcdwLMPsaU2ezNSJU1nFoBQ",
+        title:
+          "Baby Shark Dance | #babyshark Most Viewed Video | Animal Songs | PINKFONG Songs for Children",
+        description:
+          "[NEW CHANNEL] Subscribe Bebefinn - Nursery Rhymes & Kids Songs ...",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/XqZsoesa55w/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/XqZsoesa55w/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/XqZsoesa55w/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+        },
+        channelTitle: "Pinkfong Baby Shark - Kids' Songs & Stories",
+        liveBroadcastContent: "none",
+        publishTime: "2016-06-17T23:00:30Z",
+      },
+    },
+    {
+      kind: "youtube#searchResult",
+      id: {
+        kind: "youtube#video",
+        videoId: "XLiXFesKp9E",
+      },
+      snippet: {
+        publishedAt: "2023-01-23T20:57:05Z",
+        channelId: "UCtyAkTwx8HfZ8gm4fqlJdVQ",
+        title:
+          "Stakzy - Collide Dance | Choreography by 유미 Yumi  | LJ DANCE STUDIO",
+        description:
+          "Stakzy - Collide Dance | Choreography by 유미 Yumi | LJ DANCE STUDIO Instructor. 유미 Yumi Choreography. 유미 Yumi Video ...",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/XLiXFesKp9E/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/XLiXFesKp9E/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/XLiXFesKp9E/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+        },
+        channelTitle: "LJ Dance",
+        liveBroadcastContent: "none",
+        publishTime: "2023-01-23T20:57:05Z",
+      },
+    },
+    {
+      kind: "youtube#searchResult",
+      id: {
+        kind: "youtube#video",
+        videoId: "EqFbXGBmS0g",
+      },
+      snippet: {
+        publishedAt: "2022-05-22T21:00:44Z",
+        channelId: "UCiClrKMcutHeycsL6-oUS9Q",
+        title:
+          "Dance 90/2000 - Versões Remix - Sequência Mixada Especial (Alice DJ, Double You, Eiffel 65, Fragma)",
+        description:
+          "Atendendo aos pedidos, trago essa sequência super especial, com versões Remake dos maiores sucessos da Dance Music.",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/EqFbXGBmS0g/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/EqFbXGBmS0g/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/EqFbXGBmS0g/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+        },
+        channelTitle: "DJ MorpheuZ",
+        liveBroadcastContent: "none",
+        publishTime: "2022-05-22T21:00:44Z",
+      },
+    },
+    {
+      kind: "youtube#searchResult",
+      id: {
+        kind: "youtube#video",
+        videoId: "cVUZy1MhGDw",
+      },
+      snippet: {
+        publishedAt: "2023-05-25T15:00:04Z",
+        channelId: "UCqwUnggBBct-AY2lAdI88jQ",
+        title: "BABYMONSTER - DANCE PERFORMANCE VIDEO (Jenny from the Block)",
+        description:
+          "Performed by BABYMONSTER Choreography by Kiel Tutin Music by Jennifer Lopez - Jenny from the Block #BABYMONSTER ...",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/cVUZy1MhGDw/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/cVUZy1MhGDw/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/cVUZy1MhGDw/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+        },
+        channelTitle: "BABYMONSTER",
+        liveBroadcastContent: "none",
+        publishTime: "2023-05-25T15:00:04Z",
+      },
+    },
+    {
+      kind: "youtube#searchResult",
+      id: {
+        kind: "youtube#video",
+        videoId: "CyfM2o0d0IE",
+      },
+      snippet: {
+        publishedAt: "2020-04-02T02:11:57Z",
+        channelId: "UCVDxXbyxsCFDGHQpIR7inbg",
+        title:
+          "Just Dance 2020: Shakira - Waka Waka (This Time for Africa) Versión Futbolera - (MEGASTAR)",
+        description:
+          "Logro hacer MEGASTAR en la Versión Futbolera de la canción Waka Waka (This Time for Africa), de la cantante colombiana ...",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/CyfM2o0d0IE/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/CyfM2o0d0IE/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/CyfM2o0d0IE/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+        },
+        channelTitle: "Victor Hugo Baizabal Luna",
+        liveBroadcastContent: "none",
+        publishTime: "2020-04-02T02:11:57Z",
+      },
+    },
+    {
+      kind: "youtube#searchResult",
+      id: {
+        kind: "youtube#video",
+        videoId: "70UPKJSt6LY",
+      },
+      snippet: {
+        publishedAt: "2019-11-01T12:13:02Z",
+        channelId: "UC0G3ShKXy9CnfgyinX89kIg",
+        title:
+          "[Dance Workout] Daddy Yankee &amp; Snow - Con Calma | MYLEE Cardio Dance Workout, Dance Fitness",
+        description:
+          "MYLEE's Cardio Workout with Con Calma Dance Join MYLEE's new fitness channel, MYLEEFit!",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/70UPKJSt6LY/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/70UPKJSt6LY/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/70UPKJSt6LY/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+        },
+        channelTitle: "MYLEE DANCE",
+        liveBroadcastContent: "none",
+        publishTime: "2019-11-01T12:13:02Z",
+      },
+    },
+    {
+      kind: "youtube#searchResult",
+      id: {
+        kind: "youtube#video",
+        videoId: "XDJHcUkkjHA",
+      },
+      snippet: {
+        publishedAt: "2022-08-09T12:00:20Z",
+        channelId: "UC3wCAOfSB0W9iuKDDtNJeGw",
+        title:
+          "Wiggle, Freeze, Spin + more! | Dance Along | Dance Compilation | Danny Go! Songs for Kids",
+        description:
+          "You're invited to a DANCE PARTY!! ⚡️ Do you have enough energy to dance along to FIVE Danny Go dance songs?? Let's find ...",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/XDJHcUkkjHA/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/XDJHcUkkjHA/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/XDJHcUkkjHA/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+        },
+        channelTitle: "Danny Go!",
+        liveBroadcastContent: "none",
+        publishTime: "2022-08-09T12:00:20Z",
+      },
+    },
+    {
+      kind: "youtube#searchResult",
+      id: {
+        kind: "youtube#video",
+        videoId: "rVBHH5DwYFA",
+      },
+      snippet: {
+        publishedAt: "2022-05-17T21:47:51Z",
+        channelId: "UCK1vX4jd9Oom-LmpcRXuzMA",
+        title: "The Macarena Dance 2022",
+        description:
+          "The DJ Raphi website: https://www.djraphi.com ⭐ The Macarena Dance 2022 ⭐ Join me on https://patreon.com/djraphi for ...",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/rVBHH5DwYFA/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/rVBHH5DwYFA/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/rVBHH5DwYFA/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+        },
+        channelTitle: "DJ Raphi",
+        liveBroadcastContent: "none",
+        publishTime: "2022-05-17T21:47:51Z",
+      },
+    },
+    {
+      kind: "youtube#searchResult",
+      id: {
+        kind: "youtube#video",
+        videoId: "RFMi3v0TXP8",
+      },
+      snippet: {
+        publishedAt: "2022-08-24T15:00:15Z",
+        channelId: "UCOmHUn--16B90oW2L6FRR3A",
+        title: "BLACKPINK - ‘Pink Venom’ DANCE PRACTICE VIDEO",
+        description:
+          "BLACKPINK #블랙핑크 #PinkVenom #DANCE_PRACTICE_VIDEO #안무영상 #YG.",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/RFMi3v0TXP8/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/RFMi3v0TXP8/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/RFMi3v0TXP8/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+        },
+        channelTitle: "BLACKPINK",
+        liveBroadcastContent: "none",
+        publishTime: "2022-08-24T15:00:15Z",
+      },
+    },
+    {
+      kind: "youtube#searchResult",
+      id: {
+        kind: "youtube#video",
+        videoId: "HwqAOolZJLc",
+      },
+      snippet: {
+        publishedAt: "2022-08-24T02:52:51Z",
+        channelId: "UCO1n94JTCasKSABHk6Dc_fg",
+        title:
+          "Alien dance VS Funny alien VS Dame tu cosita VS Funny alien dance VS Green alien dance VS Dance song",
+        description:
+          "Alien dance VS Funny alien VS Dame tu cosita VS Funny alien dance VS Green alien dance VS Dance song I post a new video ...",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/HwqAOolZJLc/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/HwqAOolZJLc/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/HwqAOolZJLc/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+        },
+        channelTitle: "SG MUSIC",
+        liveBroadcastContent: "none",
+        publishTime: "2022-08-24T02:52:51Z",
+      },
+    },
+    {
+      kind: "youtube#searchResult",
+      id: {
+        kind: "youtube#video",
+        videoId: "wbNAiN8FTfc",
+      },
+      snippet: {
+        publishedAt: "2020-06-26T14:30:10Z",
+        channelId: "UCLy6-72NzYpFztbJ7jNEMkg",
+        title:
+          "Floor Is Lava Song - THE KIBOOMERS Preschool Songs - Freeze Dance",
+        description:
+          "Sing-along and learn with The Kiboomers! Our freeze song for kids is a fun lava game to play for a kindergarten or toddler dance ...",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/wbNAiN8FTfc/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/wbNAiN8FTfc/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/wbNAiN8FTfc/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+        },
+        channelTitle: "The Kiboomers - Kids Music Channel",
+        liveBroadcastContent: "none",
+        publishTime: "2020-06-26T14:30:10Z",
+      },
+    },
+    {
+      kind: "youtube#searchResult",
+      id: {
+        kind: "youtube#video",
+        videoId: "jjpt3CTLNpc",
+      },
+      snippet: {
+        publishedAt: "2023-02-11T18:57:48Z",
+        channelId: "UCuTawsFVAebtuCO73OxRDqw",
+        title: "Toca Toca dance (flash warning)",
+        description:
+          "shorts #animation #cat #tocatoca original : https://www.youtube.com/watch?v=DALeeNWVXK4.",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/jjpt3CTLNpc/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/jjpt3CTLNpc/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/jjpt3CTLNpc/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+        },
+        channelTitle: "Ho salt",
+        liveBroadcastContent: "none",
+        publishTime: "2023-02-11T18:57:48Z",
+      },
+    },
+    {
+      kind: "youtube#searchResult",
+      id: {
+        kind: "youtube#video",
+        videoId: "XHqXwGBV-fo",
+      },
+      snippet: {
+        publishedAt: "2023-06-21T16:00:31Z",
+        channelId: "UCe4TiRe3lU6kGVr9S3_2SCA",
+        title:
+          "The Most UNEXPECTED ALDC Audition Moments! (Flashback Compilation) | Part 2 | Dance Moms",
+        description:
+          "Watch the ALDC endure audition drama in Part 2 of this Dance Moms flashback compilation. Watch Part 1 here: ...",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/XHqXwGBV-fo/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/XHqXwGBV-fo/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/XHqXwGBV-fo/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+        },
+        channelTitle: "Dance Moms",
+        liveBroadcastContent: "none",
+        publishTime: "2023-06-21T16:00:31Z",
+      },
+    },
+    {
+      kind: "youtube#searchResult",
+      id: {
+        kind: "youtube#video",
+        videoId: "D20dObR2ZAQ",
+      },
+      snippet: {
+        publishedAt: "2022-07-22T20:00:03Z",
+        channelId: "UCiClrKMcutHeycsL6-oUS9Q",
+        title:
+          "Dance 90/2000 Remixes - Especial Califórnia Sunset - @RegisMello (Bob Sinclar, Magic Box, Eiffel 65)",
+        description:
+          "Set Super Especial, com meu parceiro de produção, DJ Regis Mello, diretamente da California, tocando versões Remake dos ...",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/D20dObR2ZAQ/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/D20dObR2ZAQ/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/D20dObR2ZAQ/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+        },
+        channelTitle: "DJ MorpheuZ",
+        liveBroadcastContent: "none",
+        publishTime: "2022-07-22T20:00:03Z",
+      },
+    },
+    {
+      kind: "youtube#searchResult",
+      id: {
+        kind: "youtube#video",
+        videoId: "q0hyYWKXF0Q",
+      },
+      snippet: {
+        publishedAt: "2019-06-24T22:01:36Z",
+        channelId: "UCQeiBlCcS4-XGwFjrvDn96w",
+        title: "TONES AND I - DANCE MONKEY (OFFICIAL VIDEO)",
+        description:
+          "2nd single from debut EP 'The Kids Are Coming' out now. Available on all music platforms Watch Tones And I's 'Artist On The ...",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/q0hyYWKXF0Q/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/q0hyYWKXF0Q/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/q0hyYWKXF0Q/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+        },
+        channelTitle: "Tones And I",
+        liveBroadcastContent: "none",
+        publishTime: "2019-06-24T22:01:36Z",
+      },
+    },
+    {
+      kind: "youtube#searchResult",
+      id: {
+        kind: "youtube#video",
+        videoId: "lWC6aHgBN1I",
+      },
+      snippet: {
+        publishedAt: "2023-04-10T11:36:30Z",
+        channelId: "UCNQAoLEv87L7NgUp4We3HIg",
+        title: "FLOWER Challenge #jisoo #dance #sigmagirl",
+        description: "",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/lWC6aHgBN1I/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/lWC6aHgBN1I/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/lWC6aHgBN1I/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+        },
+        channelTitle: "CRAZY GREAPA",
+        liveBroadcastContent: "none",
+        publishTime: "2023-04-10T11:36:30Z",
+      },
+    },
+    {
+      kind: "youtube#searchResult",
+      id: {
+        kind: "youtube#video",
+        videoId: "cwub1m1pg0c",
+      },
+      snippet: {
+        publishedAt: "2019-11-24T18:00:11Z",
+        channelId: "UCEdup_b9FtkXtYyYFpG1fUQ",
+        title: "Tones and I - Dance Monkey - Choreography by Liana Blackburn",
+        description:
+          "Tones and I - Dance Monkey - Choreography by Liana Blackburn Filmed by Jaimar Viray at #TMillyTV Take class at our studio in ...",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/cwub1m1pg0c/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/cwub1m1pg0c/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/cwub1m1pg0c/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+        },
+        channelTitle: "T.Milly TV",
+        liveBroadcastContent: "none",
+        publishTime: "2019-11-24T18:00:11Z",
+      },
+    },
+    {
+      kind: "youtube#searchResult",
+      id: {
+        kind: "youtube#video",
+        videoId: "-nQkuuJv0qU",
+      },
+      snippet: {
+        publishedAt: "2023-06-10T11:23:17Z",
+        channelId: "UC1IodN5UrqtdddZ55WLQ4cg",
+        title:
+          "Summer Music Mix 2023 | Party Club Dance 2023 | Best Remixes Of Popular Songs 2023 (DJ Silviu M)",
+        description:
+          "Music Mix 2023 | Party Club Dance 2023 | Best Remixes Of Popular Songs 2023 MEGAMIX (DJ Silviu M) ➡️ Join my Patreon ...",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/-nQkuuJv0qU/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/-nQkuuJv0qU/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/-nQkuuJv0qU/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+        },
+        channelTitle: "Dj Silviu M Official",
+        liveBroadcastContent: "none",
+        publishTime: "2023-06-10T11:23:17Z",
+      },
+    },
+    {
+      kind: "youtube#searchResult",
+      id: {
+        kind: "youtube#video",
+        videoId: "3hV7msgAGNY",
+      },
+      snippet: {
+        publishedAt: "2023-06-11T15:31:59Z",
+        channelId: "UC9F-Z51uX5UCGMpaO3frMkg",
+        title:
+          "deyluvkirby + eddyoetty - dance! (sped up) lyrics | i just wanna dance",
+        description:
+          "Get deyluvkirby + eddyoetty - dance! (sped up) lyrics | i just wanna dance: ...",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/3hV7msgAGNY/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/3hV7msgAGNY/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/3hV7msgAGNY/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+        },
+        channelTitle: "HyperTunes",
+        liveBroadcastContent: "none",
+        publishTime: "2023-06-11T15:31:59Z",
+      },
+    },
+    {
+      kind: "youtube#searchResult",
+      id: {
+        kind: "youtube#video",
+        videoId: "E8zMZKRdxsM",
+      },
+      snippet: {
+        publishedAt: "2023-05-14T06:04:57Z",
+        channelId: "UCkFYyMwUqU-L5_xF7MWssqg",
+        title: "TikTok Dance Challenge 2023 🧛  What Trends Do You Know ?",
+        description:
+          "These Tiktok compilations are so Good! For more tik tok compilation videos please subscribe! #tiktok #tiktokcompilation ...",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/E8zMZKRdxsM/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/E8zMZKRdxsM/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/E8zMZKRdxsM/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+        },
+        channelTitle: "TikTok Vibe ",
+        liveBroadcastContent: "none",
+        publishTime: "2023-05-14T06:04:57Z",
+      },
+    },
+    {
+      kind: "youtube#searchResult",
+      id: {
+        kind: "youtube#video",
+        videoId: "TdpTi6XEPdY",
+      },
+      snippet: {
+        publishedAt: "2019-03-05T11:20:40Z",
+        channelId: "UCPbUTEjdU04ChIZfi53jczw",
+        title:
+          "Leja Re | Easy Dance Steps | Dhvani Bhanushali | Deepak Tulsyan | G M Dance",
+        description:
+          "Leja re Tutorial : https://www.youtube.com/watch?v=5Jf-oJqzgEQ ▷ FACEBOOK: https://www.facebook.com/gmdancecentre ...",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/TdpTi6XEPdY/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/TdpTi6XEPdY/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/TdpTi6XEPdY/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+        },
+        channelTitle: "G M Dance Centre",
+        liveBroadcastContent: "none",
+        publishTime: "2019-03-05T11:20:40Z",
+      },
+    },
+    {
+      kind: "youtube#searchResult",
+      id: {
+        kind: "youtube#video",
+        videoId: "ETVFiG_eVGQ",
+      },
+      snippet: {
+        publishedAt: "2023-05-17T09:00:12Z",
+        channelId: "UC2dc4cmFH6lCTXb2hes5Pwg",
+        title:
+          "Trending Dance 💃 😳😜😜 #neetubisht #lakhneet #trending #family #comedy #funny #trandingshorts",
+        description: "",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/ETVFiG_eVGQ/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/ETVFiG_eVGQ/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/ETVFiG_eVGQ/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+        },
+        channelTitle: "Neetu Bisht Rawat",
+        liveBroadcastContent: "none",
+        publishTime: "2023-05-17T09:00:12Z",
+      },
+    },
+    {
+      kind: "youtube#searchResult",
+      id: {
+        kind: "youtube#video",
+        videoId: "FiXCxfWWwPo",
+      },
+      snippet: {
+        publishedAt: "2020-02-14T21:00:10Z",
+        channelId: "UCVT_-zaehSM-8DMO5Gj3UuQ",
+        title: "KIDZ BOP Kids - Dance Monkey (Official Music Video)",
+        description:
+          'Official music video of the KIDZ BOP Kids performing "Dance Monkey"! Check out #KIDZBOP2023Vol2 here: ...',
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/FiXCxfWWwPo/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/FiXCxfWWwPo/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/FiXCxfWWwPo/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+        },
+        channelTitle: "KIDZBOPMusicVEVO",
+        liveBroadcastContent: "none",
+        publishTime: "2020-02-14T21:00:10Z",
+      },
+    },
+    {
+      kind: "youtube#searchResult",
+      id: {
+        kind: "youtube#video",
+        videoId: "PjrAwC4TIPA",
+      },
+      snippet: {
+        publishedAt: "2022-09-18T15:00:14Z",
+        channelId: "UCOmHUn--16B90oW2L6FRR3A",
+        title: "BLACKPINK - ‘Shut Down’ DANCE PERFORMANCE VIDEO",
+        description:
+          "BLACKPINK #블랙핑크 #2ndAlbum #BORNPINK #ShutDown #DANCE_PERFORMANCE_VIDEO #YG.",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/PjrAwC4TIPA/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/PjrAwC4TIPA/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/PjrAwC4TIPA/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+        },
+        channelTitle: "BLACKPINK",
+        liveBroadcastContent: "none",
+        publishTime: "2022-09-18T15:00:14Z",
+      },
+    },
+    {
+      kind: "youtube#searchResult",
+      id: {
+        kind: "youtube#video",
+        videoId: "s2W7XQLcV4I",
+      },
+      snippet: {
+        publishedAt: "2023-05-09T10:00:40Z",
+        channelId: "UCYmtiQT13H9jNjgh9g3AGPw",
+        title:
+          "How many dances do you know? #tiktok #dance #duetchallenge #challenge",
+        description: "",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/s2W7XQLcV4I/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/s2W7XQLcV4I/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/s2W7XQLcV4I/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+        },
+        channelTitle: "tanyahereforu",
+        liveBroadcastContent: "none",
+        publishTime: "2023-05-09T10:00:40Z",
+      },
+    },
+    {
+      kind: "youtube#searchResult",
+      id: {
+        kind: "youtube#video",
+        videoId: "8aZQA2nH2jo",
+      },
+      snippet: {
+        publishedAt: "2020-08-28T10:17:15Z",
+        channelId: "UCM27B78OZR2d0Z6vRhp4rug",
+        title: "Waka Waka Shakira just dance now!",
+        description:
+          "come dance with me on just dance now! Full of fun Dance with the music and people!",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/8aZQA2nH2jo/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/8aZQA2nH2jo/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/8aZQA2nH2jo/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+        },
+        channelTitle: "T4RAGR4NG3R",
+        liveBroadcastContent: "none",
+        publishTime: "2020-08-28T10:17:15Z",
+      },
+    },
+    {
+      kind: "youtube#searchResult",
+      id: {
+        kind: "youtube#video",
+        videoId: "lECe4NA_svk",
+      },
+      snippet: {
+        publishedAt: "2023-04-08T12:15:03Z",
+        channelId: "UC6QZ_ss3i_8qLV_RczPZBkw",
+        title: "ISSEI Dance with JISOO 🌺 FLOWER CHALLENGE #JISOO_FLOWER",
+        description:
+          "BLACKPINK JISOO - '꽃(FLOWER)' Welcome to the energetic and funny ISSEI Channel!! Please subscribe if you like this videos, ...",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/lECe4NA_svk/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/lECe4NA_svk/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/lECe4NA_svk/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+        },
+        channelTitle: "ISSEI / いっせい",
+        liveBroadcastContent: "none",
+        publishTime: "2023-04-08T12:15:03Z",
+      },
+    },
+    {
+      kind: "youtube#searchResult",
+      id: {
+        kind: "youtube#video",
+        videoId: "vUZWe5kAsSM",
+      },
+      snippet: {
+        publishedAt: "2023-02-08T16:00:35Z",
+        channelId: "UCu9etC7DKzMbK1IioGgMMNw",
+        title: "TUM TUM | Viral Dance Trend",
+        description: "",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/vUZWe5kAsSM/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/vUZWe5kAsSM/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/vUZWe5kAsSM/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+        },
+        channelTitle: "Iman Esmail",
+        liveBroadcastContent: "none",
+        publishTime: "2023-02-08T16:00:35Z",
+      },
+    },
+    {
+      kind: "youtube#searchResult",
+      id: {
+        kind: "youtube#video",
+        videoId: "FT8kfPvCgd0",
+      },
+      snippet: {
+        publishedAt: "2022-08-08T13:30:12Z",
+        channelId: "UC6mp1dGFmDN96FPWPIbsqeQ",
+        title:
+          "Spider-Man Freeze Dance for Kids | Just Dance | Brain Break | GoNoodle Inspired",
+        description:
+          "It's a Spider-Man Freeze Dance! Just dance along with spiderman and all of his avenger friends while completing the mini games ...",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/FT8kfPvCgd0/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/FT8kfPvCgd0/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/FT8kfPvCgd0/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+        },
+        channelTitle: "Coach Corey Martin",
+        liveBroadcastContent: "none",
+        publishTime: "2022-08-08T13:30:12Z",
+      },
+    },
+    {
+      kind: "youtube#searchResult",
+      id: {
+        kind: "youtube#video",
+        videoId: "pZ7DmLkImoI",
+      },
+      snippet: {
+        publishedAt: "2023-05-17T10:30:15Z",
+        channelId: "UCPbUTEjdU04ChIZfi53jczw",
+        title:
+          "Kajra Re - Full Class Video | Deepak Tulsyan Choreography | G M Dance Centre",
+        description:
+          "Tutorial for this Song: https://youtu.be/oIlKGNsGA9I Our Merchandise: https://deepaktulsyan.themerchbay.com/ for Classes: ...",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/pZ7DmLkImoI/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/pZ7DmLkImoI/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/pZ7DmLkImoI/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+        },
+        channelTitle: "G M Dance Centre",
+        liveBroadcastContent: "none",
+        publishTime: "2023-05-17T10:30:15Z",
+      },
+    },
+    {
+      kind: "youtube#searchResult",
+      id: {
+        kind: "youtube#video",
+        videoId: "a1zQ1xOjZnk",
+      },
+      snippet: {
+        publishedAt: "2018-07-20T22:00:59Z",
+        channelId: "UC5-3tkqR92QINQyCrVocb1Q",
+        title: "Just Dance 2014   Timber",
+        description: "",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/a1zQ1xOjZnk/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/a1zQ1xOjZnk/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/a1zQ1xOjZnk/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+        },
+        channelTitle: "Just Dance",
+        liveBroadcastContent: "none",
+        publishTime: "2018-07-20T22:00:59Z",
+      },
+    },
+    {
+      kind: "youtube#searchResult",
+      id: {
+        kind: "youtube#video",
+        videoId: "vlQYRoQZMDY",
+      },
+      snippet: {
+        publishedAt: "2023-05-05T22:00:33Z",
+        channelId: "UCZuPSKk0XGKLugFRIiStfiA",
+        title:
+          "NEW TIKTOK VIRAL MASHUP ( Dj Redem Remix ) - Dance Fitness | Zumba",
+        description:
+          "I DON'T OWN THE SONG! No copyright infringements intended! This video is being shown for dance fitness / zumba purposes ...",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/vlQYRoQZMDY/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/vlQYRoQZMDY/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/vlQYRoQZMDY/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+        },
+        channelTitle: "Argel Dela Torre - The South Force -",
+        liveBroadcastContent: "none",
+        publishTime: "2023-05-05T22:00:33Z",
+      },
+    },
+    {
+      kind: "youtube#searchResult",
+      id: {
+        kind: "youtube#video",
+        videoId: "wXHruaXAdkE",
+      },
+      snippet: {
+        publishedAt: "2023-06-20T20:00:27Z",
+        channelId: "UCe4TiRe3lU6kGVr9S3_2SCA",
+        title:
+          "The WORST Dance Moms Accidents! (Flashback Compilation) | Part 2 | Dance Moms",
+        description:
+          "Watch the worst onstage accidents in Dance Moms history in Part 2 of this Dance Moms flashback compilation. Click here for more ...",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/wXHruaXAdkE/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/wXHruaXAdkE/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/wXHruaXAdkE/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+        },
+        channelTitle: "Dance Moms",
+        liveBroadcastContent: "none",
+        publishTime: "2023-06-20T20:00:27Z",
+      },
+    },
+    {
+      kind: "youtube#searchResult",
+      id: {
+        kind: "youtube#video",
+        videoId: "CuklIb9d3fI",
+      },
+      snippet: {
+        publishedAt: "2021-07-09T03:59:12Z",
+        channelId: "UC3IZKseVpdzPSBaWxBxundA",
+        title: "BTS (방탄소년단) &#39;Permission to Dance&#39; Official MV",
+        description:
+          "BTS (방탄소년단) 'Permission to Dance' Official MV Credits: Director: Yong Seok Choi (Lumpens) & Woogie Kim (MOTHER) ...",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/CuklIb9d3fI/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/CuklIb9d3fI/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/CuklIb9d3fI/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+        },
+        channelTitle: "HYBE LABELS",
+        liveBroadcastContent: "none",
+        publishTime: "2021-07-09T03:59:12Z",
+      },
+    },
+    {
+      kind: "youtube#searchResult",
+      id: {
+        kind: "youtube#video",
+        videoId: "nVVDipWbw_E",
+      },
+      snippet: {
+        publishedAt: "2023-05-03T12:00:40Z",
+        channelId: "UC5gxP-2QqIh_09djvlm9Xcg",
+        title:
+          "Addicted to JISOO FLOWER Dance 🌸 ft. @radhikabangiaofficialchannel",
+        description:
+          "Hey Alan Army, this is Alan Chikin Chow! Thanks for watching my video #Shorts Follow me on IG for your daily dose of Chikin ...",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/nVVDipWbw_E/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/nVVDipWbw_E/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/nVVDipWbw_E/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+        },
+        channelTitle: "Alan Chikin Chow",
+        liveBroadcastContent: "none",
+        publishTime: "2023-05-03T12:00:40Z",
+      },
+    },
+    {
+      kind: "youtube#searchResult",
+      id: {
+        kind: "youtube#video",
+        videoId: "sg0cVs1I_no",
+      },
+      snippet: {
+        publishedAt: "2020-02-01T15:41:37Z",
+        channelId: "UCvhTBODxYcVp7JfU1qX1T9g",
+        title:
+          "Maine payal hai chhankai | Nivi and Ishanvi | Mom daughter dance | Laasya dance choreography",
+        description:
+          'Simple bollywood choreography for the evergreen songs "Maine Payal hai chhankai" and "meri chunar ud ud jaaye" mixed and ...',
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/sg0cVs1I_no/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/sg0cVs1I_no/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/sg0cVs1I_no/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+        },
+        channelTitle: "Laasya",
+        liveBroadcastContent: "none",
+        publishTime: "2020-02-01T15:41:37Z",
+      },
+    },
+    {
+      kind: "youtube#searchResult",
+      id: {
+        kind: "youtube#video",
+        videoId: "BDfMPXhYaDM",
+      },
+      snippet: {
+        publishedAt: "2019-10-24T07:35:06Z",
+        channelId: "UCajlZ5OzpT5_wk4AnF9DwIg",
+        title: "Just Dance Now - 7 Rings - Ariana Grande (Just Dance 2020)",
+        description:
+          "JustDance2020 #JustDanceNow #7Rings #ArianaGrande The first attempt before the start of technical work Thanks for Watching, ...",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/BDfMPXhYaDM/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/BDfMPXhYaDM/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/BDfMPXhYaDM/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+        },
+        channelTitle: "Frank Robertson",
+        liveBroadcastContent: "none",
+        publishTime: "2019-10-24T07:35:06Z",
+      },
+    },
+    {
+      kind: "youtube#searchResult",
+      id: {
+        kind: "youtube#video",
+        videoId: "zm5bL2v876s",
+      },
+      snippet: {
+        publishedAt: "2023-04-02T22:05:38Z",
+        channelId: "UCsNBjnhHc7xW5MDFbMqRs8g",
+        title:
+          "Hit ❤️ for Real Dance #michaelmejeh #dance #youtubeshorts @caciliaofficial4619",
+        description: "",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/zm5bL2v876s/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/zm5bL2v876s/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/zm5bL2v876s/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+        },
+        channelTitle: "Michael Mejeh",
+        liveBroadcastContent: "none",
+        publishTime: "2023-04-02T22:05:38Z",
+      },
+    },
+    {
+      kind: "youtube#searchResult",
+      id: {
+        kind: "youtube#video",
+        videoId: "rulCW_EsmIc",
+      },
+      snippet: {
+        publishedAt: "2023-06-18T11:00:33Z",
+        channelId: "UCSxwcQnzA5K6DvofvBn6ATA",
+        title: "【Let’s Dance!】なにもの -永瀬廉ver.-",
+        description: "LetsDance #なにもの #Ren #KingandPrince #Shorts.",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/rulCW_EsmIc/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/rulCW_EsmIc/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/rulCW_EsmIc/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+        },
+        channelTitle: "King & Prince",
+        liveBroadcastContent: "none",
+        publishTime: "2023-06-18T11:00:33Z",
+      },
+    },
+    {
+      kind: "youtube#searchResult",
+      id: {
+        kind: "youtube#video",
+        videoId: "qALCqAcRO8o",
+      },
+      snippet: {
+        publishedAt: "2023-03-27T03:14:13Z",
+        channelId: "UClJXZR68EbNb3Ny8U-hvskA",
+        title: "My Bally dance🔥🙏",
+        description: "",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/qALCqAcRO8o/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/qALCqAcRO8o/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/qALCqAcRO8o/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+        },
+        channelTitle: "Ravi sagar88",
+        liveBroadcastContent: "none",
+        publishTime: "2023-03-27T03:14:13Z",
+      },
+    },
+    {
+      kind: "youtube#searchResult",
+      id: {
+        kind: "youtube#video",
+        videoId: "hF3xfBIINVQ",
+      },
+      snippet: {
+        publishedAt: "2021-03-23T11:30:02Z",
+        channelId: "UCpEhnqL0y41EpW2TvWAHD7Q",
+        title:
+          "&#39;Radha&#39; पर इस Contestant ने फैलाया कहर | Super Dancer | Contestant Juke Box",
+        description:
+          "Click here to Subscribe to SET India: https://www.youtube.com/channel/UCpEhnqL0y41EpW2TvWAHD7Q?sub_confirmation=1 ...",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/hF3xfBIINVQ/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/hF3xfBIINVQ/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/hF3xfBIINVQ/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+        },
+        channelTitle: "SET India",
+        liveBroadcastContent: "none",
+        publishTime: "2021-03-23T11:30:02Z",
+      },
+    },
+    {
+      kind: "youtube#searchResult",
+      id: {
+        kind: "youtube#video",
+        videoId: "mZ-FKcyJIQo",
+      },
+      snippet: {
+        publishedAt: "2014-01-11T14:37:36Z",
+        channelId: "UCFQdwnVf66D3Abx6DxXN8UA",
+        title: "Predrag Zivkovic Tozovac - Dance - (Audio 2013) HD",
+        description:
+          "Uključi da dobijaš obaveštenja za sve nove pesme! Facebook: https://www.facebook.com/GrandProduction Predrag Zivkovic ...",
+        thumbnails: {
+          default: {
+            url: "https://i.ytimg.com/vi/mZ-FKcyJIQo/default.jpg",
+            width: 120,
+            height: 90,
+          },
+          medium: {
+            url: "https://i.ytimg.com/vi/mZ-FKcyJIQo/mqdefault.jpg",
+            width: 320,
+            height: 180,
+          },
+          high: {
+            url: "https://i.ytimg.com/vi/mZ-FKcyJIQo/hqdefault.jpg",
+            width: 480,
+            height: 360,
+          },
+        },
+        channelTitle: "Grand Production",
+        liveBroadcastContent: "none",
+        publishTime: "2014-01-11T14:37:36Z",
+      },
+    },
+  ],
+};

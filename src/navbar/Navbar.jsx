@@ -6,7 +6,9 @@ import { RiVideoAddLine } from "react-icons/ri";
 import "./navbar.css";
 import SearchBar from "../searchbar/Searchbar";
 import { BsBell } from "react-icons/bs";
-function MyNavbar() {
+import React from "react";
+
+const MyNavbar = () => {
   return (
     <>
       <Navbar data-bs-theme="dark" variant="light" className="pb-3 dark-nav">
@@ -16,8 +18,12 @@ function MyNavbar() {
             className="brand-name me-4"
             size={"20px"}
           />
-          <img src="./youtubeLogo.svg" className="youtube-logo"></img>
-          <Navbar.Brand href="#home" className="brand-name ms-1">
+          <img
+            src="/assets/images/youtubeLogo.svg"
+            className="youtube-logo"
+            alt="youtube logo"
+          ></img>
+          <Navbar.Brand href="/home" className="brand-name ms-1">
             YouTube
           </Navbar.Brand>
           <Nav className="mx-auto">
@@ -36,6 +42,6 @@ function MyNavbar() {
       </Navbar>
     </>
   );
-}
+};
 
 export default MyNavbar;

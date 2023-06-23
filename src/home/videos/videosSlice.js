@@ -1,20 +1,6 @@
 import { createAsyncThunk, createSlice } from "@reduxjs/toolkit";
 import { ACTION_STATUS } from "../../shared/constants/status.constants";
-import axios from "axios";
-import {
-  FASHION_BEAUTY_VIDEOS_DATA,
-  GAMING_VIDEOS_DATA,
-  LEARNING_VIDEOS_DATA,
-  LIVE_VIDEOS_DATA,
-  MOVIES_VIDEOS_DATA,
-  MUSIC_VIDEOS_DATA,
-  NEWS_VIDEOS_DATA,
-  NEW_VIDEOS_DATA,
-  SHOPPING_VIDEOS_DATA,
-  SHORTS_VIDEOS_DATA,
-  SPORTS_VIDEOS_DATA,
-  TRENDING_VIDEOS_DATA,
-} from "../../shared/mock/videos.mock";
+import { VideosService } from "../../shared/services/videos.service";
 
 const initialState = {
   fetchVideosStatus: ACTION_STATUS.IDLE,
@@ -25,49 +11,8 @@ const initialState = {
 export const fetchVideos = createAsyncThunk(
   "videos/fetchAll",
   async (category) => {
-    console.log(category);
-    const BASE_URL = "https://youtube-v31.p.rapidapi.com";
-    const options = {
-      params: {
-        maxResults: "50",
-      },
-      headers: {
-        "X-RapidAPI-Key": process.env.REACT_APP_RAPID_API_KEY,
-        "X-RapidAPI-Host": "youtube-v31.p.rapidapi.com",
-      },
-    };
-
-    // Mock Data due to limited API calls.
-    const mockData = {
-      Trending: TRENDING_VIDEOS_DATA,
-      New: NEW_VIDEOS_DATA,
-      Shorts: SHORTS_VIDEOS_DATA,
-      Shopping: SHOPPING_VIDEOS_DATA,
-      Music: MUSIC_VIDEOS_DATA,
-      Movies: MOVIES_VIDEOS_DATA,
-      Live: LIVE_VIDEOS_DATA,
-      Gaming: GAMING_VIDEOS_DATA,
-      News: NEWS_VIDEOS_DATA,
-      Sport: SPORTS_VIDEOS_DATA,
-      Learning: LEARNING_VIDEOS_DATA,
-      "Fashion & Beauty": FASHION_BEAUTY_VIDEOS_DATA,
-    };
-    if (category in mockData) {
-      return mockData[category];
-    } else {
-      const response = await axios.get(
-        `${BASE_URL}/search?part=snippet&q=${category}`,
-        options
-      );
-      return response.data;
-    }
-
-    // Actual API call
-    // const response = await axios.get(
-    //   `${BASE_URL}/search?part=snippet&q=${category}`,
-    //   options
-    // );
-    // return response.data;
+    const videos = await VideosService.fetchByCategory(category);
+    return videos;
   }
 );
 

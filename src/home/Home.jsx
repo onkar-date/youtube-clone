@@ -1,6 +1,6 @@
-import MainContent from "./main-content/MainContent";
 import Sidebar from "./sidebar/Sidebar";
 import "./home.css";
+import { Outlet } from "react-router-dom";
 export default function Home() {
   return (
     <>
@@ -9,7 +9,7 @@ export default function Home() {
           <Sidebar></Sidebar>
         </div>
         <div className="main-content-section">
-          <MainContent></MainContent>
+          <Outlet />
         </div>
       </div>
     </>
