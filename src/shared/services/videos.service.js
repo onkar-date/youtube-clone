@@ -50,6 +50,7 @@ const mockData = {
 };
 
 const BASE_URL = process.env.REACT_APP_BASE_URL;
+console.log(BASE_URL);
 
 export const VideosService = {
   fetchByCategory: async (category) => {
@@ -63,7 +64,7 @@ export const VideosService = {
       return mockData[category];
     } else {
       const response = await axios.get(
-        `${BASE_URL}/search?part=snippet&q=${category}`,
+        `${BASE_URL}/youtube/search?part=snippet&q=${category}`,
         options
       );
       return response.data;
@@ -80,7 +81,7 @@ export const VideosService = {
     if (videoId in mockData) {
       return mockData[videoId];
     }
-    const response = await axios.get(`${BASE_URL}/videos`, options);
+    const response = await axios.get(`${BASE_URL}/youtube/videos`, options);
     return response.data;
   },
 
@@ -94,7 +95,7 @@ export const VideosService = {
     if (channelId in mockData) {
       return mockData[channelId];
     }
-    const response = await axios.get(`${BASE_URL}/channels`, options);
+    const response = await axios.get(`${BASE_URL}/youtube/channels`, options);
     return response.data;
   },
 
@@ -109,7 +110,7 @@ export const VideosService = {
     if (`related_${relatedVideoId}` in mockData) {
       return mockData[`related_${relatedVideoId}`];
     }
-    const response = await axios.get(`${BASE_URL}/search`, options);
+    const response = await axios.get(`${BASE_URL}/youtube/search`, options);
     return response.data;
   },
 };

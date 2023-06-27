@@ -8,6 +8,7 @@ import {
   selectVideos,
 } from "./videosSlice";
 import { ACTION_STATUS } from "../../shared/constants/status.constants";
+import HomePageVideosPlaceholder from "../../shared/components/HomePageVideosPlaceholder";
 export const Videos = () => {
   const dispatch = useDispatch();
   const videos = useSelector(selectVideos);
@@ -22,18 +23,30 @@ export const Videos = () => {
   }, [dispatch, fetchVideosStatus, selectedCategory]);
 
   return (
-    <div className="mt-4">
-      <Container fluid>
-        <Row>
-          {videos.map((video, idx) => {
-            return (
-              <Col key={idx} lg={3} md={4} sm={6} xs={12}>
-                <VideoCard forHomePage={true} video={video} />
-              </Col>
-            );
-          })}
-        </Row>
-      </Container>
-    </div>
+    <>
+      <div className="mt-4">
+        <Container fluid>
+          <Row>
+            {videos.length > 0
+              ? videos
+                  .filter((_) => _.id.videoId)
+                  .map((video, idx) => {
+                    return (
+                      <Col key={idx} lg={3} md={4} sm={6} xs={12}>
+                        <VideoCard forHomePage={true} video={video} />
+                      </Col>
+                    );
+                  })
+              : Array.from({ length: 20 }).map((placeholder, i) => {
+                  return (
+                    <Col key={i} lg={3} md={4} sm={6} xs={12}>
+                      {videos.length === 0 && <HomePageVideosPlaceholder />}
+                    </Col>
+                  );
+                })}
+          </Row>
+        </Container>
+      </div>
+    </>
   );
 };

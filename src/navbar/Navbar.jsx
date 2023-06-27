@@ -7,8 +7,13 @@ import "./navbar.css";
 import SearchBar from "../searchbar/Searchbar";
 import { BsBell } from "react-icons/bs";
 import React from "react";
+import { useNavigate } from "react-router-dom";
 
 const MyNavbar = () => {
+  const navigate = useNavigate();
+  const goToHome = () => {
+    navigate("/home");
+  };
   return (
     <>
       <Navbar data-bs-theme="dark" variant="light" className="pb-3 dark-nav">
@@ -19,11 +24,15 @@ const MyNavbar = () => {
             size={"20px"}
           />
           <img
-            src="/assets/images/youtubeLogo.svg"
+            src={process.env.PUBLIC_URL + "/youtubeLogo.svg"}
             className="youtube-logo"
             alt="youtube logo"
           ></img>
-          <Navbar.Brand href="/home" className="brand-name ms-1">
+          <Navbar.Brand
+            onClick={goToHome}
+            className="brand-name ms-1"
+            role="button"
+          >
             YouTube
           </Navbar.Brand>
           <Nav className="mx-auto">

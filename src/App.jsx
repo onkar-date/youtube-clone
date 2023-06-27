@@ -1,14 +1,20 @@
 import "./App.css";
 import Home from "./home/Home";
 import MyNavbar from "./navbar/Navbar";
-import { BrowserRouter, Navigate, Route, Routes } from "react-router-dom";
+import {
+  BrowserRouter,
+  HashRouter,
+  Navigate,
+  Route,
+  Routes,
+} from "react-router-dom";
 import VideoDetails from "./videoDetails/VideoDetails";
 import MainContent from "./home/main-content/MainContent";
 import SearchResult from "./home/searchResult/SearchResult";
 function App() {
   return (
     <>
-      <BrowserRouter>
+      <HashRouter>
         <MyNavbar />
         <div className="appWrapper">
           <Routes>
@@ -24,7 +30,7 @@ function App() {
             <Route path="*" element={<Navigate to="/home/all" replace />} />
           </Routes>
         </div>
-      </BrowserRouter>
+      </HashRouter>
     </>
   );
 }

@@ -7,6 +7,8 @@ import useAbbrevation from "../shared/hooks/useAbbrevation";
 import useTimePassed from "../shared/hooks/useTimePassed";
 import ReactPlayer from "react-player";
 import { VideoCard } from "../home/videoCard/VideoCard";
+import WatchVideoPlaceholder from "../shared/components/WatchVideoPlaceholder";
+import RelatedVideosPlaceholder from "../shared/components/RelatedVideosPlaceholder";
 const VideoDetails = () => {
   const { id } = useParams();
   const [videoData, setVideoData] = useState(null);
@@ -19,6 +21,7 @@ const VideoDetails = () => {
   useEffect(() => {
     if (id) {
       const GetVideoData = async () => {
+        setRelatedVideosData([]);
         let data = await VideosService.getVideoDetails(id);
         setVideoData(data.items[0]);
         data = await VideosService.getRelatedVideos(id);
@@ -66,7 +69,7 @@ const VideoDetails = () => {
     <div>
       <Container fluid className="p-3">
         <Row>
-          {videoData && (
+          {videoData ? (
             <Col lg={9} sm={12}>
               <div className="video-section">
                 <ReactPlayer
@@ -142,18 +145,25 @@ const VideoDetails = () => {
                 </>
               )}
             </Col>
+          ) : (
+            <Col lg={9} sm={12}>
+              <WatchVideoPlaceholder />
+            </Col>
           )}
           <Col lg={3} sm={12}>
-            {relatedVideoData.length &&
-              relatedVideoData.map((video) => {
-                return (
-                  <VideoCard
-                    video={video}
-                    forWatchPage={true}
-                    key={video.id.videoId}
-                  />
-                );
-              })}
+            {relatedVideoData.length
+              ? relatedVideoData.map((video) => {
+                  return (
+                    <VideoCard
+                      video={video}
+                      forWatchPage={true}
+                      key={video.id.videoId}
+                    />
+                  );
+                })
+              : Array.from({ length: 15 }).map((_, i) => {
+                  return <RelatedVideosPlaceholder key={i} />;
+                })}
           </Col>
         </Row>
       </Container>

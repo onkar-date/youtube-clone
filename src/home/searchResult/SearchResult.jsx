@@ -6,6 +6,7 @@ import { VideoCard } from "../videoCard/VideoCard";
 import { GiSettingsKnobs } from "react-icons/gi";
 import "./searchResult.css";
 import { FILTER_OPTIONS } from "../../shared/constants/filterOptions.constants";
+import SearchResultPlaceholder from "../../shared/components/SearchResultPlaceholder";
 const SearchResult = () => {
   const [searchParams] = useSearchParams();
   const [searchResult, setSearchResult] = useState([]);
@@ -13,6 +14,7 @@ const SearchResult = () => {
   const filterOptions = FILTER_OPTIONS;
   useEffect(() => {
     if (searchParams.get("q")) {
+      setSearchResult([]);
       const fetchSearchResults = async () => {
         const data = await VideosService.fetchByCategory(searchParams.get("q"));
         setSearchResult(data.items);
@@ -64,17 +66,27 @@ const SearchResult = () => {
           </Col>
         </Row>
         <Row>
-          <Col>
-            {searchResult.map((video) => {
+          {searchResult.length ? (
+            <Col>
+              {searchResult.map((video) => {
+                return (
+                  <VideoCard
+                    key={video.id.videoId}
+                    video={video}
+                    forSearchPage={true}
+                  />
+                );
+              })}
+            </Col>
+          ) : (
+            Array.from({ length: 10 }).map((_, i) => {
               return (
-                <VideoCard
-                  key={video.id.videoId}
-                  video={video}
-                  forSearchPage={true}
-                />
+                <Col key={i} xs={12}>
+                  <SearchResultPlaceholder />
+                </Col>
               );
-            })}
-          </Col>
+            })
+          )}
         </Row>
       </Container>
     </>
