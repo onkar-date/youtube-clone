@@ -49,11 +49,7 @@ const mockData = {
   dance: SEARCH_RESULT_DANCE,
 };
 
-const BASE_URL = "https://youtube-v31.p.rapidapi.com";
-const headers = {
-  "X-RapidAPI-Key": process.env.REACT_APP_RAPID_API_KEY,
-  "X-RapidAPI-Host": "youtube-v31.p.rapidapi.com",
-};
+const BASE_URL = process.env.REACT_APP_BASE_URL;
 
 export const VideosService = {
   fetchByCategory: async (category) => {
@@ -61,8 +57,7 @@ export const VideosService = {
       params: {
         maxResults: "50",
         region: "IN",
-      },
-      headers,
+      }
     };
     if (category in mockData) {
       return mockData[category];
@@ -81,7 +76,6 @@ export const VideosService = {
         part: "contentDetails,snippet,statistics",
         id: videoId,
       },
-      headers,
     };
     if (videoId in mockData) {
       return mockData[videoId];
@@ -96,7 +90,6 @@ export const VideosService = {
         part: "snippet,statistics",
         id: channelId,
       },
-      headers,
     };
     if (channelId in mockData) {
       return mockData[channelId];
@@ -112,7 +105,6 @@ export const VideosService = {
         relatedVideoId,
         type: "video",
       },
-      headers,
     };
     if (`related_${relatedVideoId}` in mockData) {
       return mockData[`related_${relatedVideoId}`];
