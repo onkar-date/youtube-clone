@@ -9,6 +9,7 @@ import ReactPlayer from "react-player";
 import { VideoCard } from "../home/videoCard/VideoCard";
 import WatchVideoPlaceholder from "../shared/components/WatchVideoPlaceholder";
 import RelatedVideosPlaceholder from "../shared/components/RelatedVideosPlaceholder";
+import VideoComments from "../videoComments/VideoComments";
 const VideoDetails = () => {
   const { id } = useParams();
   const [videoData, setVideoData] = useState(null);
@@ -67,7 +68,7 @@ const VideoDetails = () => {
 
   return (
     <div>
-      <Container fluid className="p-3">
+      <Container fluid className="video-details-wrapper">
         <Row>
           {videoData ? (
             <Col lg={9} sm={12}>
@@ -75,7 +76,7 @@ const VideoDetails = () => {
                 <ReactPlayer
                   className="react-player"
                   controls
-                  playing={true}
+                  playing={false}
                   width={"100%"}
                   height={"600px"}
                   url={`https://www.youtube.com/watch?v=${id}`}
@@ -86,6 +87,7 @@ const VideoDetails = () => {
                 <h5>{videoData.snippet.title}</h5>
               </div>
 
+              {/* Video Details */}
               {channelData && (
                 <>
                   <div className="d-flex">
@@ -144,6 +146,11 @@ const VideoDetails = () => {
                   </div>
                 </>
               )}
+
+              {/* Comments */}
+              <div>
+                <VideoComments videoId={id} />
+              </div>
             </Col>
           ) : (
             <Col lg={9} sm={12}>
