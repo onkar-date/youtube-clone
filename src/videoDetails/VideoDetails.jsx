@@ -76,7 +76,7 @@ const VideoDetails = () => {
                 <ReactPlayer
                   className="react-player"
                   controls
-                  playing={false}
+                  playing={true}
                   width={"100%"}
                   height={"600px"}
                   url={`https://www.youtube.com/watch?v=${id}`}
